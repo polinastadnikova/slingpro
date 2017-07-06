@@ -1,0 +1,116 @@
+# sent_id = 1
+# parse = (ROOT (FRAG (NP (NP (NN Yes_UH)) (, ,) (NP (NN _)) (, ,) (NP (NN the_AT) (NN deceased_JJ)) (, ,) (NP (NN _)) (, ,) (NP (NN and_CC) (NN three_MC) (NN or_CC) (NN four_MC) (NN more_RRR) (NN followed_VVD) (NNP Mr.) (NNP _) (NNP NNB) (NN Bamber_NP1))) (: ;) (NP (NP (CD _)) (: ;) (NP (NN but_CCB) (NN they_PPHS2) (NN took_VVD) (NN no_AT) (NN notice_NN1) (NN at_II) (NN all_DB) (NN of_IO) (NN any_DD) (NN body_NN1))) (. .)))
+# sent_len = 33
+# text = Yes_UH ,_, the_AT deceased_JJ ,_, and_CC three_MC or_CC four_MC more_RRR followed_VVD Mr._NNB Bamber_NP1 ;_; but_CCB they_PPHS2 took_VVD no_AT notice_NN1 at_II all_DB of_IO any_DD body_NN1 .
+1	Yes_UH	yes_uh	_	NN	_	0	ROOT	_	_
+2	,	,	_	,	_	1	punct	_	SpaceAfter=No
+3	_	_	_	NN	_	1	appos	_	SpaceAfter=No
+4	,	,	_	,	_	1	punct	_	_
+5	the_AT	the_at	_	NN	_	6	compound	_	_
+6	deceased_JJ	deceased_jj	_	NN	_	1	appos	_	_
+7	,	,	_	,	_	1	punct	_	SpaceAfter=No
+8	_	_	_	NN	_	1	appos	_	SpaceAfter=No
+9	,	,	_	,	_	1	punct	_	_
+10	and_CC	and_cc	_	NN	_	19	compound	_	_
+11	three_MC	three_mc	_	NN	_	19	compound	_	_
+12	or_CC	or_cc	_	NN	_	19	compound	_	_
+13	four_MC	four_mc	_	NN	_	19	compound	_	_
+14	more_RRR	more_rrr	_	NN	_	19	compound	_	_
+15	followed_VVD	followed_vvd	_	NN	_	19	compound	_	_
+16	Mr.	Mr.	_	NNP	_	19	compound	_	SpaceAfter=No
+17	_	_	_	NNP	_	19	compound	_	SpaceAfter=No
+18	NNB	NNB	_	NNP	_	19	compound	_	_
+19	Bamber_NP1	bamber_np1	_	NN	_	1	appos	_	_
+20	;	;	_	:	_	1	punct	_	SpaceAfter=No
+21	_	_	_	CD	_	1	dep	_	SpaceAfter=No
+22	;	;	_	:	_	21	punct	_	_
+23	but_CCB	but_ccb	_	NN	_	32	compound	_	_
+24	they_PPHS2	they_pphs2	_	NN	_	32	compound	_	_
+25	took_VVD	took_vvd	_	NN	_	32	compound	_	_
+26	no_AT	no_at	_	NN	_	32	compound	_	_
+27	notice_NN1	notice_nn1	_	NN	_	32	compound	_	_
+28	at_II	at_ii	_	NN	_	32	compound	_	_
+29	all_DB	all_db	_	NN	_	32	compound	_	_
+30	of_IO	of_io	_	NN	_	32	compound	_	_
+31	any_DD	any_dd	_	NN	_	32	compound	_	_
+32	body_NN1	body_nn1	_	NN	_	21	dep	_	_
+33	.	.	_	.	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# parse = (ROOT (NP (NN _) (. .)))
+# sent_len = 2
+# text = _.
+1	_	_	_	NN	_	0	ROOT	_	SpaceAfter=No
+2	.	.	_	.	_	1	punct	_	_
+
+# sent_id = 3
+# parse = (ROOT (NP (NP (NN After_CS) (NN I_PPIS1) (NN had_VHD) (NN rang_VVN) (NN the_AT) (NN bell_NN1)) (, ,) (NP (NN _)) (, ,) (NP (NN the_AT) (NN officers_NN2) (NN seemed_VVD) (NN to_TO) (NN be_VBI) (NN all_RR) (NN in_II) (NN great_JJ) (NN motion_NN1)) (, ,) (NP (NN _) (, ,) (NN and_CC) (NN particularly_RR) (NN Ratsey_NP1) (, ,) (NN _) (, ,) (NN they_PPHS2) (NN were_VBDR) (NN all_DB) (NN in_II) (NN confusion_NN1) (, ,) (NN _) (, ,) (NN Ratsey_NP1) (NN still_RR) (NN kept_VVN) (NN threatning_VVG) (NN us_PPIO2)) (. .)))
+# sent_len = 41
+# text = After_CS I_PPIS1 had_VHD rang_VVN the_AT bell_NN1 ,_, the_AT officers_NN2 seemed_VVD to_TO be_VBI all_RR in_II great_JJ motion_NN1 ,_, and_CC particularly_RR Ratsey_NP1 ,_, they_PPHS2 were_VBDR all_DB in_II confusion_NN1 ,_, Ratsey_NP1 still_RR kept_VVN threatning_VVG us_PPIO2 .
+1	After_CS	after_cs	_	NN	_	6	compound	_	_
+2	I_PPIS1	i_ppis1	_	NN	_	6	compound	_	_
+3	had_VHD	had_vhd	_	NN	_	6	compound	_	_
+4	rang_VVN	rang_vvn	_	NN	_	6	compound	_	_
+5	the_AT	the_at	_	NN	_	6	compound	_	_
+6	bell_NN1	bell_nn1	_	NN	_	0	ROOT	_	_
+7	,	,	_	,	_	6	punct	_	SpaceAfter=No
+8	_	_	_	NN	_	6	appos	_	SpaceAfter=No
+9	,	,	_	,	_	6	punct	_	_
+10	the_AT	the_at	_	NN	_	18	compound	_	_
+11	officers_NN2	officers_nn2	_	NN	_	18	compound	_	_
+12	seemed_VVD	seemed_vvd	_	NN	_	18	compound	_	_
+13	to_TO	to_to	_	NN	_	18	compound	_	_
+14	be_VBI	be_vbi	_	NN	_	18	compound	_	_
+15	all_RR	all_rr	_	NN	_	18	compound	_	_
+16	in_II	in_ii	_	NN	_	18	compound	_	_
+17	great_JJ	great_jj	_	NN	_	18	compound	_	_
+18	motion_NN1	motion_nn1	_	NN	_	6	appos	_	_
+19	,	,	_	,	_	6	punct	_	SpaceAfter=No
+20	_	_	_	NN	_	40	compound	_	SpaceAfter=No
+21	,	,	_	,	_	40	punct	_	_
+22	and_CC	and_cc	_	NN	_	40	dep	_	_
+23	particularly_RR	particularly_rr	_	NN	_	40	compound	_	_
+24	Ratsey_NP1	ratsey_np1	_	NN	_	40	compound	_	_
+25	,	,	_	,	_	40	punct	_	SpaceAfter=No
+26	_	_	_	NN	_	40	dep	_	SpaceAfter=No
+27	,	,	_	,	_	40	punct	_	_
+28	they_PPHS2	they_pphs2	_	NN	_	40	dep	_	_
+29	were_VBDR	were_vbdr	_	NN	_	40	compound	_	_
+30	all_DB	all_db	_	NN	_	40	compound	_	_
+31	in_II	in_ii	_	NN	_	40	compound	_	_
+32	confusion_NN1	confusion_nn1	_	NN	_	40	compound	_	_
+33	,	,	_	,	_	40	punct	_	SpaceAfter=No
+34	_	_	_	NN	_	40	dep	_	SpaceAfter=No
+35	,	,	_	,	_	40	punct	_	_
+36	Ratsey_NP1	ratsey_np1	_	NN	_	40	dep	_	_
+37	still_RR	still_rr	_	NN	_	40	compound	_	_
+38	kept_VVN	kept_vvn	_	NN	_	40	compound	_	_
+39	threatning_VVG	threatning_vvg	_	NN	_	40	compound	_	_
+40	us_PPIO2	us_ppio2	_	NN	_	6	appos	_	_
+41	.	.	_	.	_	6	punct	_	SpaceAfter=No
+
+# sent_id = 4
+# parse = (ROOT (NP (NN _) (. .)))
+# sent_len = 2
+# text = _.
+1	_	_	_	NN	_	0	ROOT	_	SpaceAfter=No
+2	.	.	_	.	_	1	punct	_	_
+
+# sent_id = 5
+# parse = (ROOT (NP (NP (JJR <) (NNS s)) (NP (NP (DT no) (JJ =) ('' '') (NN _)) (NP (CD ???)))))
+# sent_len = 7
+# text = <s no="_???
+1	<	<	_	JJR	_	2	amod	_	SpaceAfter=No
+2	s	s	_	NNS	_	0	ROOT	_	_
+3	no	no	_	DT	_	6	neg	_	SpaceAfter=No
+4	=	=	_	JJ	_	6	amod	_	SpaceAfter=No
+5	''	''	_	''	_	6	punct	_	SpaceAfter=No
+6	_	_	_	NN	_	2	dep	_	SpaceAfter=No
+7	???	???	_	CD	_	6	dep	_	_
+
+# sent_id = 6
+# parse = (ROOT (NP (NN <metadata id="220728" type="UTTERANCE" id_orig="OBC217611021" age="__UNDEF__" role="Witness" scribe="Thomas_Gurney" sex="m" year="1761" decade="1760" period="1750" editor="" event="17611021_1059" n="1059" printer="J__Scott" publisher="J__Scott_" speaker="17611021_0211" trial="t17611021_30" class="" wc="49" p2="1720_1816" p3="1720_1784" p4="1720_1768" p5="1759_1797" hisclass="" hiscocode="" hiscolabel="" ntrial="33" p6="1753_1785" hisco_status="" created="" url="" corpus="">)))
+# sent_len = 1
+# text = <metadata id="220728" type="UTTERANCE" id_orig="OBC217611021" age="__UNDEF__" role="Witness" scribe="Thomas_Gurney" sex="m" year="1761" decade="1760" period="1750" editor="" event="17611021_1059" n="1059" printer="J__Scott" publisher="J__Scott_" speaker="17611021_0211" trial="t17611021_30" class="" wc="49" p2="1720_1816" p3="1720_1784" p4="1720_1768" p5="1759_1797" hisclass="" hiscocode="" hiscolabel="" ntrial="33" p6="1753_1785" hisco_status="" created="" url="" corpus="">
+1	<metadata id="220728" type="UTTERANCE" id_orig="OBC217611021" age="__UNDEF__" role="Witness" scribe="Thomas_Gurney" sex="m" year="1761" decade="1760" period="1750" editor="" event="17611021_1059" n="1059" printer="J__Scott" publisher="J__Scott_" speaker="17611021_0211" trial="t17611021_30" class="" wc="49" p2="1720_1816" p3="1720_1784" p4="1720_1768" p5="1759_1797" hisclass="" hiscocode="" hiscolabel="" ntrial="33" p6="1753_1785" hisco_status="" created="" url="" corpus="">	<metadata id="220728" type="utterance" id_orig="obc217611021" age="__undef__" role="witness" scribe="thomas_gurney" sex="m" year="1761" decade="1760" period="1750" editor="" event="17611021_1059" n="1059" printer="j__scott" publisher="j__scott_" speaker="17611021_0211" trial="t17611021_30" class="" wc="49" p2="1720_1816" p3="1720_1784" p4="1720_1768" p5="1759_1797" hisclass="" hiscocode="" hiscolabel="" ntrial="33" p6="1753_1785" hisco_status="" created="" url="" corpus="">	_	NN	_	0	ROOT	_	SpaceAfter=No
+
