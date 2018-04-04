@@ -1,0 +1,2314 @@
+**************
+Sentence: 1
+(ROOT (SBARQ (WHADVP (WRB How) (RB far)) (SQ (VBD did) (NP (PRP you)) (VP (VB live) (PRT (RP off)))) (. ?)))
+
+
+NPs: 
+(NP (PRP you))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 2
+(ROOT (FRAG (PP (IN About) (NP (DT a) (NN yard))) (. .)))
+
+
+NPs: 
+(NP (DT a) (NN yard))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 3
+(ROOT (SQ (VBD Did) (NP (PRP you)) (VP (ADVP (JJ first)) (VB tell) (S (NP (PRP it)) (NP (PRP him))) (PP (IN in) (NP (NN bed)))) (. ?)))
+
+
+NPs: 
+(NP (PRP you))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP it))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP him))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NN bed))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 4, overall number of NPs: 4
+
+**************
+Sentence: 4
+(ROOT (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know))) (. .)))
+
+
+NPs: 
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 5
+(ROOT (SBARQ (SBAR (IN After) (S (NP (PRP you)) (VP (VBD had) (VP (VBN shewn) (S (NP (PRP$ her)) (NP (DT the) (NN ring))))))) (, ,) (SQ (VBD did) (NP (PRP you)) (VP (VBD put) (NP (PRP it)) (PP (IN into) (NP (DT the) (NN drawer))))) (. ?)))
+
+
+NPs: 
+(NP (PRP you))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP$ her))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT the) (NN ring))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (PRP you))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP it))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT the) (NN drawer))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 6, overall number of NPs: 6
+
+**************
+Sentence: 6
+(ROOT (S (NP (PRP He)) (VP (VBD did)) (. .)))
+
+
+NPs: 
+(NP (PRP He))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 7
+(ROOT (SBARQ (WHNP (WRB How)) (SQ (VP (VBD came) (NP (PRP you)) (S (RB not) (VP (TO to) (VP (VB tell) (NP (PRP$ your) (NN mother)) (ADVP (ADVP (RB as) (RB soon)) (SBAR (IN as) (S (NP (PRP he)) (VP (VBD had) (VP (VBN done) (SBAR (IN so) (FRAG (NP (DT the) (JJ first) (NN time)))))))))))))) (. ?)))
+
+
+NPs: 
+(NP (PRP you))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP$ your) (NN mother))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (PRP he))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT the) (JJ first) (NN time))
+depth: 3 ,length: 3
+number of NPs: 0
+
+Number of big NPs: 4, overall number of NPs: 4
+
+**************
+Sentence: 8
+(ROOT (S (S (NP (DT That) (NNP Corn)) (VP (VBD related) (NP (DT the) (NNS words)) (, ,) (SBAR (SBAR (IN that) (S (NP (PRP he)) (VP (VBD sold) (NP (NP (CD one) (NN pair)) (PP (IN of) (NP (NNS buckles))))))) (: ;) (SBAR (IN that) (S (NP (PRP they)) (VP (VBD stamped) (NP (CD three) (NN pair))))) (: ;) (SBAR (IN that) (S (NP (PRP he)) (VP (VBD held) (NP (PRP them)) (SBAR (IN while) (S (NP (NNP Hurst)) (VP (VBD stamped) (NP (PRP them))))))))))) (: ;) (S (CC but) (SBAR (WHNP (WP what)) (S (NP (NNP Corn)) (VP (VBD said) (PP (TO to) (NP (PRP me))) (PP (IN in) (NP (NN prison)))))) (VP (VP (VBD was)) (, ,) (SBAR (IN that) (S (NP (NNP Hurst)) (VP (VBD was) (ADJP (JJ innocent) (PP (IN of) (NP (PRP it))))))))) (. .)))
+
+
+NPs: 
+(NP (DT That) (NNP Corn))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (DT the) (NNS words))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (PRP he))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NP (CD one) (NN pair)) (PP (IN of) (NP (NNS buckles))))
+depth: 5 ,length: 4
+number of NPs: 2
+
+(NP (PRP they))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (CD three) (NN pair))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (PRP he))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP them))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NNP Hurst))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP them))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NNP Corn))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP me))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NN prison))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NNP Hurst))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP it))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 15, overall number of NPs: 17
+
+**************
+Sentence: 9
+(ROOT (S (S (NP (PRP I)) (VP (VBD received) (NP (NP (NP (NP (NNP Mr.) (NNP Taylor) (POS 's)) (NN coat)) (PP (IN from) (NP (PRP$ his) (NN porter)))) (: ;) (S (S (NP (PRP it)) (VP (VBD was) (VP (VBN put) (PP (IN into) (NP (NP (PRP$ my) (NN cart)) (PP (IN in) (NP (DT an) (NN inn) (NN yard))))) (PP (IN by) (NP (DT the) (NN porter)))))) (: ;) (S (NP (PRP I)) (VP (VBD was) (ADJP (JJ present)) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD put) (NP (PRP it)) (PP (IN in))))))) (: ;) (S (SBAR (IN as) (S (NP (PRP I)) (VP (VBD was) (VP (VBG sitting) (PP (IN in) (NP (DT the) (NN window))))))) (, ,) (NP (PRP I)) (VP (VBD saw) (S (NP (DT the) (NN prisoner)) (VP (VB go) (PRT (IN out)) (PP (IN of) (NP (NP (DT the) (NN yard)) (PP (IN with) (NP (NN something))))) (PP (IN under) (NP (PRP$ his) (NN frock))))))) (: ;) (S (NP (PRP I)) (VP (VBD followed) (NP (PRP him)))) (: ;) (S (NP (PRP I)) (VP (VP (VBD laid) (NP (NP (NN hold)) (PP (IN of) (NP (PRP him))))) (, ,) (CC and) (VP (VBD asked) (NP (PRP him)) (SBAR (WHNP (WP what)) (S (NP (PRP he)) (VP (VBD had) (VP (VBN got) (PP (IN under) (NP (PRP$ his) (NN frock)))))))))) (: ;) (CC and) (S (NP (PRP I)) (VP (VBD took) (NP (NP (NNP Mr.) (NNP Taylor) (POS 's)) (NN coat)) (PP (IN from) (NP (PRP him))) (, ,) (PP (IN upon) (SBAR (WHNP (WDT which)) (S (NP (PRP he)) (VP (VP (VBD went) (ADVP (RB down)) (PP (IN on) (NP (PRP$ his) (NNS knees)))) (, ,) (CC and) (VP (VBN begged) (PP (IN for) (NP (NN mercy)))))))))))))) (: ;) (S (NP (NNP Taylor)) (VP (VBD said) (SBAR (S (NP (PRP$ his) (NN name)) (VP (VBD was) (PP (IN in) (NP (NP (DT the) (NN inside)) (PP (IN of) (NP (PRP it))) (, ,) (SBAR (WHNP (WDT which)) (S (NP (PRP we)) (VP (VBD found) (S (VP (TO to) (VP (VB be) (NP (NN fact))))))))))))))) (. .)))
+
+
+NPs: 
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP
+  (NP
+    (NP (NP (NNP Mr.) (NNP Taylor) (POS 's)) (NN coat))
+    (PP (IN from) (NP (PRP$ his) (NN porter))))
+  (: ;)
+  (S
+    (S
+      (NP (PRP it))
+      (VP
+        (VBD was)
+        (VP
+          (VBN put)
+          (PP
+            (IN into)
+            (NP
+              (NP (PRP$ my) (NN cart))
+              (PP (IN in) (NP (DT an) (NN inn) (NN yard)))))
+          (PP (IN by) (NP (DT the) (NN porter))))))
+    (: ;)
+    (S
+      (NP (PRP I))
+      (VP
+        (VBD was)
+        (ADJP (JJ present))
+        (SBAR
+          (WHADVP (WRB when))
+          (S (NP (PRP he)) (VP (VBD put) (NP (PRP it)) (PP (IN in)))))))
+    (: ;)
+    (S
+      (SBAR
+        (IN as)
+        (S
+          (NP (PRP I))
+          (VP
+            (VBD was)
+            (VP (VBG sitting) (PP (IN in) (NP (DT the) (NN window)))))))
+      (, ,)
+      (NP (PRP I))
+      (VP
+        (VBD saw)
+        (S
+          (NP (DT the) (NN prisoner))
+          (VP
+            (VB go)
+            (PRT (IN out))
+            (PP
+              (IN of)
+              (NP
+                (NP (DT the) (NN yard))
+                (PP (IN with) (NP (NN something)))))
+            (PP (IN under) (NP (PRP$ his) (NN frock)))))))
+    (: ;)
+    (S (NP (PRP I)) (VP (VBD followed) (NP (PRP him))))
+    (: ;)
+    (S
+      (NP (PRP I))
+      (VP
+        (VP
+          (VBD laid)
+          (NP (NP (NN hold)) (PP (IN of) (NP (PRP him)))))
+        (, ,)
+        (CC and)
+        (VP
+          (VBD asked)
+          (NP (PRP him))
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (NP (PRP he))
+              (VP
+                (VBD had)
+                (VP
+                  (VBN got)
+                  (PP (IN under) (NP (PRP$ his) (NN frock))))))))))
+    (: ;)
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP
+        (VBD took)
+        (NP (NP (NNP Mr.) (NNP Taylor) (POS 's)) (NN coat))
+        (PP (IN from) (NP (PRP him)))
+        (, ,)
+        (PP
+          (IN upon)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (NP (PRP he))
+              (VP
+                (VP
+                  (VBD went)
+                  (ADVP (RB down))
+                  (PP (IN on) (NP (PRP$ his) (NNS knees))))
+                (, ,)
+                (CC and)
+                (VP (VBN begged) (PP (IN for) (NP (NN mercy))))))))))))
+depth: 13 ,length: 98
+number of NPs: 36
+
+(NP (NNP Taylor))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP$ his) (NN name))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP
+  (NP (DT the) (NN inside))
+  (PP (IN of) (NP (PRP it)))
+  (, ,)
+  (SBAR
+    (WHNP (WDT which))
+    (S
+      (NP (PRP we))
+      (VP (VBD found) (S (VP (TO to) (VP (VB be) (NP (NN fact)))))))))
+depth: 10 ,length: 11
+number of NPs: 4
+
+Number of big NPs: 5, overall number of NPs: 45
+
+**************
+Sentence: 10
+(ROOT (S (S (NP (PRP I)) (VP (VBP am) (ADJP (JJ innocent)))) (: ;) (S (NP (EX there)) (VP (VBD were) (NP (NP (JJ several) (NNS people)) (PP (IN in) (NP (NP (DT the) (NN street)) (VP (VBG running))))))) (: ;) (S (NP (PRP they)) (VP (VP (VBD laid) (NP (NP (NN hold)) (PP (IN of) (NP (PRP me))))) (, ,) (CC and) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBD was) (NP (DT the) (NN man)))))))) (: ;) (S (NP (PRP I)) (VP (VBP know) (NP (NP (NN nothing)) (PP (IN of) (NP (PRP it)))))) (. .)))
+
+
+NPs: 
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (EX there))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP
+  (NP (JJ several) (NNS people))
+  (PP (IN in) (NP (NP (DT the) (NN street)) (VP (VBG running)))))
+depth: 6 ,length: 6
+number of NPs: 3
+
+(NP (PRP they))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NP (NN hold)) (PP (IN of) (NP (PRP me))))
+depth: 5 ,length: 3
+number of NPs: 2
+
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT the) (NN man))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NP (NN nothing)) (PP (IN of) (NP (PRP it))))
+depth: 5 ,length: 3
+number of NPs: 2
+
+Number of big NPs: 9, overall number of NPs: 16
+
+**************
+Sentence: 11
+(ROOT (S (SBAR (WHNP (WDT What)) (FRAG (PP (IN without) (NP (NNS orders))))) (, ,) (NP (DT that)) (VP (VBZ is) (NP (JJ new) (JJ martial) (NN law))) (. .)))
+
+
+NPs: 
+(NP (NNS orders))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT that))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (JJ new) (JJ martial) (NN law))
+depth: 3 ,length: 3
+number of NPs: 0
+
+Number of big NPs: 3, overall number of NPs: 3
+
+**************
+Sentence: 12
+(ROOT (SQ (VBD Did) (NP (PRP you)) (VP (VB acquaint) (NP (NNP Captain) (NNP Mackenzie)) (SBAR (IN that) (S (NP (PRP$ his) (NN life)) (VP (VBD was) (VP (VBN threatened)))))) (. ?)))
+
+
+NPs: 
+(NP (PRP you))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NNP Captain) (NNP Mackenzie))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (PRP$ his) (NN life))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 3, overall number of NPs: 3
+
+**************
+Sentence: 13
+(ROOT (S (NP (PRP I)) (VP (VBD knew) (NP (NP (DT those) (NNS people)) (SBAR (WHNP (WDT that)) (S (VP (VBD traded) (PP (IN on) (NP (NN board)))))))) (. .)))
+
+
+NPs: 
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP
+  (NP (DT those) (NNS people))
+  (SBAR
+    (WHNP (WDT that))
+    (S (VP (VBD traded) (PP (IN on) (NP (NN board)))))))
+depth: 8 ,length: 6
+number of NPs: 2
+
+Number of big NPs: 2, overall number of NPs: 4
+
+**************
+Sentence: 14
+(ROOT (S (NP (PRP I)) (VP (VBP know) (NP (PRP him)) (ADVP (RB perfectly) (RB well))) (. .)))
+
+
+NPs: 
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP him))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 2, overall number of NPs: 2
+
+**************
+Sentence: 15
+(ROOT (SQ (VP (VB Do) (S (NP (PRP you)) (VP (VB know) (NP (NP (DT the) (NNP Fort)) (PP (IN of) (NP (NNP Morea))))))) (. ?)))
+
+
+NPs: 
+(NP (PRP you))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NP (DT the) (NNP Fort)) (PP (IN of) (NP (NNP Morea))))
+depth: 5 ,length: 4
+number of NPs: 2
+
+Number of big NPs: 2, overall number of NPs: 4
+
+**************
+Sentence: 16
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD was) (NP (NP (PRP$ your) (NN reason)) (PP (IN for) (NP (NP (RB not)) (VP (VBG telling) (SBAR (IN that) (FRAG (CONJP (RB as) (RB well) (IN as)) (NP (DT the) (NN rest))))))))) (. ?)))
+
+
+NPs: 
+(NP
+  (NP (PRP$ your) (NN reason))
+  (PP
+    (IN for)
+    (NP
+      (NP (RB not))
+      (VP
+        (VBG telling)
+        (SBAR
+          (IN that)
+          (FRAG
+            (CONJP (RB as) (RB well) (IN as))
+            (NP (DT the) (NN rest))))))))
+depth: 9 ,length: 11
+number of NPs: 4
+
+Number of big NPs: 1, overall number of NPs: 5
+
+**************
+Sentence: 17
+(ROOT (SBARQ (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBD went) (PP (IN in) (NP (NP (NN search)) (PP (IN of) (NP (PRP him)))))))) (, ,) (SQ (VBD was) (NP (NP (PRP you)) (SBAR (S (VP (VBD obliged) (S (VP (TO to) (VP (VB pass) (PP (IN by) (NP (NP (DT this) (JJ black) (NN man) (POS 's)) (NN house))))))))))) (. ?)))
+
+
+NPs: 
+(NP (PRP you))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NP (NN search)) (PP (IN of) (NP (PRP him))))
+depth: 5 ,length: 3
+number of NPs: 2
+
+(NP
+  (NP (PRP you))
+  (SBAR
+    (S
+      (VP
+        (VBD obliged)
+        (S
+          (VP
+            (TO to)
+            (VP
+              (VB pass)
+              (PP
+                (IN by)
+                (NP
+                  (NP (DT this) (JJ black) (NN man) (POS 's))
+                  (NN house))))))))))
+depth: 12 ,length: 10
+number of NPs: 3
+
+Number of big NPs: 3, overall number of NPs: 8
+
+**************
+Sentence: 18
+(ROOT (S (S (NP (PRP I)) (VP (VBP take) (VP (VB leave) (S (VP (TO to) (VP (VB ask) (NP (NP (NN pardon)) (PP (IN of) (NP (DT this) (NN Court)))))))))) (, ,) (S (NP (PRP it)) (VP (VBD was) (PP (IN from) (NP (DT a) (JJ perfect) (NN ignorance))))) (CC or) (S (NP (PRP I)) (VP (MD should) (RB not) (VP (VB have) (VP (VBN done) (NP (PRP it)))))) (. .)))
+
+
+NPs: 
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NP (NN pardon)) (PP (IN of) (NP (DT this) (NN Court))))
+depth: 5 ,length: 4
+number of NPs: 2
+
+(NP (PRP it))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT a) (JJ perfect) (NN ignorance))
+depth: 3 ,length: 3
+number of NPs: 0
+
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP it))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 6, overall number of NPs: 8
+
+**************
+Sentence: 19
+(ROOT (S (S (NP (PRP I)) (VP (VBP do) (RB not) (VP (VB know)))) (, ,) (NP (PRP I)) (VP (VBD did) (RB not) (VP (VB recollect) (NP (PRP it)) (PP (IN at) (NP (DT that) (NN time))))) (. .)))
+
+
+NPs: 
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP it))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT that) (NN time))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 3, overall number of NPs: 3
+
+**************
+Sentence: 20
+(ROOT (SQ (VBD Was) (NP (PRP you)) (PP (IN under) (NP (NP (DT the) (NN command)) (PP (IN of) (NP (NP (NP (NNP Captain) (NNP Mackenzie)) (, ,) (PP (IN at) (NP (NN fort) (NN Morea))) (, ,)) (PP (IN on) (NP (NP (DT the) (NN coast)) (PP (IN of) (NP (NNP Africa))))))))) (. ?)))
+
+
+NPs: 
+(NP (PRP you))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP
+  (NP (DT the) (NN command))
+  (PP
+    (IN of)
+    (NP
+      (NP
+        (NP (NNP Captain) (NNP Mackenzie))
+        (, ,)
+        (PP (IN at) (NP (NN fort) (NN Morea)))
+        (, ,))
+      (PP
+        (IN on)
+        (NP (NP (DT the) (NN coast)) (PP (IN of) (NP (NNP Africa))))))))
+depth: 9 ,length: 15
+number of NPs: 8
+
+Number of big NPs: 2, overall number of NPs: 10
+
+**************
+Sentence: 21
+(ROOT (S (NP (PRP I)) (VP (VBP live) (PP (IN in) (NP (NP (NP (NNP Ratcliff)) (NP (NN highway)) (, ,) (ADVP (JJ next) (NN door) (PP (TO to) (NP (DT the) (NNP Hercules) (POS 's))))) (: -) (NP (NN club))))) (. .)))
+
+
+NPs: 
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP
+  (NP
+    (NP (NNP Ratcliff))
+    (NP (NN highway))
+    (, ,)
+    (ADVP
+      (JJ next)
+      (NN door)
+      (PP (TO to) (NP (DT the) (NNP Hercules) (POS 's)))))
+  (: -)
+  (NP (NN club)))
+depth: 7 ,length: 11
+number of NPs: 5
+
+Number of big NPs: 2, overall number of NPs: 7
+
+**************
+Sentence: 22
+(ROOT (SQ (VBD Were) (NP (DT the) (NNS children)) (PP (ADVP (RB there)) (IN at) (NP (DT that) (NN time))) (. ?)))
+
+
+NPs: 
+(NP (DT the) (NNS children))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (DT that) (NN time))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 2, overall number of NPs: 2
+
+**************
+Sentence: 23
+(ROOT (S (S (VP (VBP Have) (NP (PRP you)))) (VP (VBD served) (NP (NNS offices)) (ADVP (RB there))) (. ?)))
+
+
+NPs: 
+(NP (PRP you))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NNS offices))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 2, overall number of NPs: 2
+
+**************
+Sentence: 24
+(ROOT (S (S (NP (PRP I)) (VP (VBD did))) (: ;) (S (ADVP (RB likewise)) (NP (PRP I)) (VP (VBD observed) (NP (NP (CD two) (JJR more)) (SBAR (WHNP (IN that)) (S (VP (VBD seemed) (S (VP (TO to) (VP (VB be) (NP (NP (NNS acquaintances)) (PP (IN of) (NP (NP (NNS hers) (NN arm)) (PP (IN in) (NP (NN arm))))))))))))))) (: ;) (S (ADVP (RB as) (RB soon) (SBAR (IN as) (S (NP (RB ever) (DT the) (NN lady)) (VP (VBD discovered) (NP (PRP$ her) (NN hand)) (PP (IN in) (NP (PRP$ her) (NN pocket))))))) (, ,) (NP (DT the) (JJ other) (CD two)) (VP (VP (VBD turned) (S (ADJP (JJ short)))) (CC and) (VP (VBD made) (PRT (RP off))))) (: ;) (S (NP (PRP she)) (VP (VP (VBD said)) (PRN (, ,) (S (NP (PRP I)) (VP (VBP believe) (SBAR (S (NP (PRP I)) (VP (VBP have) (VP (VBN lost) (NP (PRP$ my) (NN purse)))))))) (, ,)) (VP (VB keep) (NP (PRP$ your) (NN eye)) (PP (IN upon) (NP (NP (DT that) (NN person)) (PRN (-LRB- -LRB-) (VP (VBG meaning) (NP (DT the) (NN prisoner))) (-RRB- -RRB-)) (SBAR (IN till) (S (NP (PRP I)) (VP (VBP examine) (NP (PRP$ my) (NN pocket)))))))))) (: ;) (S (NP (PRP she)) (VP (VP (VBD did)) (, ,) (CC and) (VP (VBD found) (NP (NP (PRP$ her) (NN purse)) (VP (VBN gone)))))) (: ;) (S (PP (IN after) (SBAR (IN that) (S (NP (PRP we)) (VP (VP (VBD had) (NP (PRP$ her)) (VP (VBN taken) (PRT (RP up)))) (CC and) (VP (VBD carried) (NP (PRP her)) (PP (TO to) (NP (NP (DT the) (NP (NN Nag) (POS 's))) (: -) (NP (NP (NN head) (NN tavern)) (, ,) (NP (NNP Cheapside))))) (, ,) (S (NP (EX there)))))))) (NP (PRP I)) (VP (VBD sent) (PP (IN for) (NP (DT a) (NN constable))))) (: ;) (S (NP (PRP we)) (VP (VP (VBD asked) (S (NP (PRP her)) (VP (TO to) (VP (VB produce) (NP (DT the) (NN purse)))))) (, ,) (CC and) (VP (VBD said)))) (, ,) (SBAR (IN if) (S (NP (PRP she)) (VP (VBD was) (ADJP (JJ agreeable) (SBAR (S (NP (PRP we)) (VP (MD would) (RB not) (VP (VB prosecute) (NP (PRP her)))))))))) (. .)))
+
+
+NPs: 
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP
+  (NP (CD two) (JJR more))
+  (SBAR
+    (WHNP (IN that))
+    (S
+      (VP
+        (VBD seemed)
+        (S
+          (VP
+            (TO to)
+            (VP
+              (VB be)
+              (NP
+                (NP (NNS acquaintances))
+                (PP
+                  (IN of)
+                  (NP
+                    (NP (NNS hers) (NN arm))
+                    (PP (IN in) (NP (NN arm)))))))))))))
+depth: 14 ,length: 12
+number of NPs: 6
+
+(NP (RB ever) (DT the) (NN lady))
+depth: 3 ,length: 3
+number of NPs: 0
+
+(NP (PRP$ her) (NN hand))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (PRP$ her) (NN pocket))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (DT the) (JJ other) (CD two))
+depth: 3 ,length: 3
+number of NPs: 0
+
+(NP (PRP she))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP$ my) (NN purse))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (PRP$ your) (NN eye))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP
+  (NP (DT that) (NN person))
+  (PRN
+    (-LRB- -LRB-)
+    (VP (VBG meaning) (NP (DT the) (NN prisoner)))
+    (-RRB- -RRB-))
+  (SBAR
+    (IN till)
+    (S (NP (PRP I)) (VP (VBP examine) (NP (PRP$ my) (NN pocket))))))
+depth: 7 ,length: 12
+number of NPs: 4
+
+(NP (PRP she))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NP (PRP$ her) (NN purse)) (VP (VBN gone)))
+depth: 4 ,length: 3
+number of NPs: 1
+
+(NP (PRP we))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP$ her))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP her))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP
+  (NP (DT the) (NP (NN Nag) (POS 's)))
+  (: -)
+  (NP (NP (NN head) (NN tavern)) (, ,) (NP (NNP Cheapside))))
+depth: 5 ,length: 8
+number of NPs: 5
+
+(NP (EX there))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT a) (NN constable))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (PRP we))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP her))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT the) (NN purse))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (PRP she))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP we))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP her))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 26, overall number of NPs: 42
+
+**************
+Sentence: 25
+(ROOT (NP (NP (NP (DT No)) (, ,) (NP (NN sir))) (: ;) (S (NP (PRP he)) (VP (VBD said))) (, ,) (S (S (PP (IN before) (NP (DT the) (NN alderman))) (, ,) (NP (DT another) (NN boy)) (VP (VP (VBD picked) (NP (PRP$ my) (NN pocket))) (, ,) (CC and) (VP (VBD flung) (NP (PRP it)) (PP (IN behind) (NP (PRP him)))))) (, ,) (CC and) (S (NP (PRP he)) (VP (VBD picked) (NP (PRP it)) (PRT (RP up))))) (. .)))
+
+
+NPs: 
+(NP
+  (NP (NP (DT No)) (, ,) (NP (NN sir)))
+  (: ;)
+  (S (NP (PRP he)) (VP (VBD said)))
+  (, ,)
+  (S
+    (S
+      (PP (IN before) (NP (DT the) (NN alderman)))
+      (, ,)
+      (NP (DT another) (NN boy))
+      (VP
+        (VP (VBD picked) (NP (PRP$ my) (NN pocket)))
+        (, ,)
+        (CC and)
+        (VP
+          (VBD flung)
+          (NP (PRP it))
+          (PP (IN behind) (NP (PRP him))))))
+    (, ,)
+    (CC and)
+    (S (NP (PRP he)) (VP (VBD picked) (NP (PRP it)) (PRT (RP up)))))
+  (. .))
+depth: 9 ,length: 29
+number of NPs: 11
+
+Number of big NPs: 1, overall number of NPs: 12
+
+**************
+Sentence: 26
+(ROOT (S (NP (PRP I)) (VP (VP (VBP rent) (NP (PRP them)) (PP (IN by) (NP (NP (NN word)) (PP (IN of) (NP (NN mouth)))))) (, ,) (CC and) (VP (VB pay) (NP (DT every) (NN quarter)))) (. .)))
+
+
+NPs: 
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP them))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NP (NN word)) (PP (IN of) (NP (NN mouth))))
+depth: 5 ,length: 3
+number of NPs: 2
+
+(NP (DT every) (NN quarter))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 4, overall number of NPs: 6
+
+**************
+Sentence: 27
+(ROOT (SQ (VBD Did) (NP (PRP you)) (VP (VB see) (NP (NP (DT a) (NN bundle)) (PP (IN in) (NP (DT the) (NN window))))) (. ?)))
+
+
+NPs: 
+(NP (PRP you))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NP (DT a) (NN bundle)) (PP (IN in) (NP (DT the) (NN window))))
+depth: 5 ,length: 5
+number of NPs: 2
+
+Number of big NPs: 2, overall number of NPs: 4
+
+**************
+Sentence: 28
+(ROOT (SBARQ (WHNP (WDT What) (NN condition)) (SQ (VBD did) (NP (PRP he)) (VP (VB bring) (NP (DT the) (NN horse) (NN home)) (PP (IN in)))) (. ?)))
+
+
+NPs: 
+(NP (PRP he))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT the) (NN horse) (NN home))
+depth: 3 ,length: 3
+number of NPs: 0
+
+Number of big NPs: 2, overall number of NPs: 2
+
+**************
+Sentence: 29
+(ROOT (S (S (NP (PRP She)) (VP (VBD beat) (NP (PRP him)) (PP (IN with) (NP (DT a) (NN stick))) (, ,) (PP (IN with) (NP (NP (PRP$ her) (JJ left) (NN hand)) (ADVP (RB first)))))) (, ,) (CC and) (S (SBAR (IN because) (S (NP (DT that)) (VP (VBD was) (RB not) (ADJP (JJ enough))))) (NP (PRP she)) (VP (VP (VBD took) (NP (PRP$ her) (JJ right) (NN hand))) (, ,) (CC and) (VP (VBD hit) (NP (PRP him)) (PP (IN with) (NP (NP (DT the) (NN head)) (PP (IN of) (NP (DT the) (NN stick)))))))) (. .)))
+
+
+NPs: 
+(NP (PRP She))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP him))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT a) (NN stick))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (NP (PRP$ her) (JJ left) (NN hand)) (ADVP (RB first)))
+depth: 4 ,length: 4
+number of NPs: 1
+
+(NP (DT that))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP she))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP$ her) (JJ right) (NN hand))
+depth: 3 ,length: 3
+number of NPs: 0
+
+(NP (PRP him))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NP (DT the) (NN head)) (PP (IN of) (NP (DT the) (NN stick))))
+depth: 5 ,length: 5
+number of NPs: 2
+
+Number of big NPs: 9, overall number of NPs: 12
+
+**************
+Sentence: 30
+(ROOT (S (NP-TMP (DT No)) (, ,) (NP (PRP I)) (VP (VBD did) (RB not)) (. .)))
+
+
+NPs: 
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 31
+(ROOT (S (NP (PRP It)) (VP (VBZ is) (, ,) (SBAR (S (NP (PRP it)) (VP (VBD shone) (NP (NN right)) (PP (IN on) (NP (PRP them))))))) (. .)))
+
+
+NPs: 
+(NP (PRP It))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP it))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NN right))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP them))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 4, overall number of NPs: 4
+
+**************
+Sentence: 32
+(ROOT (S (S (NP (PRP He)) (VP (VBD shewed) (S (NP (PRP me)) (NP (DT a) (NN quartern))))) (, ,) (CC and) (S (NP (DT a) (NN half)) (VP (VBP peck))) (. .)))
+
+
+NPs: 
+(NP (PRP He))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP me))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT a) (NN quartern))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (DT a) (NN half))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 4, overall number of NPs: 4
+
+**************
+Sentence: 33
+(ROOT (S (NP (PRP It)) (VP (VBD was) (NP (DT a) (NN pint) (NN pot))) (. .)))
+
+
+NPs: 
+(NP (PRP It))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT a) (NN pint) (NN pot))
+depth: 3 ,length: 3
+number of NPs: 0
+
+Number of big NPs: 2, overall number of NPs: 2
+
+**************
+Sentence: 34
+(ROOT (SBARQ (WHPP (IN On) (WHNP (WDT what) (NN occasion))) (SQ (VBD did) (NP (PRP she)) (VP (VB come) (PP (TO to) (NP (PRP$ your) (NN house))))) (. ?)))
+
+
+NPs: 
+(NP (PRP she))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP$ your) (NN house))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 2, overall number of NPs: 2
+
+**************
+Sentence: 35
+(ROOT (SBARQ (WHADJP (WRB How) (RB long)) (SQ (VBP have) (NP (PRP you)) (VP (VBN been) (NP (DT a) (NN watchman)))) (. ?)))
+
+
+NPs: 
+(NP (PRP you))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT a) (NN watchman))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 2, overall number of NPs: 2
+
+**************
+Sentence: 36
+(ROOT (S (NP (PRP$ My) (NN mother)) (VP (VBD was) (VP (VBN sent) (PP (IN for) (ADVP (RB up))))) (. .)))
+
+
+NPs: 
+(NP (PRP$ My) (NN mother))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 37
+(ROOT (S (S (NP (PRP He)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD was) (PP (IN for) (NP (PRP himself)))))))) (, ,) (NP (PRP$ his) (NN aunt)) (VP (VBD was) (ADJP (JJ dead))) (. .)))
+
+
+NPs: 
+(NP (PRP He))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP it))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP himself))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP$ his) (NN aunt))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 4, overall number of NPs: 4
+
+**************
+Sentence: 38
+(ROOT (S (S (NP (PRP You)) (VP (VBP say) (SBAR (S (NP (PRP it)) (VP (VBD was) (NP (CD nine) (NNS months)) (NP (NP (DT the) (NN second)) (PP (IN of) (NP (JJ last) (NN month))))))))) (, ,) (CC and) (S (ADVP (RB then)) (NP (PRP you)) (VP (VBP say) (SBAR (S (NP (PRP it)) (VP (VBD was) (NP (NP (DT the) (NN 2d)) (PP (IN of) (NP (NP (NNP June)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (NP (PRP it))))))))))))) (. ?)))
+
+
+NPs: 
+(NP (PRP You))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP it))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (CD nine) (NNS months))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (NP (DT the) (NN second)) (PP (IN of) (NP (JJ last) (NN month))))
+depth: 5 ,length: 5
+number of NPs: 2
+
+(NP (PRP you))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP it))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP
+  (NP (DT the) (NN 2d))
+  (PP
+    (IN of)
+    (NP
+      (NP (NNP June))
+      (, ,)
+      (SBAR (WHNP (WDT which)) (S (VP (VBD was) (NP (PRP it))))))))
+depth: 9 ,length: 8
+number of NPs: 4
+
+Number of big NPs: 7, overall number of NPs: 13
+
+**************
+Sentence: 39
+(ROOT (SQ (VBD Was) (NP (DT the) (NN lock)) (VP (VBN drawn) (PRT (RP out)) (NP (QP (CC or) (RB not)))) (. ?)))
+
+
+NPs: 
+(NP (DT the) (NN lock))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (QP (CC or) (RB not)))
+depth: 4 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 2, overall number of NPs: 2
+
+**************
+Sentence: 40
+(ROOT (SQ (VBD Did) (NP (PRP you)) (VP (VB know) (NP (PRP$ his) (NN mother)) (PP (IN in) (NP (NNP Edinburgh)))) (. ?)))
+
+
+NPs: 
+(NP (PRP you))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP$ his) (NN mother))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (NNP Edinburgh))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 3, overall number of NPs: 3
+
+**************
+Sentence: 41
+(ROOT (FRAG (NP (DT No)) (. .)))
+
+
+NPs: 
+(NP (DT No))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 42
+(ROOT (S (NP (PRP He)) (VP (VBD was) (PP (IN in) (NP (NN bed))) (PP (IN about) (NP (CD four) (RB o'clock))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD went) (PRT (RP up)) (PP (IN for) (NP (DT the) (NNS keys))))))) (. .)))
+
+
+NPs: 
+(NP (PRP He))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NN bed))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (CD four) (RB o'clock))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT the) (NNS keys))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 5, overall number of NPs: 5
+
+**************
+Sentence: 43
+(ROOT (S (S (NP (PRP I)) (VP (VBD was) (NP (NP (DT the) (NN constable)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (VP (VBN sent) (PP (IN for) (PP (TO to) (NP (NNP Mrs.) (NNP Bulley) (POS 's)))) (S (VP (TO to) (VP (VB take) (NP (NP (NN charge)) (PP (IN of) (NP (DT the) (NN prisoner)))))))))))))) (: ;) (S (NP (PRP she)) (VP (VBD told) (NP (PRP me)) (SBAR (S (NP (PRP she)) (VP (VBD had) (VP (VBN lost) (NP (ADJP (RB so) (JJ many)) (NNS things)))))))) (. .)))
+
+
+NPs: 
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP
+  (NP (DT the) (NN constable))
+  (SBAR
+    (WHNP (WDT that))
+    (S
+      (VP
+        (VBD was)
+        (VP
+          (VBN sent)
+          (PP
+            (IN for)
+            (PP (TO to) (NP (NNP Mrs.) (NNP Bulley) (POS 's))))
+          (S
+            (VP
+              (TO to)
+              (VP
+                (VB take)
+                (NP
+                  (NP (NN charge))
+                  (PP (IN of) (NP (DT the) (NN prisoner))))))))))))
+depth: 13 ,length: 16
+number of NPs: 5
+
+(NP (PRP she))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP me))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP she))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (ADJP (RB so) (JJ many)) (NNS things))
+depth: 4 ,length: 3
+number of NPs: 0
+
+Number of big NPs: 6, overall number of NPs: 11
+
+**************
+Sentence: 44
+(ROOT (SQ (VBD Did) (NP (PRP he)) (VP (VB appear) (PP (IN in) (NP (PRP$ his) (NN business))) (PP (IN at) (NP (NP (DT that) (NN time)) (SBAR (S (NP (PRP he)) (VP (VBD paid) (NP (PRP you)) (PP (IN for) (NP (DT the) (NN horse))))))))) (. ?)))
+
+
+NPs: 
+(NP (PRP he))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP$ his) (NN business))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP
+  (NP (DT that) (NN time))
+  (SBAR
+    (S
+      (NP (PRP he))
+      (VP
+        (VBD paid)
+        (NP (PRP you))
+        (PP (IN for) (NP (DT the) (NN horse)))))))
+depth: 8 ,length: 8
+number of NPs: 4
+
+Number of big NPs: 3, overall number of NPs: 7
+
+**************
+Sentence: 45
+(ROOT (FRAG (PP (TO to) (NP (NNP Darby))) (. .)))
+
+
+NPs: 
+(NP (NNP Darby))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 46
+(ROOT (S (VP (VBD Did) (SBAR (S (NP (PRP you)) (VP (VBP think) (SBAR (S (NP (PRP he)) (VP (MD might) (VP (VB do) (ADVP (RB so)) (PP (IN from) (NP (NP (NP (DT any) (NN disorder)) (PP (IN of) (NP (NN mind)))) (, ,) (CC or) (NP (NN lunacy)))))))))))) (. ?)))
+
+
+NPs: 
+(NP (PRP you))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP he))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP
+  (NP (NP (DT any) (NN disorder)) (PP (IN of) (NP (NN mind))))
+  (, ,)
+  (CC or)
+  (NP (NN lunacy)))
+depth: 6 ,length: 7
+number of NPs: 4
+
+Number of big NPs: 3, overall number of NPs: 7
+
+**************
+Sentence: 47
+(ROOT (SQ (VP (VB Do) (S (NP (NP (PRP you)) (PP (IN of) (NP (PRP$ your) (JJ own) (NN knowledge)))) (VP (VB know) (SBAR (S (NP (DT this) (NN man)) (VP (VBD had) (NP (DT the) (NN pewter) (NNS plates)))))))) (. ?)))
+
+
+NPs: 
+(NP
+  (NP (PRP you))
+  (PP (IN of) (NP (PRP$ your) (JJ own) (NN knowledge))))
+depth: 5 ,length: 5
+number of NPs: 2
+
+(NP (DT this) (NN man))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (DT the) (NN pewter) (NNS plates))
+depth: 3 ,length: 3
+number of NPs: 0
+
+Number of big NPs: 3, overall number of NPs: 5
+
+**************
+Sentence: 48
+(ROOT (S (VP (VBD Did) (NP (PRP you)) (SBAR (RB ever) (FRAG (NP (NP (NN pawn)) (NP (NP (DT a) (NN child) (POS 's)) (NN cloak)))))) (. ?)))
+
+
+NPs: 
+(NP (PRP you))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NP (NN pawn)) (NP (NP (DT a) (NN child) (POS 's)) (NN cloak)))
+depth: 5 ,length: 5
+number of NPs: 3
+
+Number of big NPs: 2, overall number of NPs: 5
+
+**************
+Sentence: 49
+(ROOT (SQ (MD Could) (NP (PRP you)) (VP (VB have) (VP (VBN understood) (S (NP (PRP him)) (VP (TO to) (VP (VB have) (VP (VBN meant) (NP (NP (NP (NNP St.) (NNP John) (POS 's)) (NNP Street)) (, ,) (SBAR (S (VP (VBD had) (ADVP (RB not) (NP (DT the) (NN word))) (VP (VBN been) (VP (VBN repeated) (PP (TO to) (NP (PRP him))))))))) (ADVP (RB again)))))) (PP (IN by) (NP (DT the) (JJ other) (NN evidence))))) (. ?)))
+
+
+NPs: 
+(NP (PRP you))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP him))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP
+  (NP (NP (NNP St.) (NNP John) (POS 's)) (NNP Street))
+  (, ,)
+  (SBAR
+    (S
+      (VP
+        (VBD had)
+        (ADVP (RB not) (NP (DT the) (NN word)))
+        (VP
+          (VBN been)
+          (VP (VBN repeated) (PP (TO to) (NP (PRP him)))))))))
+depth: 10 ,length: 13
+number of NPs: 4
+
+(NP (DT the) (JJ other) (NN evidence))
+depth: 3 ,length: 3
+number of NPs: 0
+
+Number of big NPs: 4, overall number of NPs: 8
+
+**************
+Sentence: 50
+(ROOT (FRAG (PP (TO to) (NP (NNP Alnutt))) (. .)))
+
+
+NPs: 
+(NP (NNP Alnutt))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 51
+(ROOT (S (NP (PRP I)) (VP (VBP am) (ADJP (JJ servant) (PP (TO to) (NP (NP (NNP Mr.) (NNP Blundell)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ keeps) (NP (NP (DT a) (NN wine-vault)) (PP (IN in) (NP (NN Duke-street))))))))))) (. .)))
+
+
+NPs: 
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP
+  (NP (NNP Mr.) (NNP Blundell))
+  (, ,)
+  (SBAR
+    (WHNP (WP who))
+    (S
+      (VP
+        (VBZ keeps)
+        (NP
+          (NP (DT a) (NN wine-vault))
+          (PP (IN in) (NP (NN Duke-street))))))))
+depth: 9 ,length: 9
+number of NPs: 4
+
+Number of big NPs: 2, overall number of NPs: 6
+
+**************
+Sentence: 52
+(ROOT (S (S (S (NP (PRP I)) (VP (VBP lodge) (PP (IN in) (NP (NP (JJ Great) (NN Russel-street)) (, ,) (NP (NN Bloomsbury)))))) (: ;) (S (NP (DT the) (NN prisoner)) (VP (VBD was) (NP (PRP$ my) (NN servant))))) (, ,) (NP (PRP she)) (VP (VBD had) (NP (NP (DT the) (NN care)) (PP (IN of) (NP (PRP$ my) (NN linen))))) (. .)))
+
+
+NPs: 
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NP (JJ Great) (NN Russel-street)) (, ,) (NP (NN Bloomsbury)))
+depth: 4 ,length: 4
+number of NPs: 2
+
+(NP (DT the) (NN prisoner))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (PRP$ my) (NN servant))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (PRP she))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NP (DT the) (NN care)) (PP (IN of) (NP (PRP$ my) (NN linen))))
+depth: 5 ,length: 5
+number of NPs: 2
+
+Number of big NPs: 6, overall number of NPs: 10
+
+**************
+Sentence: 53
+(ROOT (SQ (VBD Did) (NP (PRP you)) (VP (VB sell) (NP (DT any)) (PP (TO to) (NP (NNP Mr.) (NNP Harley)))) (. ?)))
+
+
+NPs: 
+(NP (PRP you))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT any))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NNP Mr.) (NNP Harley))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 3, overall number of NPs: 3
+
+**************
+Sentence: 54
+(ROOT (S (S (NP (PRP I)) (VP (VBP live) (PP (IN at) (NP (NP (DT the) (NN corner)) (PP (IN of) (NP (NP (NP (NP (NNP Prince) (POS 's)) (NN Square)) (, ,) (NP (NNP St.) (NNP George) (POS 's))) (PP (IN in) (NP (DT the) (NNP East))))))))) (: ;) (S (NP (PRP I)) (VP (VBP am) (NP (DT a) (NN shoe-maker)))) (. .)))
+
+
+NPs: 
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP
+  (NP (DT the) (NN corner))
+  (PP
+    (IN of)
+    (NP
+      (NP
+        (NP (NP (NNP Prince) (POS 's)) (NN Square))
+        (, ,)
+        (NP (NNP St.) (NNP George) (POS 's)))
+      (PP (IN in) (NP (DT the) (NNP East))))))
+depth: 8 ,length: 13
+number of NPs: 7
+
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT a) (NN shoe-maker))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 4, overall number of NPs: 11
+
+**************
+Sentence: 55
+(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBD was) (NP (PRP$ your) (NN apartment))) (. ?)))
+
+
+NPs: 
+(NP (PRP$ your) (NN apartment))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 56
+(ROOT (S (S (NP (PRP He)) (VP (VBD was) (NP (NP (DT an) (NN apprentice)) (PP (TO to) (NP (DT a) (NN barber)))))) (: ;) (S (NP (PRP he)) (VP (VBD used) (S (VP (TO to) (VP (VB follow) (NP (NN smuggling)) (PP (IN with) (NP (NNP Mr.) (NNP Mattison)))))))) (. .)))
+
+
+NPs: 
+(NP (PRP He))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP
+  (NP (DT an) (NN apprentice))
+  (PP (TO to) (NP (DT a) (NN barber))))
+depth: 5 ,length: 5
+number of NPs: 2
+
+(NP (PRP he))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NN smuggling))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NNP Mr.) (NNP Mattison))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 5, overall number of NPs: 7
+
+**************
+Sentence: 57
+(ROOT (S (FRAG (INTJ (UH Yes))) (: ;) (S (S (NP (PRP he)) (VP (VBD had) (NP (NP (CD two) (NNS horses)) (PP (IN in) (PP (IN out) (NP (NN yard))))) (PP (IN at) (NP (NNP Bartholomew) (NNP Tide))))) (: ;) (S (NP (PRP he)) (VP (VP (VBD sold) (NP (PRP them))) (CC and) (VP (VBD bought) (NP (DT another)))))) (. .)))
+
+
+NPs: 
+(NP (PRP he))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP
+  (NP (CD two) (NNS horses))
+  (PP (IN in) (PP (IN out) (NP (NN yard)))))
+depth: 6 ,length: 5
+number of NPs: 2
+
+(NP (NNP Bartholomew) (NNP Tide))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (PRP he))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP them))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT another))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 6, overall number of NPs: 8
+
+**************
+Sentence: 58
+(ROOT (SQ (MD Can) (NP (PRP you)) (VP (VB explain) (NP (DT these) (NNS entries)) (PP (PP (IN in) (NP (DT the) (NNS books))) (, ,) (RB particularly) (PP (IN with) (NP (NN respect)))) (PP (TO to) (NP (NNP Ann) (NNP Maskell)))) (. ?)))
+
+
+NPs: 
+(NP (PRP you))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT these) (NNS entries))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (DT the) (NNS books))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (NN respect))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NNP Ann) (NNP Maskell))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 5, overall number of NPs: 5
+
+**************
+Sentence: 59
+(ROOT (SQ (VBD Did) (NP (PRP he)) (VP (VB say) (SBAR (WHADVP (WRB where)) (, ,) (S (NP (PRP he)) (VP (VBD had) (VP (VBN been) (PP (IN with) (NP (PRP it))) (, ,) (SBAR (IN before) (S (NP (PRP he)) (VP (VBD left) (NP (PRP it)) (PP (IN at) (NP (DT the) (NN inn))))))))))) (. ?)))
+
+
+NPs: 
+(NP (PRP he))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP it))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP he))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP it))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT the) (NN inn))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 5, overall number of NPs: 5
+
+**************
+Sentence: 60
+(ROOT (S (S (NP (PRP I)) (ADVP (RB never)) (VP (VBD heard) (S (NP (PRP them)) (VP (VB have) (NP (DT any) (NNS words)))))) (: ;) (S (NP (PRP I)) (VP (VBP have) (VP (VBN known) (NP (PRP him)) (PP (IN above) (NP (CD twenty-one) (NNS years)))))) (. .)))
+
+
+NPs: 
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP them))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT any) (NNS words))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP him))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (CD twenty-one) (NNS years))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 6, overall number of NPs: 6
+
+**************
+Sentence: 61
+(ROOT (S (VP (VBD Was) (NP (NP (DT this) (NN sheep)) (ADJP (JJ dirty) (CC or) (JJ clean))) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (VBD saw) (NP (PRP it)))))) (. ?)))
+
+
+NPs: 
+(NP (NP (DT this) (NN sheep)) (ADJP (JJ dirty) (CC or) (JJ clean)))
+depth: 4 ,length: 5
+number of NPs: 1
+
+(NP (PRP you))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP it))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 3, overall number of NPs: 4
+
+**************
+Sentence: 62
+(ROOT (S (NP (PRP I)) (VP (VBP do) (RB not) (VP (VB know))) (. .)))
+
+
+NPs: 
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 63
+(ROOT (SBARQ (WHNP (WHADJP (WRB How) (JJ many)) (NNS years)) (SQ (VBD was) (NP (PRP he)) (VP (VB servant) (PP (IN in) (NP (DT the) (NN house))))) (. ?)))
+
+
+NPs: 
+(NP (PRP he))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT the) (NN house))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 2, overall number of NPs: 2
+
+**************
+Sentence: 64
+(ROOT (SQ (VBD Did) (NP (PRP you)) (VP (VB see) (NP (NP (DT the) (NN bundle)) (PP (IN in) (NP (DT the) (NN passage))))) (. ?)))
+
+
+NPs: 
+(NP (PRP you))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP
+  (NP (DT the) (NN bundle))
+  (PP (IN in) (NP (DT the) (NN passage))))
+depth: 5 ,length: 5
+number of NPs: 2
+
+Number of big NPs: 2, overall number of NPs: 4
+
+**************
+Sentence: 65
+(ROOT (S (FRAG (INTJ (UH Yes))) (: ;) (S (S (NP (PRP we)) (VP (VBD used) (S (VP (TO to) (VP (VB drink) (ADVP (ADVP (RB together)) (, ,) (CC but) (ADVP (RB not) (RB very))) (ADVP (RB frequently))))))) (: ;) (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD used) (S (VP (TO to) (VP (VB go) (PRT (RP up)) (PP (TO to) (NP (NNP Paddington))))))))) (, ,) (NP (PRP I)) (VP (VBD used) (S (VP (TO to) (VP (VP (VB see) (NP (PRP him))) (, ,) (CC and) (VP (VB drink) (ADVP (RB together))))))))) (. .)))
+
+
+NPs: 
+(NP (PRP we))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NNP Paddington))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP him))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 5, overall number of NPs: 5
+
+**************
+Sentence: 66
+(ROOT (SBAR (RB Not) (IN that) (S (NP (PRP I)) (VP (VBP know))) (. .)))
+
+
+NPs: 
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 67
+(ROOT (S (S (NP (EX There)) (VP (VBZ appears) (S (VP (TO to) (VP (VB have) (VP (VBN been) (NP (NP (CC neither) (DT a) (NN demand) (CC or) (NN refusal)) (PP (IN of) (NP (DT this) (NN property)))))))))) (: ;) (S (S (NP (PRP it)) (VP (MD may) (VP (VB be) (NP (DT a) (NN trespass))))) (, ,) (CC but) (S (NP (PRP I)) (VP (VBP am) (ADVP (RB clearly)) (PP (IN of) (NP (NP (NN opinion)) (SBAR (S (NP (PRP it)) (VP (MD can) (VP (VB be) (NP (DT no) (NN felony))))))))))) (: :) (S (NP (PRP it)) (VP (VBZ is) (RB not) (VP (VBN proved) (SBAR (IN that) (S (S (NP (PRP he)) (VP (VBZ has) (VP (VBN applied) (NP (PRP it)) (PP (TO to) (NP (PRP$ his) (JJ own) (NN use)))))) (, ,) (CC and) (, ,) (S (ADVP (RB therefore)) (, ,) (NP (PRP I)) (VP (VBP am) (PP (IN of) (NP (NN opinion))) (, ,) (SBAR (IN that) (S (NP (PRP they)) (VP (MD must) (VP (VB be) (VP (VBN acquitted))))))))))))) (. .)))
+
+
+NPs: 
+(NP (EX There))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP
+  (NP (CC neither) (DT a) (NN demand) (CC or) (NN refusal))
+  (PP (IN of) (NP (DT this) (NN property))))
+depth: 5 ,length: 8
+number of NPs: 2
+
+(NP (PRP it))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT a) (NN trespass))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP
+  (NP (NN opinion))
+  (SBAR
+    (S
+      (NP (PRP it))
+      (VP (MD can) (VP (VB be) (NP (DT no) (NN felony)))))))
+depth: 8 ,length: 6
+number of NPs: 3
+
+(NP (PRP it))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP he))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP it))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP$ his) (JJ own) (NN use))
+depth: 3 ,length: 3
+number of NPs: 0
+
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NN opinion))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP they))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 13, overall number of NPs: 18
+
+**************
+Sentence: 68
+(ROOT (FRAG (PP (IN On) (NP (NP (DT the) (NN table)) (, ,) (PP (IN with) (NP (NP (QP (DT a) (NN dozen) (CC or) (CD fourteen)) (NN pair)) (PP (IN of) (NP (NP (NN silk) (NNS stockings)) (PP (IN upon) (NP (PRP it))))))))) (. .)))
+
+
+NPs: 
+(NP
+  (NP (DT the) (NN table))
+  (, ,)
+  (PP
+    (IN with)
+    (NP
+      (NP (QP (DT a) (NN dozen) (CC or) (CD fourteen)) (NN pair))
+      (PP
+        (IN of)
+        (NP
+          (NP (NN silk) (NNS stockings))
+          (PP (IN upon) (NP (PRP it))))))))
+depth: 9 ,length: 14
+number of NPs: 6
+
+Number of big NPs: 1, overall number of NPs: 7
+
+**************
+Sentence: 69
+(ROOT (INTJ (UH Yes) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 70
+(ROOT (INTJ (UH Yes) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 71
+(ROOT (S (NP (PRP He)) (VP (VBD was) (ADVP (RB there))) (. .)))
+
+
+NPs: 
+(NP (PRP He))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 72
+(ROOT (SBARQ (WHADVP (WRB How)) (SQ (VP (VBD came) (S (NP (PRP you)) (VP (TO to) (VP (VB let))))) (NP (PRP him)) (VP (VB pass) (PP (IN for) (NP (PRP$ your) (NN nephew))))) (. ?)))
+
+
+NPs: 
+(NP (PRP you))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP him))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP$ your) (NN nephew))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 3, overall number of NPs: 3
+
+**************
+Sentence: 73
+(ROOT (FRAG (ADJP (JJ Mild) (PP (TO to) (NP (NN example)))) (. .)))
+
+
+NPs: 
+(NP (NN example))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 74
+(ROOT (S (S (NP (DT The) (NN prisoner)) (VP (VBD came) (PP (IN into) (NP (PRP$ my) (NN shop))) (NP-TMP (NP (DT the) (JJ 20th)) (PP (IN of) (NP (NP (NNP February)) (, ,) (NP (NP (DT a) (NN quarter)) (PP (IN past) (NP (CD four))) (PP (IN in) (NP (DT the) (NN afternoon))))))) (, ,) (PP (IN with) (NP (NP (DT an) (NN intention)) (PP (IN of) (S (VP (VBG buying) (NP (NP (CD two) (NNS yards)) (PP (IN of) (NP (JJ black) (NN linen))))))))) (, ,) (S (VP (TO to) (VP (VB pin) (PP (IN before) (NP (PRP$ her) (NN child)))))))) (, ,) (S (NP (PRP I)) (VP (VBD saw) (NP (PRP her)) (PP (IN in) (NP (DT the) (NN shop))))) (, ,) (S (NP (NP (CD one)) (PP (IN of) (NP (PRP$ my) (NN shopmen)))) (VP (VBD waited) (PP (IN on) (NP (PRP her))))) (, ,) (S (NP (PRP I)) (VP (VBD had) (S (NP (DT another) (NN customer)) (NP (NP (DT the) (JJ other) (NN side)) (PP (IN of) (NP (DT the) (NN counter))))))) (, ,) (S (NP (PRP I)) (VP (VBD saw) (NP (NP (DT the) (NN prisoner)) (VP (VBG going) (PRT (RP out)))))) (, ,) (S (NP (PRP I)) (VP (VBD asked) (SBAR (IN if) (S (NP (PRP she)) (VP (VBD had) (VP (VBN bought) (NP (DT any) (NN thing)))))))) (, ,) (S (NP (PRP he)) (VP (VBD said) (NP (DT no)))) (: ;) (S (NP (PRP I)) (VP (VBD was) (VP (VBN sent) (PP (IN for) (PP (TO to) (NP (NP (DT a) (NN pawnbroker) (POS 's)) (PP (IN in) (NP (NN Oxford-street)))))) (, ,) (PP (IN about) (ADVP (NP (CD two) (NNS hours)) (IN after))) (, ,) (S (VP (TO to) (VP (VB see) (SBAR (IN if) (S (NP (PRP I)) (VP (VBD knew) (NP (NP (DT a) (NN piece)) (PP (IN of) (NP (NN cotton))) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADVP (RB there))))))))))))))) (, ,) (S (NP (PRP I)) (VP (VP (VBD knew) (S (NP (PRP it)) (VP (TO to) (VP (VB be) (ADJP (JJ mine)))))) (, ,) (NP (CD five) (NNS yards)))) (, ,) (S (NP (EX there)) (VP (VBD were) (NP (NP (CD two) (NN shop) (NNS marks)) (, ,) (NP (DT a) (NN C) (CC and) (NN L)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (PRP I)) (VP (VBP mark) (NP (NP (PDT all) (DT the) (NNS goods)) (SBAR (S (NP (PRP I)) (VP (VBP buy))))))))))) (, ,) (S (NP (PRP I)) (VP (VBD was) (ADJP (VBN convinced) (SBAR (S (NP (PRP it)) (VP (VBD was) (NP (PRP mine)))))))) (, ,) (S (NP (PRP I)) (VP (VBD did) (RB not) (VP (VB miss) (NP (PRP it)) (ADVP (IN out) (PP (IN of) (NP (DT the) (NN shop))))))) (. .)))
+
+
+NPs: 
+(NP (DT The) (NN prisoner))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (PRP$ my) (NN shop))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (DT the) (JJ 20th))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP
+  (NP (NNP February))
+  (, ,)
+  (NP
+    (NP (DT a) (NN quarter))
+    (PP (IN past) (NP (CD four)))
+    (PP (IN in) (NP (DT the) (NN afternoon)))))
+depth: 6 ,length: 9
+number of NPs: 5
+
+(NP
+  (NP (DT an) (NN intention))
+  (PP
+    (IN of)
+    (S
+      (VP
+        (VBG buying)
+        (NP
+          (NP (CD two) (NNS yards))
+          (PP (IN of) (NP (JJ black) (NN linen))))))))
+depth: 9 ,length: 9
+number of NPs: 4
+
+(NP (PRP$ her) (NN child))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP her))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT the) (NN shop))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (NP (CD one)) (PP (IN of) (NP (PRP$ my) (NN shopmen))))
+depth: 5 ,length: 4
+number of NPs: 2
+
+(NP (PRP her))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT another) (NN customer))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP
+  (NP (DT the) (JJ other) (NN side))
+  (PP (IN of) (NP (DT the) (NN counter))))
+depth: 5 ,length: 6
+number of NPs: 2
+
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NP (DT the) (NN prisoner)) (VP (VBG going) (PRT (RP out))))
+depth: 5 ,length: 4
+number of NPs: 1
+
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP she))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT any) (NN thing))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (PRP he))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT no))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP
+  (NP (DT a) (NN pawnbroker) (POS 's))
+  (PP (IN in) (NP (NN Oxford-street))))
+depth: 5 ,length: 5
+number of NPs: 2
+
+(NP (CD two) (NNS hours))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP
+  (NP (DT a) (NN piece))
+  (PP (IN of) (NP (NN cotton)))
+  (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADVP (RB there))))))
+depth: 7 ,length: 7
+number of NPs: 2
+
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP it))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (CD five) (NNS yards))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (EX there))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP
+  (NP (CD two) (NN shop) (NNS marks))
+  (, ,)
+  (NP (DT a) (NN C) (CC and) (NN L))
+  (, ,)
+  (SBAR
+    (WHNP (WDT which))
+    (S
+      (NP (PRP I))
+      (VP
+        (VBP mark)
+        (NP
+          (NP (PDT all) (DT the) (NNS goods))
+          (SBAR (S (NP (PRP I)) (VP (VBP buy)))))))))
+depth: 10 ,length: 17
+number of NPs: 6
+
+(NP (PRP it))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP mine))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP it))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT the) (NN shop))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 36, overall number of NPs: 60
+
+**************
+Sentence: 75
+(ROOT (S (VP (VBD Did) (ADVP (DT any) (RBR farther)) (NP (NP (NN conversation) (NN pass)) (PP (IN between) (NP (NP (PRP you)) (CC and) (NP (PRP him))))) (, ,) (SBAR (IN before) (S (NP (PRP you)) (VP (VBD arrived) (PP (IN at) (NP (NP (DT the) (NN ground)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (VP (VBN fixed) (PP (IN upon)))))))))))) (. ?)))
+
+
+NPs: 
+(NP
+  (NP (NN conversation) (NN pass))
+  (PP (IN between) (NP (NP (PRP you)) (CC and) (NP (PRP him)))))
+depth: 6 ,length: 6
+number of NPs: 4
+
+(NP (PRP you))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP
+  (NP (DT the) (NN ground))
+  (SBAR
+    (WHNP (WDT that))
+    (S (VP (VBD was) (VP (VBN fixed) (PP (IN upon)))))))
+depth: 8 ,length: 6
+number of NPs: 1
+
+Number of big NPs: 3, overall number of NPs: 8
+
+**************
+Sentence: 76
+(ROOT (S (NP (PRP I)) (VP (VP (VBP am) (NP (DT a) (NN peruke-maker))) (, ,) (CC and) (VP (VB live) (PP (IN in) (NP (JJ Little) (NN Bell-alley)))) (, ,) (NP (NN Coleman-street))) (. .)))
+
+
+NPs: 
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT a) (NN peruke-maker))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (JJ Little) (NN Bell-alley))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (NN Coleman-street))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 4, overall number of NPs: 4
+
+**************
+Sentence: 77
+(ROOT (SQ (VBD Did) (NP (PRP you)) (VP (VB see) (NP (PRP him)) (PP (IN in) (NP (DT the) (NN parlour))) (ADVP (RB afterwards))) (. ?)))
+
+
+NPs: 
+(NP (PRP you))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP him))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT the) (NN parlour))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 3, overall number of NPs: 3
+
+**************
+Sentence: 78
+(ROOT (S (NP (PRP she)) (VP (VBD came) (PP (IN into) (NP (PRP$ your) (NN shop)))) (. ?)))
+
+
+NPs: 
+(NP (PRP she))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP$ your) (NN shop))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 2, overall number of NPs: 2
+
+**************
+Sentence: 79
+(ROOT (S (S (NP (PRP He)) (VP (VBD told) (NP (PRP me)) (NP-TMP (DT the) (JJ next) (NN morning)) (SBAR (IN that) (S (NP (PRP he)) (VP (VBD had) (NP (NP (DT these) (NNS things)) (PP (IN from) (NP (DT a) (JJ certain) (NN person)))) (SBAR (IN that) (S (NP (PRP he)) (VP (VBD kept) (NP (NN company)) (PP (IN with)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD were) (VP (VBN left) (PP (IN with) (NP (PRP$ her))) (PP (IN by) (NP (PRP$ her) (NN sweetheart))))))))))))))) (, ,) (CC and) (S (NP (PRP he)) (VP (VBD wished) (NP (PRP me)) (PP (TO to) (NP (NP (NN pledge)) (NP (PRP them)))))) (. .)))
+
+
+NPs: 
+(NP (PRP He))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP me))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP he))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP
+  (NP (DT these) (NNS things))
+  (PP (IN from) (NP (DT a) (JJ certain) (NN person))))
+depth: 5 ,length: 6
+number of NPs: 2
+
+(NP (PRP he))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NN company))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP$ her))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP$ her) (NN sweetheart))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (PRP he))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP me))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NP (NN pledge)) (NP (PRP them)))
+depth: 4 ,length: 2
+number of NPs: 2
+
+Number of big NPs: 11, overall number of NPs: 15
+
+**************
+Sentence: 80
+(ROOT (S (SBAR (RB Just) (S (ADVP (RB before)) (, ,) (NP (NP (NN right)) (PP (IN upon) (NP (DT the) (NN gullet)))) (: ;) (NP (DT the) (NN apron)) (VP (VBD was) (VP (VBN tied) (PP (IN in) (NP (DT the) (JJ same) (NN way) (NN round))))))) (NP (PRP$ his) (NN waist) (RB pretty)) (ADVP (RB tight)) (PRN (, ,) (S (NP (PRP I)) (ADJP (JJ fancy) (SBAR (S (NP (PRP he)) (VP (VBD tied) (S (NP (DT that)) (NP (PRP himself)))))))) (, ,)) (NP (DT that)) (VP (VBD was) (PP (IN in) (NP (NP (CD two) (NNS knots)) (, ,) (NP (DT the) (JJ same)))) (SBAR (IN as) (S (NP (DT the) (NN handkerchief)) (VP (VBD was))))) (. .)))
+
+
+NPs: 
+(NP (NP (NN right)) (PP (IN upon) (NP (DT the) (NN gullet))))
+depth: 5 ,length: 4
+number of NPs: 2
+
+(NP (DT the) (NN apron))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (DT the) (JJ same) (NN way) (NN round))
+depth: 3 ,length: 4
+number of NPs: 0
+
+(NP (PRP$ his) (NN waist) (RB pretty))
+depth: 3 ,length: 3
+number of NPs: 0
+
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP he))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT that))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP himself))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT that))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NP (CD two) (NNS knots)) (, ,) (NP (DT the) (JJ same)))
+depth: 4 ,length: 5
+number of NPs: 2
+
+(NP (DT the) (NN handkerchief))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 11, overall number of NPs: 15
+
+******** Final statistics ********
+Number of big NPs for this time period: 331, average per sentence: 4.1375
+Number of all NPs for this time period: 540, average per sentence: 6.75
+Average length of NPs: 2.6555891238670695
+Average depth of NPs: 3.6314199395770395
