@@ -1,0 +1,6749 @@
+**************
+Sentence: 1
+(ROOT (NP (NN XI) (. .)))
+
+
+NPs: 
+(NP (NN XI) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 2
+(ROOT (NP (NN XXV) (. .)))
+
+
+NPs: 
+(NP (NN XXV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 3
+(ROOT (INTJ (NN V) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 4
+(ROOT (FRAG (NP (NNP VI)) (. .)))
+
+
+NPs: 
+(NP (NNP VI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 5
+(ROOT (FRAG (NP (NNP XXXVIII)) (. .)))
+
+
+NPs: 
+(NP (NNP XXXVIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 6
+(ROOT (NP (NP (NNP MADE)) (PP (IN IN) (NP (NNP ORDER))) (S (VP (TO TO) (VP (NP (NP (NNP ASCERTAIN) (NNP The) (NNP Nature)) (PP (IN of) (NP (NP (DT some) (NNP Mineral) (NNPS Substances)) (: ;) (NP (NP (DT AN) (NN D)) (, ,) (NP (NN INPARTICULA) (NN R)) (, ,))))) (S (VP (TO To) (VP (VB see) (SBAR (WHADVP (WRB how) (RB far)) (S (NP (NP (DT the) (NNS Acids)) (PP (PP (IN of) (NP (NNP Sea-Salt))) (CC and) (PP (IN of) (NP (NN Vitriol))))) (VP (VBP contribute) (S (VP (TO to) (VP (VB mineralize) (NP (JJ Metallic) (CC and) (JJ other) (NNS Substances)))))))))))))) (. .)))
+
+
+NPs: 
+(NP
+  (NP (NNP MADE))
+  (PP (IN IN) (NP (NNP ORDER)))
+  (S
+    (VP
+      (TO TO)
+      (VP
+        (NP
+          (NP (NNP ASCERTAIN) (NNP The) (NNP Nature))
+          (PP
+            (IN of)
+            (NP
+              (NP (DT some) (NNP Mineral) (NNPS Substances))
+              (: ;)
+              (NP
+                (NP (DT AN) (NN D))
+                (, ,)
+                (NP (NN INPARTICULA) (NN R))
+                (, ,)))))
+        (S
+          (VP
+            (TO To)
+            (VP
+              (VB see)
+              (SBAR
+                (WHADVP (WRB how) (RB far))
+                (S
+                  (NP
+                    (NP (DT the) (NNS Acids))
+                    (PP
+                      (PP (IN of) (NP (NNP Sea-Salt)))
+                      (CC and)
+                      (PP (IN of) (NP (NN Vitriol)))))
+                  (VP
+                    (VBP contribute)
+                    (S
+                      (VP
+                        (TO to)
+                        (VP
+                          (VB mineralize)
+                          (NP
+                            (JJ Metallic)
+                            (CC and)
+                            (JJ other)
+                            (NNS Substances))))))))))))))
+  (. .))
+depth: 16 ,length: 37
+number of NPs: 14
+
+Number of big NPs: 1, overall number of NPs: 15
+
+**************
+Sentence: 7
+(ROOT (FRAG (NP (NNP XX)) (. .)))
+
+
+NPs: 
+(NP (NNP XX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 8
+(ROOT (NP (NN XIII) (. .)))
+
+
+NPs: 
+(NP (NN XIII) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 9
+(ROOT (FRAG (NP (NNP XXXI)) (. .)))
+
+
+NPs: 
+(NP (NNP XXXI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 10
+(ROOT (FRAG (NP (NNP XXIII)) (. .)))
+
+
+NPs: 
+(NP (NNP XXIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 11
+(ROOT (FRAG (NP (CD IV)) (. .)))
+
+
+NPs: 
+(NP (CD IV))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 12
+(ROOT (FRAG (NP (NNP XII)) (. .)))
+
+
+NPs: 
+(NP (NNP XII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 13
+(ROOT (FRAG (NP (NNP XXI)) (. .)))
+
+
+NPs: 
+(NP (NNP XXI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 14
+(ROOT (NP (NN XXIV) (. .)))
+
+
+NPs: 
+(NP (NN XXIV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 15
+(ROOT (NP (NN XXII) (. .)))
+
+
+NPs: 
+(NP (NN XXII) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 16
+(ROOT (FRAG (NP (NNP XIV)) (. .)))
+
+
+NPs: 
+(NP (NNP XIV))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 17
+(ROOT (NP (NN XV) (. .)))
+
+
+NPs: 
+(NP (NN XV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 18
+(ROOT (NP (NP (NP (NNS pices)) (, ,) (CC and) (NP (JJ huge) (NNS stones))) (. .)))
+
+
+NPs: 
+(NP
+  (NP (NP (NNS pices)) (, ,) (CC and) (NP (JJ huge) (NNS stones)))
+  (. .))
+depth: 5 ,length: 6
+number of NPs: 3
+
+Number of big NPs: 1, overall number of NPs: 4
+
+**************
+Sentence: 19
+(ROOT (FRAG (NP (CD VIII)) (. .)))
+
+
+NPs: 
+(NP (CD VIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 20
+(ROOT (FRAG (NP (NNP II)) (. .)))
+
+
+NPs: 
+(NP (NNP II))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 21
+(ROOT (FRAG (NP (NNP XXXIII)) (. .)))
+
+
+NPs: 
+(NP (NNP XXXIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 22
+(ROOT (FRAG (NP (NNP LXXXIX)) (. .)))
+
+
+NPs: 
+(NP (NNP LXXXIX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 23
+(ROOT (NP (NN XCIV) (. .)))
+
+
+NPs: 
+(NP (NN XCIV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 24
+(ROOT (FRAG (PP (VBG Concerning) (NP (NP (DT the) (NN Fall)) (PP (IN of) (NP (NP (NN Water)) (PP (IN under) (NP (NNP Bridges))))))) (. .)))
+
+
+NPs: 
+(NP
+  (NP (DT the) (NN Fall))
+  (PP
+    (IN of)
+    (NP (NP (NN Water)) (PP (IN under) (NP (NNP Bridges))))))
+depth: 7 ,length: 6
+number of NPs: 4
+
+Number of big NPs: 1, overall number of NPs: 5
+
+**************
+Sentence: 25
+(ROOT (FRAG (NP (NNP III)) (. .)))
+
+
+NPs: 
+(NP (NNP III))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 26
+(ROOT (NP (NN XV) (. .)))
+
+
+NPs: 
+(NP (NN XV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 27
+(ROOT (FRAG (NP (NNP XXIII)) (. .)))
+
+
+NPs: 
+(NP (NNP XXIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 28
+(ROOT (NP (NP (NP (DT A) (NN Letter)) (PP (TO to) (NP (DT the) (NNP Right) (NNP Honourable) (DT the) (NNP Earl))) (PP (IN of) (NP (NP (NP (NNP Macclesfield)) (, ,) (NP (NP (NNP President)) (PP (IN of) (NP (DT the) (NNP Royal) (NNP Society)))) (, ,)) (PP (IN from) (NP (DT the) (NNP Rev.) (NNP William) (NNP Brakenridge)))))) (, ,) (NP (NP (NNP D.D.) (NNP F.R.S.)) (VP (VBG containing) (NP (DT an) (NN Answer)) (PP (TO to) (NP (NP (DT the) (NNP Account)) (PP (IN of) (NP (NP (DT the) (NNS Numbers) (CC and) (NN Increase)) (PP (IN of) (NP (NP (DT the) (NNS People)) (PP (IN of) (NP (NNP England))))))))))) (, ,) (PP (IN by) (NP (DT the) (NNP Rev.) (NNP Mr.) (NNP Forster))) (. .)))
+
+
+NPs: 
+(NP
+  (NP
+    (NP (DT A) (NN Letter))
+    (PP
+      (TO to)
+      (NP (DT the) (NNP Right) (NNP Honourable) (DT the) (NNP Earl)))
+    (PP
+      (IN of)
+      (NP
+        (NP
+          (NP (NNP Macclesfield))
+          (, ,)
+          (NP
+            (NP (NNP President))
+            (PP (IN of) (NP (DT the) (NNP Royal) (NNP Society))))
+          (, ,))
+        (PP
+          (IN from)
+          (NP (DT the) (NNP Rev.) (NNP William) (NNP Brakenridge))))))
+  (, ,)
+  (NP
+    (NP (NNP D.D.) (NNP F.R.S.))
+    (VP
+      (VBG containing)
+      (NP (DT an) (NN Answer))
+      (PP
+        (TO to)
+        (NP
+          (NP (DT the) (NNP Account))
+          (PP
+            (IN of)
+            (NP
+              (NP (DT the) (NNS Numbers) (CC and) (NN Increase))
+              (PP
+                (IN of)
+                (NP
+                  (NP (DT the) (NNS People))
+                  (PP (IN of) (NP (NNP England)))))))))))
+  (, ,)
+  (PP (IN by) (NP (DT the) (NNP Rev.) (NNP Mr.) (NNP Forster)))
+  (. .))
+depth: 13 ,length: 48
+number of NPs: 21
+
+Number of big NPs: 1, overall number of NPs: 22
+
+**************
+Sentence: 29
+(ROOT (FRAG (NP (CD LIII)) (. .)))
+
+
+NPs: 
+(NP (CD LIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 30
+(ROOT (FRAG (NP (NNP Philos)) (. .)))
+
+
+NPs: 
+(NP (NNP Philos))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 31
+(ROOT (FRAG (NP (NNP LX)) (. .)))
+
+
+NPs: 
+(NP (NNP LX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 32
+(ROOT (FRAG (NP (CD LXVII)) (. .)))
+
+
+NPs: 
+(NP (CD LXVII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 33
+(ROOT (FRAG (NP (NNP LXXIII)) (. .)))
+
+
+NPs: 
+(NP (NNP LXXIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 34
+(ROOT (S (S (NP (DT An) (NNP Account)) (PP (IN of) (NP (NP (JJ several) (NNS Experiments)) (PP (IN in) (NP (NNP Electricity)))))) (: :) (S (PP (IN In) (NP (NP (DT a) (NN Letter)) (PP (TO to) (NP (NNP Mr.) (NNP Benjamin) (NNP Wilson))))) (, ,) (NP (NP (NNP F.) (NNP R.) (NNP S.)) (RRC (PP (IN By) (NP (NP (NNP Edward) (NNP Delaval)) (, ,) (NP (NP (NNP Esq)) (: ;) (NP (NP (NNP F.) (NNP R.) (NNP S.)) (NP (NP (NN SIR)) (, ,) (NP (NNP Old) (NNP Palace-yard)) (, ,)))))) (NP-TMP (NNP June) (CD 8) (, ,) (CD 1761))))) (. .)))
+
+
+NPs: 
+(NP (DT An) (NNP Account))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP
+  (NP (JJ several) (NNS Experiments))
+  (PP (IN in) (NP (NNP Electricity))))
+depth: 5 ,length: 4
+number of NPs: 2
+
+(NP
+  (NP (DT a) (NN Letter))
+  (PP (TO to) (NP (NNP Mr.) (NNP Benjamin) (NNP Wilson))))
+depth: 5 ,length: 6
+number of NPs: 2
+
+(NP
+  (NP (NNP F.) (NNP R.) (NNP S.))
+  (RRC
+    (PP
+      (IN By)
+      (NP
+        (NP (NNP Edward) (NNP Delaval))
+        (, ,)
+        (NP
+          (NP (NNP Esq))
+          (: ;)
+          (NP
+            (NP (NNP F.) (NNP R.) (NNP S.))
+            (NP
+              (NP (NN SIR))
+              (, ,)
+              (NP (NNP Old) (NNP Palace-yard))
+              (, ,))))))
+    (NP-TMP (NNP June) (CD 8) (, ,) (CD 1761))))
+depth: 10 ,length: 21
+number of NPs: 10
+
+Number of big NPs: 4, overall number of NPs: 18
+
+**************
+Sentence: 35
+(ROOT (FRAG (NP (NNP VI)) (. .)))
+
+
+NPs: 
+(NP (NNP VI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 36
+(ROOT (FRAG (NP (CD LVIII)) (. .)))
+
+
+NPs: 
+(NP (CD LVIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 37
+(ROOT (NP (NN LXV) (. .)))
+
+
+NPs: 
+(NP (NN LXV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 38
+(ROOT (FRAG (NP (NNP XL)) (. .)))
+
+
+NPs: 
+(NP (NNP XL))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 39
+(ROOT (NP (NP (NN Extract)) (PP (IN of) (NP (NP (NP (DT a) (NN Letter)) (PP (IN from) (NP (DT the) (NNP Abbe) (NNP De) (NNP la) (NNP Caille)))) (, ,) (PP (IN of) (NP (NP (DT the) (NNP Royal) (NNP Academy)) (PP (IN of) (NP (NP (NNPS Sciences)) (PP (IN at) (NP (NNP Paris))))))) (, ,) (CC and) (NP (NP (NNP F.) (NNP R.) (NNP S.)) (PP (TO to) (NP (NP (NNP William) (NNP Watson)) (, ,) (NP (NP (NNP M.) (NNP D.) (NNP F.) (NNP R.) (NNP S.)) (VP (VBG recommending) (PP (TO to) (NP (NP (DT the) (NNP Rev.) (NNP Mr.) (NNP Nevil) (NNP Maskelyne)) (, ,) (NP (NNP F.) (NNP R.) (NNP S.)))) (S (VP (TO to) (VP (VB make) (PP (IN at) (NP (NNP St.) (NNP Helena))) (NP (NP (DT a) (NN Series)) (PP (IN of) (NP (NP (NNS Observations)) (PP (IN for) (S (VP (VBG discovering) (NP (NP (DT the) (NN Parallax)) (PP (IN of) (NP (DT the) (NNP Moon)))))))))))))))))))) (. .)))
+
+
+NPs: 
+(NP
+  (NP (NN Extract))
+  (PP
+    (IN of)
+    (NP
+      (NP
+        (NP (DT a) (NN Letter))
+        (PP
+          (IN from)
+          (NP (DT the) (NNP Abbe) (NNP De) (NNP la) (NNP Caille))))
+      (, ,)
+      (PP
+        (IN of)
+        (NP
+          (NP (DT the) (NNP Royal) (NNP Academy))
+          (PP
+            (IN of)
+            (NP (NP (NNPS Sciences)) (PP (IN at) (NP (NNP Paris)))))))
+      (, ,)
+      (CC and)
+      (NP
+        (NP (NNP F.) (NNP R.) (NNP S.))
+        (PP
+          (TO to)
+          (NP
+            (NP (NNP William) (NNP Watson))
+            (, ,)
+            (NP
+              (NP (NNP M.) (NNP D.) (NNP F.) (NNP R.) (NNP S.))
+              (VP
+                (VBG recommending)
+                (PP
+                  (TO to)
+                  (NP
+                    (NP
+                      (DT the)
+                      (NNP Rev.)
+                      (NNP Mr.)
+                      (NNP Nevil)
+                      (NNP Maskelyne))
+                    (, ,)
+                    (NP (NNP F.) (NNP R.) (NNP S.))))
+                (S
+                  (VP
+                    (TO to)
+                    (VP
+                      (VB make)
+                      (PP (IN at) (NP (NNP St.) (NNP Helena)))
+                      (NP
+                        (NP (DT a) (NN Series))
+                        (PP
+                          (IN of)
+                          (NP
+                            (NP (NNS Observations))
+                            (PP
+                              (IN for)
+                              (S
+                                (VP
+                                  (VBG discovering)
+                                  (NP
+                                    (NP (DT the) (NN Parallax))
+                                    (PP
+                                      (IN of)
+                                      (NP (DT the) (NNP Moon))))))))))))))))))))
+  (. .))
+depth: 22 ,length: 61
+number of NPs: 27
+
+Number of big NPs: 1, overall number of NPs: 28
+
+**************
+Sentence: 40
+(ROOT (FRAG (NP (NNP XII)) (. .)))
+
+
+NPs: 
+(NP (NNP XII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 41
+(ROOT (FRAG (NP (CD IV)) (. .)))
+
+
+NPs: 
+(NP (CD IV))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 42
+(ROOT (FRAG (NP (NNP XXXVI)) (. .)))
+
+
+NPs: 
+(NP (NNP XXXVI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 43
+(ROOT (S (NP (CC AND) (NP (NP (NNP OBSERVATION) (NNP S.)) (SBAR (S (PP (IN By) (NP (NN TIBERIUSCAVALL) (NN O)))))) (, ,) (NP (NNP F.) (NNP R.))) (VP (NN S)) (. .)))
+
+
+NPs: 
+(NP
+  (CC AND)
+  (NP
+    (NP (NNP OBSERVATION) (NNP S.))
+    (SBAR (S (PP (IN By) (NP (NN TIBERIUSCAVALL) (NN O))))))
+  (, ,)
+  (NP (NNP F.) (NNP R.)))
+depth: 8 ,length: 9
+number of NPs: 4
+
+Number of big NPs: 1, overall number of NPs: 5
+
+**************
+Sentence: 44
+(ROOT (FRAG (NP (NNP XXXI)) (. .)))
+
+
+NPs: 
+(NP (NNP XXXI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 45
+(ROOT (S (NP (ADJP (JJR less) (PP (IN than) (NP (NP (NN q3/27) (UCP (PP (CC but) (NP (NP (JJR greater)) (PP (IN than) (NP (NN q3/54))))) (, ,) (CC and) (SBAR (X (SYM e)) (S (S (VP (VB be) (VP (VBN put) (NP (JJ =) (NN r/2))))) (, ,) (CC and) (S (NP (NN zz) (S (VP (VB be) (VP (VBN put) (NP (JJ =) (NN q3/27)))))))))) (NN rr/4)) (, ,) (NP (NP (DT the) (NN root)) (PP (IN of) (NP (DT the) (NN equation) (NN x3) (NN qx))))))) (JJ =) (NN r)) (VP (MD will) (VP (VB be) (ADJP (JJ equal) (S (VP (TO to) (VP (VB ~) (S (NP (NP (CD 3)) (NP (FW ex)) (NP (NP (DT the) (JJ infinite) (NN series)) (NP (CD 2)))) (NP (CC +) (NP (CD 2zz/9ee) (NN 20z4/243e4)) (CC +) (NP (NNP 308z6/6561e6) (CC &) (NNP c.) (NNP ART.) (CD 4)))))))))) (. .)))
+
+
+NPs: 
+(NP
+  (ADJP
+    (JJR less)
+    (PP
+      (IN than)
+      (NP
+        (NP
+          (NN q3/27)
+          (UCP
+            (PP
+              (CC but)
+              (NP (NP (JJR greater)) (PP (IN than) (NP (NN q3/54)))))
+            (, ,)
+            (CC and)
+            (SBAR
+              (X (SYM e))
+              (S
+                (S (VP (VB be) (VP (VBN put) (NP (JJ =) (NN r/2)))))
+                (, ,)
+                (CC and)
+                (S
+                  (NP
+                    (NN zz)
+                    (S
+                      (VP
+                        (VB be)
+                        (VP (VBN put) (NP (JJ =) (NN q3/27))))))))))
+          (NN rr/4))
+        (, ,)
+        (NP
+          (NP (DT the) (NN root))
+          (PP (IN of) (NP (DT the) (NN equation) (NN x3) (NN qx)))))))
+  (JJ =)
+  (NN r))
+depth: 16 ,length: 32
+number of NPs: 11
+
+(NP
+  (NP (CD 3))
+  (NP (FW ex))
+  (NP (NP (DT the) (JJ infinite) (NN series)) (NP (CD 2))))
+depth: 5 ,length: 6
+number of NPs: 5
+
+(NP
+  (CC +)
+  (NP (CD 2zz/9ee) (NN 20z4/243e4))
+  (CC +)
+  (NP (NNP 308z6/6561e6) (CC &) (NNP c.) (NNP ART.) (CD 4)))
+depth: 4 ,length: 9
+number of NPs: 2
+
+Number of big NPs: 3, overall number of NPs: 21
+
+**************
+Sentence: 46
+(ROOT (INTJ (NN VII) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 47
+(ROOT (NP (NN XVII) (. .)))
+
+
+NPs: 
+(NP (NN XVII) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 48
+(ROOT (FRAG (NP (CD VIII)) (. .)))
+
+
+NPs: 
+(NP (CD VIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 49
+(ROOT (FRAG (NP (NNP XIV)) (. .)))
+
+
+NPs: 
+(NP (NNP XIV))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 50
+(ROOT (FRAG (NP (CD IX)) (. .)))
+
+
+NPs: 
+(NP (CD IX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 51
+(ROOT (FRAG (NP (NNP VI)) (. .)))
+
+
+NPs: 
+(NP (NNP VI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 52
+(ROOT (FRAG (NP (CD IV)) (. .)))
+
+
+NPs: 
+(NP (CD IV))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 53
+(ROOT (S (VP (VBG setting)) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 54
+(ROOT (FRAG (NP (NNP II)) (. .)))
+
+
+NPs: 
+(NP (NNP II))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 55
+(ROOT (NP (NN XlV) (. .)))
+
+
+NPs: 
+(NP (NN XlV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 56
+(ROOT (NP (NN XI) (. .)))
+
+
+NPs: 
+(NP (NN XI) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 57
+(ROOT (NP (NN XIII) (. .)))
+
+
+NPs: 
+(NP (NN XIII) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 58
+(ROOT (NP (NN Barometer) (. .)))
+
+
+NPs: 
+(NP (NN Barometer) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 59
+(ROOT (FRAG (NP (NNP XVIII)) (. .)))
+
+
+NPs: 
+(NP (NNP XVIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 60
+(ROOT (FRAG (NP (JJ PHILOSOPHICAL) (NNP TRANSACTTON) (NNP S.) (NNP SII)) (. .)))
+
+
+NPs: 
+(NP (JJ PHILOSOPHICAL) (NNP TRANSACTTON) (NNP S.) (NNP SII))
+depth: 3 ,length: 4
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 61
+(ROOT (NP (NN XXV) (. .)))
+
+
+NPs: 
+(NP (NN XXV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 62
+(ROOT (NP (NN XI) (. .)))
+
+
+NPs: 
+(NP (NN XI) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 63
+(ROOT (FRAG (NP (CD IX)) (. .)))
+
+
+NPs: 
+(NP (CD IX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 64
+(ROOT (NP (NN XXIV) (. .)))
+
+
+NPs: 
+(NP (NN XXIV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 65
+(ROOT (FRAG (NP (NNP XII)) (. .)))
+
+
+NPs: 
+(NP (NNP XII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 66
+(ROOT (SINV (PP (IN Near) (NP (PRP$ my) (NN house))) (VP (VBD was)) (NP (NP (DT an) (JJ old) (RB well)) (, ,) (NP (ADVP (IN about) (NP (CD one)) (PP (PP (NP (CD hundred) (NNS yards)) (IN from) (NP (DT the) (NN river))) (, ,) (CC and) (PP (IN about) (ADVP (NP (CD four) (NNS yards)) (RB deep))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VP (VBD had) (VP (VBN been) (NP (NP (JJ many) (NNS years)) (VP (VBN disused) (PP (IN on) (NP (NP (NN account)) (PP (IN of) (NP (NP (DT the) (NN badness)) (PP (IN of) (NP (DT the) (NN water))) (, ,) (SBAR (WHNP (WDT which)) (S (NP (PRP I)) (VP (VBD found) (S (VP (TO to) (VP (VB contain) (NP (JJ much) (JJ vitriolic) (NN acid))))) (, ,) (PP (IN with)) (, ,) (PP (IN at) (NP (NP (DT the) (JJ same) (NN time)) (, ,) (NP (DT a) (JJ slight) (JJ sulphureous) (NN smell)) (CC and) (NP (NN taste))))))) (: ;))))))))) (CC but) (VP (VBD did) (RB not) (VP (ADVP (RB carefully)) (VB analyse) (NP (PRP it))))))))) (. .)))
+
+
+NPs: 
+(NP (PRP$ my) (NN house))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP
+  (NP (DT an) (JJ old) (RB well))
+  (, ,)
+  (NP
+    (ADVP
+      (IN about)
+      (NP (CD one))
+      (PP
+        (PP
+          (NP (CD hundred) (NNS yards))
+          (IN from)
+          (NP (DT the) (NN river)))
+        (, ,)
+        (CC and)
+        (PP (IN about) (ADVP (NP (CD four) (NNS yards)) (RB deep)))))
+    (, ,)
+    (SBAR
+      (WHNP (WDT which))
+      (S
+        (VP
+          (VP
+            (VBD had)
+            (VP
+              (VBN been)
+              (NP
+                (NP (JJ many) (NNS years))
+                (VP
+                  (VBN disused)
+                  (PP
+                    (IN on)
+                    (NP
+                      (NP (NN account))
+                      (PP
+                        (IN of)
+                        (NP
+                          (NP (DT the) (NN badness))
+                          (PP (IN of) (NP (DT the) (NN water)))
+                          (, ,)
+                          (SBAR
+                            (WHNP (WDT which))
+                            (S
+                              (NP (PRP I))
+                              (VP
+                                (VBD found)
+                                (S
+                                  (VP
+                                    (TO to)
+                                    (VP
+                                      (VB contain)
+                                      (NP
+                                        (JJ much)
+                                        (JJ vitriolic)
+                                        (NN acid)))))
+                                (, ,)
+                                (PP (IN with))
+                                (, ,)
+                                (PP
+                                  (IN at)
+                                  (NP
+                                    (NP (DT the) (JJ same) (NN time))
+                                    (, ,)
+                                    (NP
+                                      (DT a)
+                                      (JJ slight)
+                                      (JJ sulphureous)
+                                      (NN smell))
+                                    (CC and)
+                                    (NP (NN taste)))))))
+                          (: ;)))))))))
+          (CC but)
+          (VP
+            (VBD did)
+            (RB not)
+            (VP (ADVP (RB carefully)) (VB analyse) (NP (PRP it)))))))))
+depth: 22 ,length: 62
+number of NPs: 20
+
+Number of big NPs: 2, overall number of NPs: 22
+
+**************
+Sentence: 67
+(ROOT (FRAG (NP (CD VIII)) (. .)))
+
+
+NPs: 
+(NP (CD VIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 68
+(ROOT (NP (NP (NP (NNP V.) (NN Description)) (PP (IN of) (NP (DT a) (NN Plant)))) (VP (VBG yielding) (NP (NN Asa) (NN foetida))) (. .)))
+
+
+NPs: 
+(NP
+  (NP
+    (NP (NNP V.) (NN Description))
+    (PP (IN of) (NP (DT a) (NN Plant))))
+  (VP (VBG yielding) (NP (NN Asa) (NN foetida)))
+  (. .))
+depth: 6 ,length: 9
+number of NPs: 4
+
+Number of big NPs: 1, overall number of NPs: 5
+
+**************
+Sentence: 69
+(ROOT (NP (NN XVII) (. .)))
+
+
+NPs: 
+(NP (NN XVII) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 70
+(ROOT (FRAG (NP (NNP III)) (. .)))
+
+
+NPs: 
+(NP (NNP III))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 71
+(ROOT (INTJ (NN VII) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 72
+(ROOT (FRAG (NP (NNP XXXII)) (. .)))
+
+
+NPs: 
+(NP (NNP XXXII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 73
+(ROOT (FRAG (NP (NNP XXI)) (. .)))
+
+
+NPs: 
+(NP (NNP XXI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 74
+(ROOT (INTJ (NN X) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 75
+(ROOT (NP (NN XXIV) (. .)))
+
+
+NPs: 
+(NP (NN XXIV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 76
+(ROOT (FRAG (NP (NNP XXXVII)) (. .)))
+
+
+NPs: 
+(NP (NNP XXXVII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 77
+(ROOT (FRAG (NP (NNP XXI)) (. .)))
+
+
+NPs: 
+(NP (NNP XXI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 78
+(ROOT (FRAG (NP (NNP XIV)) (. .)))
+
+
+NPs: 
+(NP (NNP XIV))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 79
+(ROOT (FRAG (NP (NNP XXVII)) (. .)))
+
+
+NPs: 
+(NP (NNP XXVII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 80
+(ROOT (FRAG (NP (NNP XXXIII)) (. .)))
+
+
+NPs: 
+(NP (NNP XXXIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 81
+(ROOT (NP (NP (NNP X.) (NNS Observations)) (PP (IN of) (NP (DT the) (NNP Transit))) (PP (IN of) (NP (NNP Mercury))) (PP (IN at) (NP (NNP St.) (NNP Petersburg))) (. .)))
+
+
+NPs: 
+(NP
+  (NP (NNP X.) (NNS Observations))
+  (PP (IN of) (NP (DT the) (NNP Transit)))
+  (PP (IN of) (NP (NNP Mercury)))
+  (PP (IN at) (NP (NNP St.) (NNP Petersburg)))
+  (. .))
+depth: 5 ,length: 11
+number of NPs: 4
+
+Number of big NPs: 1, overall number of NPs: 5
+
+**************
+Sentence: 82
+(ROOT (NP (NN XXIV) (. .)))
+
+
+NPs: 
+(NP (NN XXIV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 83
+(ROOT (NP (NN XI) (. .)))
+
+
+NPs: 
+(NP (NN XI) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 84
+(ROOT (NP (NN XXXV) (. .)))
+
+
+NPs: 
+(NP (NN XXXV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 85
+(ROOT (S (NP (NNS ments)) (, ,) (NP (PRP I)) (VP (VBP flatter) (NP (PRP myself)) (SBAR (IN that) (S (NP (PRP you)) (VP (MD will) (RB not) (VP (VB think) (NP (NP (DT an) (NN account)) (PP (IN of) (NP (PRP$ my) (NNS labours)))) (PP (IN upon) (NP (NP (DT this) (ADJP (JJ subject))) (ADJP (RB altogether) (JJ uninteresting))))))))) (. .)))
+
+
+NPs: 
+(NP (NNS ments))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP myself))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP you))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP
+  (NP (DT an) (NN account))
+  (PP (IN of) (NP (PRP$ my) (NNS labours))))
+depth: 5 ,length: 5
+number of NPs: 2
+
+(NP
+  (NP (DT this) (ADJP (JJ subject)))
+  (ADJP (RB altogether) (JJ uninteresting)))
+depth: 5 ,length: 4
+number of NPs: 1
+
+Number of big NPs: 6, overall number of NPs: 9
+
+**************
+Sentence: 86
+(ROOT (FRAG (NP (NNP III)) (. .)))
+
+
+NPs: 
+(NP (NNP III))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 87
+(ROOT (FRAG (NP (JJ PHILOSOPHICAL) (NNS TRANSACTIONS)) (. .)))
+
+
+NPs: 
+(NP (JJ PHILOSOPHICAL) (NNS TRANSACTIONS))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 88
+(ROOT (FRAG (NP (NNP XXX)) (. .)))
+
+
+NPs: 
+(NP (NNP XXX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 89
+(ROOT (FRAG (NP (NNP XXVII)) (. .)))
+
+
+NPs: 
+(NP (NNP XXVII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 90
+(ROOT (FRAG (NP (NNP XXIII)) (. .)))
+
+
+NPs: 
+(NP (NNP XXIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 91
+(ROOT (FRAG (NP (NNP XXXIII)) (. .)))
+
+
+NPs: 
+(NP (NNP XXXIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 92
+(ROOT (FRAG (NP (CD XLII)) (. .)))
+
+
+NPs: 
+(NP (CD XLII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 93
+(ROOT (FRAG (NP (NNP XLI)) (. .)))
+
+
+NPs: 
+(NP (NNP XLI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 94
+(ROOT (S (VP (VBN Received) (NP-TMP (NNP January) (CD 14) (, ,) (CD 1768))) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 95
+(ROOT (S (VP (VBN Received) (NP-TMP (NNP February) (CD 4) (, ,) (CD 1768))) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 96
+(ROOT (NP (NN XXII) (. .)))
+
+
+NPs: 
+(NP (NN XXII) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 97
+(ROOT (S (VP (VBN Received) (NP-TMP (NNP December) (CD 12) (, ,) (CD 1765))) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 98
+(ROOT (S (VP (VBN Received) (NP-TMP (NNP November) (CD 14) (, ,) (CD 1768))) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 99
+(ROOT (S (VP (VBN Received) (NP-TMP (NNP November) (CD 26) (, ,) (CD 1767))) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 100
+(ROOT (FRAG (NP (NNP Philos)) (. .)))
+
+
+NPs: 
+(NP (NNP Philos))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 101
+(ROOT (INTJ (NN VII) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 102
+(ROOT (NP (NN XIII) (. .)))
+
+
+NPs: 
+(NP (NN XIII) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 103
+(ROOT (FRAG (NP (NNP XVIII)) (. .)))
+
+
+NPs: 
+(NP (NNP XVIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 104
+(ROOT (FRAG (NP (NNP XVI)) (. .)))
+
+
+NPs: 
+(NP (NNP XVI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 105
+(ROOT (FRAG (NP (NNP XIX)) (. .)))
+
+
+NPs: 
+(NP (NNP XIX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 106
+(ROOT (FRAG (NP (CD IX)) (. .)))
+
+
+NPs: 
+(NP (CD IX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 107
+(ROOT (NP (NP (NNP PHILO) (NNP SOPHICAL)) (NP (NNS TRANSACTIONS)) (. .)))
+
+
+NPs: 
+(NP (NP (NNP PHILO) (NNP SOPHICAL)) (NP (NNS TRANSACTIONS)) (. .))
+depth: 4 ,length: 4
+number of NPs: 2
+
+Number of big NPs: 1, overall number of NPs: 3
+
+**************
+Sentence: 108
+(ROOT (NP (NN XVII) (. .)))
+
+
+NPs: 
+(NP (NN XVII) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 109
+(ROOT (FRAG (NP (NNP II)) (. .)))
+
+
+NPs: 
+(NP (NNP II))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 110
+(ROOT (S (NP (NP (NNP XII) (, ,) (NNP Expenrments)) (SBAR (S (VP (TO to) (VP (VB determine) (NP (NP (DT the) (NN Force)) (PP (IN of)))))))) (VP (VBN fired) (S (NP (NN Gunpowder)) (PP (IN By) (NP (NP (NNP Benjamin) (NNP Count)) (PP (IN of) (NP (NNP Rumford) (, ,) (NNP F.) (NNP Rt.))))))) (. .)))
+
+
+NPs: 
+(NP
+  (NP (NNP XII) (, ,) (NNP Expenrments))
+  (SBAR
+    (S
+      (VP
+        (TO to)
+        (VP
+          (VB determine)
+          (NP (NP (DT the) (NN Force)) (PP (IN of))))))))
+depth: 9 ,length: 8
+number of NPs: 3
+
+(NP (NN Gunpowder))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP
+  (NP (NNP Benjamin) (NNP Count))
+  (PP (IN of) (NP (NNP Rumford) (, ,) (NNP F.) (NNP Rt.))))
+depth: 5 ,length: 7
+number of NPs: 2
+
+Number of big NPs: 3, overall number of NPs: 8
+
+**************
+Sentence: 111
+(ROOT (FRAG (NP (NNP II)) (. .)))
+
+
+NPs: 
+(NP (NNP II))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 112
+(ROOT (S (NP (NP (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (DT the) (NNS experiments)) (VP (VBD were) (NP (NP (NNS madewas)) (VP (ADVP (RB so) (RB much)) (VBN darkened) (SBAR (IN that) (S (NP (NP (NN nothing)) (PP (CC but) (NP (NP (NN theillumination)) (PP (IN from) (NP (DT the) (NN eye)))))) (VP (VBD was) (ADJP (JJ visible)))))))))) (, ,) (NP (NP (DT the) (NN animal)) (, ,) (PP (IN by) (NP (NN change))) (PP (IN of) (NP (NN posture))))) (, ,) (CC or) (NP (DT some) (JJ other) (NNS means))) (, ,) (ADVP (RB almost)) (VP (ADVP (RB immediately)) (VBN deprived) (NP (NP (DT the) (NNS observers)) (PP (IN of) (NP (DT all) (NN light)))) (PP (IN from) (NP (DT that) (NN source)))) (. .)))
+
+
+NPs: 
+(NP
+  (NP
+    (SBAR
+      (WHPP (IN in) (WHNP (WDT which)))
+      (S
+        (NP (DT the) (NNS experiments))
+        (VP
+          (VBD were)
+          (NP
+            (NP (NNS madewas))
+            (VP
+              (ADVP (RB so) (RB much))
+              (VBN darkened)
+              (SBAR
+                (IN that)
+                (S
+                  (NP
+                    (NP (NN nothing))
+                    (PP
+                      (CC but)
+                      (NP
+                        (NP (NN theillumination))
+                        (PP (IN from) (NP (DT the) (NN eye))))))
+                  (VP (VBD was) (ADJP (JJ visible))))))))))
+    (, ,)
+    (NP
+      (NP (DT the) (NN animal))
+      (, ,)
+      (PP (IN by) (NP (NN change)))
+      (PP (IN of) (NP (NN posture)))))
+  (, ,)
+  (CC or)
+  (NP (DT some) (JJ other) (NNS means)))
+depth: 16 ,length: 31
+number of NPs: 14
+
+(NP
+  (NP (DT the) (NNS observers))
+  (PP (IN of) (NP (DT all) (NN light))))
+depth: 5 ,length: 5
+number of NPs: 2
+
+(NP (DT that) (NN source))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 3, overall number of NPs: 19
+
+**************
+Sentence: 113
+(ROOT (FRAG (NP (CD IV)) (. .)))
+
+
+NPs: 
+(NP (CD IV))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 114
+(ROOT (NP (NN XV) (. .)))
+
+
+NPs: 
+(NP (NN XV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 115
+(ROOT (NP (NN ILI) (. .)))
+
+
+NPs: 
+(NP (NN ILI) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 116
+(ROOT (FRAG (NP (CD VIII)) (. .)))
+
+
+NPs: 
+(NP (CD VIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 117
+(ROOT (NP (NN XIII) (. .)))
+
+
+NPs: 
+(NP (NN XIII) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 118
+(ROOT (FRAG (NP (CD IX)) (. .)))
+
+
+NPs: 
+(NP (CD IX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 119
+(ROOT (FRAG (NP (NNP XIX)) (. .)))
+
+
+NPs: 
+(NP (NNP XIX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 120
+(ROOT (FRAG (NP (NNP XII)) (. .)))
+
+
+NPs: 
+(NP (NNP XII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 121
+(ROOT (NP (NN XV) (. .)))
+
+
+NPs: 
+(NP (NN XV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 122
+(ROOT (S (S (NP (JJ Many) (NNS walnut-trees)) (VP (VBD were) (VP (VBN split) (PP (IN from) (NP (NP (DT the) (NN collar)) (PP (TO to) (NP (DT the) (NN root))))) (PP (IN by) (NP (NP (DT the) (JJ great) (NN frost)) (PP (IN in) (NP (CD 1740))))) (, ,) (SBAR (RB so) (IN that) (S (NP (DT a) (NN knife)) (VP (MD might) (VP (VB be) (VP (VBN thrust) (PP (IN in) (NP (CD eight) (CC or) (CD ten) (NNS inches))))))))))) (: ;) (S (NP (DT the) (NNS clefts)) (VP (VP (VBD closed) (ADVP (RB again)) (PP (IN in) (NP (NN summer)))) (, ,) (CC but) (VP (ADVP (RB never)) (VBN united)))) (. .)))
+
+
+NPs: 
+(NP (JJ Many) (NNS walnut-trees))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (NP (DT the) (NN collar)) (PP (TO to) (NP (DT the) (NN root))))
+depth: 5 ,length: 5
+number of NPs: 2
+
+(NP (NP (DT the) (JJ great) (NN frost)) (PP (IN in) (NP (CD 1740))))
+depth: 5 ,length: 5
+number of NPs: 2
+
+(NP (DT a) (NN knife))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (CD eight) (CC or) (CD ten) (NNS inches))
+depth: 3 ,length: 4
+number of NPs: 0
+
+(NP (DT the) (NNS clefts))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (NN summer))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 7, overall number of NPs: 11
+
+**************
+Sentence: 123
+(ROOT (FRAG (NP (NNP XIX)) (. .)))
+
+
+NPs: 
+(NP (NNP XIX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 124
+(ROOT (FRAG (NP (NNP II)) (. .)))
+
+
+NPs: 
+(NP (NNP II))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 125
+(ROOT (S (S (RB not) (VP (VBG conceiving) (NP (RB yet) (DT any) (JJ known) (NN limit)) (PP (TO to) (NP (NP (DT the) (NN intensity)) (PP (IN of) (NP (NN heat))))))) (, ,) (NP (PRP I)) (VP (MD could) (RB not) (VP (VB expect) (ADVP (ADJP (DT any))) (NP (NP (NN limit) (TO to) (NN dryness)) (, ,) (CC nor) (RB even) (NP (NP (DT a) (VBN fixed) (NN degree)) (PP (IN of) (NP (PRP it))))))) (. .)))
+
+
+NPs: 
+(NP (RB yet) (DT any) (JJ known) (NN limit))
+depth: 3 ,length: 4
+number of NPs: 0
+
+(NP (NP (DT the) (NN intensity)) (PP (IN of) (NP (NN heat))))
+depth: 5 ,length: 4
+number of NPs: 2
+
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP
+  (NP (NN limit) (TO to) (NN dryness))
+  (, ,)
+  (CC nor)
+  (RB even)
+  (NP (NP (DT a) (VBN fixed) (NN degree)) (PP (IN of) (NP (PRP it)))))
+depth: 6 ,length: 11
+number of NPs: 4
+
+Number of big NPs: 4, overall number of NPs: 10
+
+**************
+Sentence: 126
+(ROOT (FRAG (NP (NNP XXI)) (. .)))
+
+
+NPs: 
+(NP (NNP XXI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 127
+(ROOT (FRAG (NP (NNP XVIII)) (. .)))
+
+
+NPs: 
+(NP (NNP XVIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 128
+(ROOT (NP (NN XVII) (. .)))
+
+
+NPs: 
+(NP (NN XVII) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 129
+(ROOT (FRAG (NP (NNP III)) (. .)))
+
+
+NPs: 
+(NP (NNP III))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 130
+(ROOT (NP (NNP ERRAT) (NNP A.) (NNP VO) (NNP L.) (NNP LXXIX) (. .)))
+
+
+NPs: 
+(NP (NNP ERRAT) (NNP A.) (NNP VO) (NNP L.) (NNP LXXIX) (. .))
+depth: 3 ,length: 6
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 131
+(ROOT (NP (NN XV) (. .)))
+
+
+NPs: 
+(NP (NN XV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 132
+(ROOT (NP (NN XXIV) (. .)))
+
+
+NPs: 
+(NP (NN XXIV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 133
+(ROOT (NP (NN XIII) (. .)))
+
+
+NPs: 
+(NP (NN XIII) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 134
+(ROOT (NP (NN XXIV) (. .)))
+
+
+NPs: 
+(NP (NN XXIV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 135
+(ROOT (S (S (NP (PRP It)) (VP (VBG being) (ADJP (JJ evident) (PP (IN from) (NP (NP (DT this)) (, ,) (SBAR (IN that) (S (NP (EX there)) (VP (VBD was) (PP (IN in) (NP (NP (DT the) (NN thorax)) (PP (IN of) (NP (DT this) (JJ young) (NN woman))))) (NP (NP (DT a) (NN receptacle)) (PP (IN of) (NP (NN serosity))) (PRN (-LRB- -LRB-) (SBAR (IN if) (S (NP (PRP I)) (VP (MD may) (ADVP (RB so)) (VP (VB call) (NP (PRP it)))))) (-RRB- -RRB-)) (ADJP (JJ contiguous) (PP (TO to) (NP (DT the) (JJ sound) (NN lobe))))))))))))) (, ,) (NP (PRP it)) (VP (MD will) (RB not) (VP (VB appear) (ADJP (JJ strange)) (SBAR (IN that) (PRN (, ,) (PP (IN from) (NP (NP (DT the) (JJ violent) (NN agitation)) (VP (VBN caused) (PP (PP (IN by) (NP (NP (DT the) (NN singing) (CC and) (NN dancing)) (, ,) (NP (DT the) (NN bag) (NN burst)) (, ,))) (CC and) (PP (IN that) (NP (NP (DT the) (JJ sound) (NN lobe)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB alone)) (VP (VBD used) (S (VP (TO to) (VP (VB perform) (NP (NP (DT the) (NN office)) (PP (IN of) (NP (NN breathing))))))) (, ,) (S (VP (VBG being) (VP (VBN hindered) (, ,) (PP (IN by) (NP (NP (DT the) (JJ serous) (NN matter)) (SBAR (WHNP (WDT which)) (S (VP (VBD came) (PRT (RP out))))))) (, ,) (PP (IN from) (S (VP (VBG exerting) (NP (PRP$ its) (NN influence))))))))))))))))) (, ,)) (S (NP (DT a) (NN suffocation)) (VP (VBN ensued)))))) (. .)))
+
+
+NPs: 
+(NP (PRP It))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP
+  (NP (DT this))
+  (, ,)
+  (SBAR
+    (IN that)
+    (S
+      (NP (EX there))
+      (VP
+        (VBD was)
+        (PP
+          (IN in)
+          (NP
+            (NP (DT the) (NN thorax))
+            (PP (IN of) (NP (DT this) (JJ young) (NN woman)))))
+        (NP
+          (NP (DT a) (NN receptacle))
+          (PP (IN of) (NP (NN serosity)))
+          (PRN
+            (-LRB- -LRB-)
+            (SBAR
+              (IN if)
+              (S
+                (NP (PRP I))
+                (VP
+                  (MD may)
+                  (ADVP (RB so))
+                  (VP (VB call) (NP (PRP it))))))
+            (-RRB- -RRB-))
+          (ADJP
+            (JJ contiguous)
+            (PP (TO to) (NP (DT the) (JJ sound) (NN lobe)))))))))
+depth: 13 ,length: 29
+number of NPs: 11
+
+(NP (PRP it))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP
+  (NP (DT the) (JJ violent) (NN agitation))
+  (VP
+    (VBN caused)
+    (PP
+      (PP
+        (IN by)
+        (NP
+          (NP (DT the) (NN singing) (CC and) (NN dancing))
+          (, ,)
+          (NP (DT the) (NN bag) (NN burst))
+          (, ,)))
+      (CC and)
+      (PP
+        (IN that)
+        (NP
+          (NP (DT the) (JJ sound) (NN lobe))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (ADVP (RB alone))
+              (VP
+                (VBD used)
+                (S
+                  (VP
+                    (TO to)
+                    (VP
+                      (VB perform)
+                      (NP
+                        (NP (DT the) (NN office))
+                        (PP (IN of) (NP (NN breathing)))))))
+                (, ,)
+                (S
+                  (VP
+                    (VBG being)
+                    (VP
+                      (VBN hindered)
+                      (, ,)
+                      (PP
+                        (IN by)
+                        (NP
+                          (NP (DT the) (JJ serous) (NN matter))
+                          (SBAR
+                            (WHNP (WDT which))
+                            (S (VP (VBD came) (PRT (RP out)))))))
+                      (, ,)
+                      (PP
+                        (IN from)
+                        (S
+                          (VP
+                            (VBG exerting)
+                            (NP (PRP$ its) (NN influence))))))))))))))))
+depth: 19 ,length: 45
+number of NPs: 12
+
+(NP (DT a) (NN suffocation))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 5, overall number of NPs: 28
+
+**************
+Sentence: 136
+(ROOT (FRAG (NP (NNP XVIII)) (. .)))
+
+
+NPs: 
+(NP (NNP XVIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 137
+(ROOT (S (NP (NP (DT Some) (NNP Account)) (PP (IN of) (NP (NP (DT the) (NNS Effects)) (PP (IN of) (NP (NP (DT a) (NN Storm)) (PP (IN of) (NP (NNP Thunder) (CC and) (NNP Lightening))) (PP (IN in) (NP (NNP Pembroke) (NNP College)))))))) (, ,) (SBAR (X (NP (NNP Oxford)) (, ,) (PP (IN on) (NP (NNP June) (CD 3) (, ,) (CD 1765))) (: :)) (S (PP (IN In) (NP (NP (DT a) (NN Letter)) (PP (IN from) (NP (NNP Mr.) (NNP Griffith))))) (, ,) (NP (IN of) (DT the)) (VP (VBD said) (NP (NNP College)) (, ,) (PP (TO to) (NP (DT the) (NNP Rev.) (NNP John) (NNP Swinton)))))) (, ,) (NP (NNP B.) (NNP D.) (NNP F.) (NNP R.) (NNP S.) (NNP Rev.) (NNP Sir)) (, ,) (PP (IN IN) (NP (NP (NN compliance)) (PP (IN with) (NP (PRP$ your) (NN request))))) (, ,) (NP (PRP I)) (VP (VBP send) (S (NP (PRP you)) (VP (NP (NP (DT an) (NN account)) (PP (IN of) (NP (NP (DT the) (NN storm)) (PP (IN of) (NP (NP (NN thunder) (CC and) (VBG lightening)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD fell) (PP (IN upon) (NP (NNP Pembroke) (NN college))) (, ,) (PP (IN on) (NP (NNP Monday))))))))))) (, ,) (NP (NP (NNP June) (CD 3d)) (JJ last))))) (. .)))
+
+
+NPs: 
+(NP
+  (NP (DT Some) (NNP Account))
+  (PP
+    (IN of)
+    (NP
+      (NP (DT the) (NNS Effects))
+      (PP
+        (IN of)
+        (NP
+          (NP (DT a) (NN Storm))
+          (PP (IN of) (NP (NNP Thunder) (CC and) (NNP Lightening)))
+          (PP (IN in) (NP (NNP Pembroke) (NNP College))))))))
+depth: 9 ,length: 15
+number of NPs: 7
+
+(NP (NNP Oxford))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NNP June) (CD 3) (, ,) (CD 1765))
+depth: 3 ,length: 4
+number of NPs: 0
+
+(NP
+  (NP (DT a) (NN Letter))
+  (PP (IN from) (NP (NNP Mr.) (NNP Griffith))))
+depth: 5 ,length: 5
+number of NPs: 2
+
+(NP (IN of) (DT the))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (NNP College))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT the) (NNP Rev.) (NNP John) (NNP Swinton))
+depth: 3 ,length: 4
+number of NPs: 0
+
+(NP
+  (NNP B.)
+  (NNP D.)
+  (NNP F.)
+  (NNP R.)
+  (NNP S.)
+  (NNP Rev.)
+  (NNP Sir))
+depth: 3 ,length: 7
+number of NPs: 0
+
+(NP
+  (NP (NN compliance))
+  (PP (IN with) (NP (PRP$ your) (NN request))))
+depth: 5 ,length: 4
+number of NPs: 2
+
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP you))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP
+  (NP (DT an) (NN account))
+  (PP
+    (IN of)
+    (NP
+      (NP (DT the) (NN storm))
+      (PP
+        (IN of)
+        (NP
+          (NP (NN thunder) (CC and) (VBG lightening))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP
+                (VBD fell)
+                (PP (IN upon) (NP (NNP Pembroke) (NN college)))
+                (, ,)
+                (PP (IN on) (NP (NNP Monday)))))))))))
+depth: 12 ,length: 18
+number of NPs: 7
+
+(NP (NP (NNP June) (CD 3d)) (JJ last))
+depth: 4 ,length: 3
+number of NPs: 1
+
+Number of big NPs: 13, overall number of NPs: 32
+
+**************
+Sentence: 138
+(ROOT (FRAG (NP (NNP Philos)) (. .)))
+
+
+NPs: 
+(NP (NNP Philos))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 139
+(ROOT (FRAG (NP (NNP XX)) (. .)))
+
+
+NPs: 
+(NP (NNP XX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 140
+(ROOT (FRAG (NP (NNP III)) (. .)))
+
+
+NPs: 
+(NP (NNP III))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 141
+(ROOT (INTJ (NN VII) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 142
+(ROOT (NP (NP (NNP June)) (NP (CD 1782)) (. .)))
+
+
+NPs: 
+(NP (NP (NNP June)) (NP (CD 1782)) (. .))
+depth: 4 ,length: 3
+number of NPs: 2
+
+Number of big NPs: 1, overall number of NPs: 3
+
+**************
+Sentence: 143
+(ROOT (NP (NN XXV) (. .)))
+
+
+NPs: 
+(NP (NN XXV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 144
+(ROOT (NP (NN XXII) (. .)))
+
+
+NPs: 
+(NP (NN XXII) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 145
+(ROOT (FRAG (NP (NNP XIV)) (. .)))
+
+
+NPs: 
+(NP (NNP XIV))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 146
+(ROOT (FRAG (NP (NNP XXVIII)) (. .)))
+
+
+NPs: 
+(NP (NNP XXVIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 147
+(ROOT (FRAG (NP (NNP XXVI)) (. .)))
+
+
+NPs: 
+(NP (NNP XXVI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 148
+(ROOT (FRAG (NP (NNP XXX)) (. .)))
+
+
+NPs: 
+(NP (NNP XXX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 149
+(ROOT (NP (NN XVII) (. .)))
+
+
+NPs: 
+(NP (NN XVII) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 150
+(ROOT (FRAG (NP (CD IX)) (. .)))
+
+
+NPs: 
+(NP (CD IX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 151
+(ROOT (FRAG (NP (NNP XXVIII)) (. .)))
+
+
+NPs: 
+(NP (NNP XXVIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 152
+(ROOT (FRAG (NP (NNP XXX)) (. .)))
+
+
+NPs: 
+(NP (NNP XXX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 153
+(ROOT (FRAG (NP (NNP II)) (. .)))
+
+
+NPs: 
+(NP (NNP II))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 154
+(ROOT (FRAG (NP (CD IV)) (. .)))
+
+
+NPs: 
+(NP (CD IV))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 155
+(ROOT (FRAG (NP (NNP XL)) (. .)))
+
+
+NPs: 
+(NP (NNP XL))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 156
+(ROOT (NP (NN XIII) (. .)))
+
+
+NPs: 
+(NP (NN XIII) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 157
+(ROOT (FRAG (NP (NNP III)) (. .)))
+
+
+NPs: 
+(NP (NNP III))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 158
+(ROOT (NP (NN XLV) (. .)))
+
+
+NPs: 
+(NP (NN XLV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 159
+(ROOT (NP (NN XI) (. .)))
+
+
+NPs: 
+(NP (NN XI) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 160
+(ROOT (NP (NN XXII) (. .)))
+
+
+NPs: 
+(NP (NN XXII) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 161
+(ROOT (FRAG (NP (NNP X.)) (PP (IN On) (NP (NP (DT the) (NN Height)) (PP (IN of) (NP (DT the) (JJ luminous) (NNP Arch))) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (VP (VBN seen) (PP (IN on) (NP (NNP Feb.) (CD 23) (, ,) (CD 1784))))))))) (. .)))
+
+
+NPs: 
+(NP (NNP X.))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP
+  (NP (DT the) (NN Height))
+  (PP (IN of) (NP (DT the) (JJ luminous) (NNP Arch)))
+  (SBAR
+    (WHNP (WDT which))
+    (S
+      (VP
+        (VBD was)
+        (VP
+          (VBN seen)
+          (PP (IN on) (NP (NNP Feb.) (CD 23) (, ,) (CD 1784))))))))
+depth: 9 ,length: 14
+number of NPs: 3
+
+Number of big NPs: 2, overall number of NPs: 5
+
+**************
+Sentence: 162
+(ROOT (FRAG (NP (NNP XX)) (. .)))
+
+
+NPs: 
+(NP (NNP XX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 163
+(ROOT (NP (NN XXIV) (. .)))
+
+
+NPs: 
+(NP (NN XXIV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 164
+(ROOT (FRAG (NP (NNP XVI)) (. .)))
+
+
+NPs: 
+(NP (NNP XVI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 165
+(ROOT (FRAG (NP (NNP XIV)) (. .)))
+
+
+NPs: 
+(NP (NNP XIV))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 166
+(ROOT (S (NP (NP (NN situation)) (PP (IN in) (NP (DT the) (JJ Saturnian) (NN system)))) (VP (VBZ intitles) (NP (PRP them)) (PRN (, ,) (ADVP (RB very) (RB probably)) (, ,)) (PP (TO to) (NP (DT the) (JJ first) (CC and) (JJ second) (NN place)))) (. .)))
+
+
+NPs: 
+(NP
+  (NP (NN situation))
+  (PP (IN in) (NP (DT the) (JJ Saturnian) (NN system))))
+depth: 5 ,length: 5
+number of NPs: 2
+
+(NP (PRP them))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT the) (JJ first) (CC and) (JJ second) (NN place))
+depth: 3 ,length: 5
+number of NPs: 0
+
+Number of big NPs: 3, overall number of NPs: 5
+
+**************
+Sentence: 167
+(ROOT (INTJ (NN V) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 168
+(ROOT (INTJ (NN VII) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 169
+(ROOT (FRAG (NP (NNP XVIII)) (. .)))
+
+
+NPs: 
+(NP (NNP XVIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 170
+(ROOT (FRAG (NP (NNP VI)) (. .)))
+
+
+NPs: 
+(NP (NNP VI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 171
+(ROOT (S (S (NP (NNS Observations)) (PP (PP (IN upon) (NP (NP (DT the) (NNS Currents)) (PP (IN of) (NP (DT the) (NN Sea))))) (, ,) (PP (IN at) (NP (NP (DT the) (NNP Antisles)) (PP (IN of) (NP (NNP America))))))) (: :) (S (PP (IN By) (NP (NNP Dr.) (NNP Peyssonnel))) (, ,) (NP (NP (NNP F.) (NNP R.)) (NP (NN S)))) (. .)))
+
+
+NPs: 
+(NP (NNS Observations))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NP (DT the) (NNS Currents)) (PP (IN of) (NP (DT the) (NN Sea))))
+depth: 5 ,length: 5
+number of NPs: 2
+
+(NP (NP (DT the) (NNP Antisles)) (PP (IN of) (NP (NNP America))))
+depth: 5 ,length: 4
+number of NPs: 2
+
+(NP (NNP Dr.) (NNP Peyssonnel))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (NP (NNP F.) (NNP R.)) (NP (NN S)))
+depth: 4 ,length: 3
+number of NPs: 2
+
+Number of big NPs: 5, overall number of NPs: 11
+
+**************
+Sentence: 172
+(ROOT (FRAG (NP (NNP LXI)) (. .)))
+
+
+NPs: 
+(NP (NNP LXI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 173
+(ROOT (NP (NN XXV) (. .)))
+
+
+NPs: 
+(NP (NN XXV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 174
+(ROOT (NP (NN XLIV) (. .)))
+
+
+NPs: 
+(NP (NN XLIV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 175
+(ROOT (NP (NP (NN I.)) (NP (NP (NNP De) (NNP Pressionibus) (NNP Ponderum)) (PP (IN in) (NP (NNP Machinis) (NN motis)))) (. .)))
+
+
+NPs: 
+(NP
+  (NP (NN I.))
+  (NP
+    (NP (NNP De) (NNP Pressionibus) (NNP Ponderum))
+    (PP (IN in) (NP (NNP Machinis) (NN motis))))
+  (. .))
+depth: 6 ,length: 8
+number of NPs: 4
+
+Number of big NPs: 1, overall number of NPs: 5
+
+**************
+Sentence: 176
+(ROOT (FRAG (S (S (NP (NP (DT An) (NNP Account)) (PP (IN of) (NP (NP (DT the) (NN Impression)) (PP (IN on) (NP (DT a) (NNP Stone)))))) (VP (VBD dug) (PRT (RP up)) (PP (IN in) (NP (NP (DT the) (NN Island)) (PP (IN of) (NP (NNP Antigua))))))) (, ,) (CC and) (S (NP (NP (DT the) (NN Quantity)) (PP (IN of) (NP (NN Rain)))) (VP (VBN fallen) (ADVP (RB there)) (PP (IN for) (NP (CD Four) (NNS Years)))))) (: :) (FRAG (PP (IN In) (NP (NP (DT a) (NN Letter)) (PP (IN from) (NP (DT the) (NNP Reverend) (NNP Mr.) (NNP Francis) (NNP Byam))) (PP (TO to) (NP (NNP William) (NNP Fauquier))))) (, ,) (NP (NP (NNP Esq)) (: ;) (NP (NNP F.) (NNP R.) (NNP S.) (NNP Dear) (NNP Brother)) (, ,) (NP (NP (NNP Antigua)) (, ,) (NP (NNP March) (CD 31) (, ,) (CD 1755))))) (. .)))
+
+
+NPs: 
+(NP
+  (NP (DT An) (NNP Account))
+  (PP
+    (IN of)
+    (NP
+      (NP (DT the) (NN Impression))
+      (PP (IN on) (NP (DT a) (NNP Stone))))))
+depth: 7 ,length: 8
+number of NPs: 4
+
+(NP (NP (DT the) (NN Island)) (PP (IN of) (NP (NNP Antigua))))
+depth: 5 ,length: 4
+number of NPs: 2
+
+(NP (NP (DT the) (NN Quantity)) (PP (IN of) (NP (NN Rain))))
+depth: 5 ,length: 4
+number of NPs: 2
+
+(NP (CD Four) (NNS Years))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP
+  (NP (DT a) (NN Letter))
+  (PP
+    (IN from)
+    (NP (DT the) (NNP Reverend) (NNP Mr.) (NNP Francis) (NNP Byam)))
+  (PP (TO to) (NP (NNP William) (NNP Fauquier))))
+depth: 5 ,length: 11
+number of NPs: 3
+
+(NP
+  (NP (NNP Esq))
+  (: ;)
+  (NP (NNP F.) (NNP R.) (NNP S.) (NNP Dear) (NNP Brother))
+  (, ,)
+  (NP
+    (NP (NNP Antigua))
+    (, ,)
+    (NP (NNP March) (CD 31) (, ,) (CD 1755))))
+depth: 5 ,length: 14
+number of NPs: 5
+
+Number of big NPs: 6, overall number of NPs: 22
+
+**************
+Sentence: 177
+(ROOT (FRAG (NP (NNP XC)) (. .)))
+
+
+NPs: 
+(NP (NNP XC))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 178
+(ROOT (S (NP (NP (DT Some) (NNS Observations)) (VP (VBG proving) (, ,) (SBAR (IN that) (S (NP (DT the) (NNP Foetus)) (VP (VBZ is) (PP (IN in) (NP (NN part)))))))) (VP (VBN nourished) (PP (IN by) (NP (DT the) (NNP Liquor) (NNP Amnii)))) (. .)))
+
+
+NPs: 
+(NP
+  (NP (DT Some) (NNS Observations))
+  (VP
+    (VBG proving)
+    (, ,)
+    (SBAR
+      (IN that)
+      (S
+        (NP (DT the) (NNP Foetus))
+        (VP (VBZ is) (PP (IN in) (NP (NN part))))))))
+depth: 9 ,length: 10
+number of NPs: 3
+
+(NP (DT the) (NNP Liquor) (NNP Amnii))
+depth: 3 ,length: 3
+number of NPs: 0
+
+Number of big NPs: 2, overall number of NPs: 5
+
+**************
+Sentence: 179
+(ROOT (FRAG (NP (NNP LIX)) (. .)))
+
+
+NPs: 
+(NP (NNP LIX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 180
+(ROOT (NP (NN XCVI) (. .)))
+
+
+NPs: 
+(NP (NN XCVI) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 181
+(ROOT (FRAG (NP (NNP XXVIII)) (. .)))
+
+
+NPs: 
+(NP (NNP XXVIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 182
+(ROOT (FRAG (NP (JJ PHILOSOPHICAL) (NNS TRANSACTIONS)) (. .)))
+
+
+NPs: 
+(NP (JJ PHILOSOPHICAL) (NNS TRANSACTIONS))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 183
+(ROOT (FRAG (NP (NNP XXXVIII)) (. .)))
+
+
+NPs: 
+(NP (NNP XXXVIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 184
+(ROOT (FRAG (NP (NNP XL)) (. .)))
+
+
+NPs: 
+(NP (NNP XL))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 185
+(ROOT (FRAG (NP (CD IV)) (. .)))
+
+
+NPs: 
+(NP (CD IV))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 186
+(ROOT (FRAG (NP (NNP XXIX)) (. .)))
+
+
+NPs: 
+(NP (NNP XXIX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 187
+(ROOT (INTJ (NN V) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 188
+(ROOT (S (VP (VBN Received) (NP-TMP (NNP May) (CD 13) (, ,) (CD 1773))) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 189
+(ROOT (S (VP (VBN Received) (NP-TMP (NNP Nov.) (CD 12) (, ,) (CD 1772))) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 190
+(ROOT (S (VP (VBN Received) (NP-TMP (NNP November) (CD 12) (, ,) (CD 1772))) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 191
+(ROOT (NP (NN XIII) (. .)))
+
+
+NPs: 
+(NP (NN XIII) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 192
+(ROOT (NP (NN XVII) (. .)))
+
+
+NPs: 
+(NP (NN XVII) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 193
+(ROOT (FRAG (NP (NNP XVI)) (. .)))
+
+
+NPs: 
+(NP (NNP XVI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 194
+(ROOT (FRAG (NP (NNP XXIII)) (. .)))
+
+
+NPs: 
+(NP (NNP XXIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 195
+(ROOT (FRAG (NP (NNP XIX)) (. .)))
+
+
+NPs: 
+(NP (NNP XIX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 196
+(ROOT (NP (NP (NNP XXXV)) (NP (NNP April) (CD 21) (, ,) (CD 1772)) (. .)))
+
+
+NPs: 
+(NP (NP (NNP XXXV)) (NP (NNP April) (CD 21) (, ,) (CD 1772)) (. .))
+depth: 4 ,length: 6
+number of NPs: 2
+
+Number of big NPs: 1, overall number of NPs: 3
+
+**************
+Sentence: 197
+(ROOT (FRAG (NP (NNP XII)) (. .)))
+
+
+NPs: 
+(NP (NNP XII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 198
+(ROOT (FRAG (NP (NNP VI)) (. .)))
+
+
+NPs: 
+(NP (NNP VI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 199
+(ROOT (NP (NP (NN ~) (NN C) (NN B)) (NP (NP (CD 21/2)) (SBAR (S (NP (DT A) (CD 43) (CD 3) (CD 3 31/2) (CD 3 31/2) (CD 41/2) (CD 41/2) (CD 5) (CD 335) (CD 34) (CD 5 41/2) (CD 51/2) (CD 4 51/2) (CD 5) (CD 55) (CD 5) (CD 7) (NN M) (NN OCHA) (NN ~))))) (NP (NP (NN A) (NNP Scale)) (PP (IN of) (NP (CD 2)))) (NP (NP (NN Eng) (NN B)) (NP (CD 1/2) (NN ~) (NN A))) (. .)))
+
+
+NPs: 
+(NP
+  (NP (NN ~) (NN C) (NN B))
+  (NP
+    (NP (CD 21/2))
+    (SBAR
+      (S
+        (NP
+          (DT A)
+          (CD 43)
+          (CD 3)
+          (CD 3 31/2)
+          (CD 3 31/2)
+          (CD 41/2)
+          (CD 41/2)
+          (CD 5)
+          (CD 335)
+          (CD 34)
+          (CD 5 41/2)
+          (CD 51/2)
+          (CD 4 51/2)
+          (CD 5)
+          (CD 55)
+          (CD 5)
+          (CD 7)
+          (NN M)
+          (NN OCHA)
+          (NN ~)))))
+  (NP (NP (NN A) (NNP Scale)) (PP (IN of) (NP (CD 2))))
+  (NP (NP (NN Eng) (NN B)) (NP (CD 1/2) (NN ~) (NN A)))
+  (. .))
+depth: 7 ,length: 38
+number of NPs: 10
+
+Number of big NPs: 1, overall number of NPs: 11
+
+**************
+Sentence: 200
+(ROOT (S (VP (VBN Received) (NP-TMP (NNP February) (CD 13) (, ,) (CD 1772))) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 201
+(ROOT (NP (NN XIII) (. .)))
+
+
+NPs: 
+(NP (NN XIII) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 202
+(ROOT (NP (NN XV) (. .)))
+
+
+NPs: 
+(NP (NN XV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 203
+(ROOT (FRAG (NP (JJ PHILOSOPHICAL) (NNS TRANSACTIONS)) (. .)))
+
+
+NPs: 
+(NP (JJ PHILOSOPHICAL) (NNS TRANSACTIONS))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 204
+(ROOT (FRAG (NP (NNP XXI)) (. .)))
+
+
+NPs: 
+(NP (NNP XXI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 205
+(ROOT (NP (NP (NNP METEOROLOGICALJOURNAL) (NNP KEPT)) (PP (IN AT) (NP (NP (DT THE) (NNS APARTMENTS)) (PP (IN OF) (NP (NNP THEROYALSOCIET) (NN Y))))) (, ,) (NP (NP (NNP BYORDEROFTHE) (NNP PRESIDENTANDCOUNCI) (NNP L.) (NNP METEOROLOGICALJOURNAL)) (PP (IN for) (NP (NNP January) (CD 1787)))) (. .)))
+
+
+NPs: 
+(NP
+  (NP (NNP METEOROLOGICALJOURNAL) (NNP KEPT))
+  (PP
+    (IN AT)
+    (NP
+      (NP (DT THE) (NNS APARTMENTS))
+      (PP (IN OF) (NP (NNP THEROYALSOCIET) (NN Y)))))
+  (, ,)
+  (NP
+    (NP
+      (NNP BYORDEROFTHE)
+      (NNP PRESIDENTANDCOUNCI)
+      (NNP L.)
+      (NNP METEOROLOGICALJOURNAL))
+    (PP (IN for) (NP (NNP January) (CD 1787))))
+  (. .))
+depth: 7 ,length: 17
+number of NPs: 7
+
+Number of big NPs: 1, overall number of NPs: 8
+
+**************
+Sentence: 206
+(ROOT (FRAG (NP (NNP XXVI)) (. .)))
+
+
+NPs: 
+(NP (NNP XXVI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 207
+(ROOT (FRAG (NP (CD VIII)) (. .)))
+
+
+NPs: 
+(NP (CD VIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 208
+(ROOT (FRAG (NP (NNP XXIII)) (. .)))
+
+
+NPs: 
+(NP (NNP XXIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 209
+(ROOT (NP (NN XXIV) (. .)))
+
+
+NPs: 
+(NP (NN XXIV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 210
+(ROOT (S (NP (NP (NN APPENDIX) (NN Translation)) (PP (IN of) (NP (NP (NNP Don) (NNP Michael) (NNP Rubin)) (IN de) (NP (NP (NP (NNP Celis) (POS 's)) (NN Letter)) (TO to) (NP (NP (DT the) (NNP Royal) (NNP Society)) (, ,) (ADVP (JJ relative) (PP (TO to) (NP (NP (DT a) (NNP Mass)) (PP (IN of) (NP (JJ native) (NN Iron)))))) (, ,)))))) (VP (VBN found) (PP (IN in) (NP (NNP South-America)))) (. .)))
+
+
+NPs: 
+(NP
+  (NP (NN APPENDIX) (NN Translation))
+  (PP
+    (IN of)
+    (NP
+      (NP (NNP Don) (NNP Michael) (NNP Rubin))
+      (IN de)
+      (NP
+        (NP (NP (NNP Celis) (POS 's)) (NN Letter))
+        (TO to)
+        (NP
+          (NP (DT the) (NNP Royal) (NNP Society))
+          (, ,)
+          (ADVP
+            (JJ relative)
+            (PP
+              (TO to)
+              (NP
+                (NP (DT a) (NNP Mass))
+                (PP (IN of) (NP (JJ native) (NN Iron))))))
+          (, ,))))))
+depth: 12 ,length: 23
+number of NPs: 11
+
+(NP (NNP South-America))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 2, overall number of NPs: 13
+
+**************
+Sentence: 211
+(ROOT (FRAG (NP (NNP XVI)) (. .)))
+
+
+NPs: 
+(NP (NNP XVI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 212
+(ROOT (S (NP (NP (NNP Sn) (NNP Account)) (PP (IN of) (NP (DT some) (NNS LExteriments) (NN gton)))) (VP (VBN coloured) (S (S (NP (NNP ShaMowsb) (NN lty) (NNP Lieawtenant-General) (NNP Sir)) (NP (NNP Benjamin) (NNP Thompson))) (, ,) (S (NP (NNP Caunt) (NNP oJ)) (: :) (NP (NP (NNP Rumford)) (, ,) (NP (NNP F.) (NNP R.)) ($ $))))) (. .)))
+
+
+NPs: 
+(NP
+  (NP (NNP Sn) (NNP Account))
+  (PP (IN of) (NP (DT some) (NNS LExteriments) (NN gton))))
+depth: 5 ,length: 6
+number of NPs: 2
+
+(NP (NNP ShaMowsb) (NN lty) (NNP Lieawtenant-General) (NNP Sir))
+depth: 3 ,length: 4
+number of NPs: 0
+
+(NP (NNP Benjamin) (NNP Thompson))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (NNP Caunt) (NNP oJ))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (NP (NNP Rumford)) (, ,) (NP (NNP F.) (NNP R.)) ($ $))
+depth: 4 ,length: 5
+number of NPs: 2
+
+Number of big NPs: 5, overall number of NPs: 9
+
+**************
+Sentence: 213
+(ROOT (NP (NP (NP (NNP K)) (SBAR (S (VP (SYM z) (NP (FW t.)))))) (NP (NP (CD 6)) (NP (NN Barometer))) (. .)))
+
+
+NPs: 
+(NP
+  (NP (NP (NNP K)) (SBAR (S (VP (SYM z) (NP (FW t.))))))
+  (NP (NP (CD 6)) (NP (NN Barometer)))
+  (. .))
+depth: 8 ,length: 6
+number of NPs: 6
+
+Number of big NPs: 1, overall number of NPs: 7
+
+**************
+Sentence: 214
+(ROOT (NP (NP (NP (NNP V.) (NNPS Observatzons)) (PP (IN on) (NP (NP (DT the) (JJ fundamental) (NN Property)) (PP (IN of) (NP (DT the) (NN Lever-ywith)))))) (NP (NP (NP (DT a) (NN fProof)) (PP (IN of) (NP (ADJP (NP (DT the) (NN Principle)) (JJ assumedby)) (NNP Archimedes) (PRN (, ,) (PP (IN in) (NP (PRP$ his) (NN Demonstration))) (PP (IN By) (NP (DT the) (NNP Read) (NNP S.) (NNP Vince))) (, ,)) (NNP X)))) (NP (NNP M.) (NNP F.) (NNP 1R))) (. .)))
+
+
+NPs: 
+(NP
+  (NP
+    (NP (NNP V.) (NNPS Observatzons))
+    (PP
+      (IN on)
+      (NP
+        (NP (DT the) (JJ fundamental) (NN Property))
+        (PP (IN of) (NP (DT the) (NN Lever-ywith))))))
+  (NP
+    (NP
+      (NP (DT a) (NN fProof))
+      (PP
+        (IN of)
+        (NP
+          (ADJP (NP (DT the) (NN Principle)) (JJ assumedby))
+          (NNP Archimedes)
+          (PRN
+            (, ,)
+            (PP (IN in) (NP (PRP$ his) (NN Demonstration)))
+            (PP
+              (IN By)
+              (NP (DT the) (NNP Read) (NNP S.) (NNP Vince)))
+            (, ,))
+          (NNP X))))
+    (NP (NNP M.) (NNP F.) (NNP 1R)))
+  (. .))
+depth: 10 ,length: 31
+number of NPs: 13
+
+Number of big NPs: 1, overall number of NPs: 14
+
+**************
+Sentence: 215
+(ROOT (FRAG (NP (JJ PHILOSOPHICAL) (NN TRASACTIONS) (. .)) (-RRB- -RSB-)))
+
+
+NPs: 
+(NP (JJ PHILOSOPHICAL) (NN TRASACTIONS) (. .))
+depth: 3 ,length: 3
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 216
+(ROOT (FRAG (NP (NNP XVIIT)) (. .)))
+
+
+NPs: 
+(NP (NNP XVIIT))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 217
+(ROOT (S (S (VP (VBG ing) (NP (NN D-E)))) (, ,) (VP (MD may) (VP (VB be-come) (NP (DT a) (NN pendulum)))) (. .)))
+
+
+NPs: 
+(NP (NN D-E))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT a) (NN pendulum))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 2, overall number of NPs: 2
+
+**************
+Sentence: 218
+(ROOT (NP (NN lII) (. .)))
+
+
+NPs: 
+(NP (NN lII) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 219
+(ROOT (FRAG (NP (JJ T-R) (NNP ANSACTION) (NNP S.) (NNP XII)) (. .)))
+
+
+NPs: 
+(NP (JJ T-R) (NNP ANSACTION) (NNP S.) (NNP XII))
+depth: 3 ,length: 4
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 220
+(ROOT (FRAG (NP (NNP XXI)) (. .)))
+
+
+NPs: 
+(NP (NNP XXI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 221
+(ROOT (NP (NN LV) (. .)))
+
+
+NPs: 
+(NP (NN LV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 222
+(ROOT (FRAG (NP (NNP XXXIII)) (. .)))
+
+
+NPs: 
+(NP (NNP XXXIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 223
+(ROOT (S (VP (VB Read) (NP-TMP (NNP March) (CD 21) (, ,) (CD 1771))) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 224
+(ROOT (NP (NN XLVIII) (. .)))
+
+
+NPs: 
+(NP (NN XLVIII) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 225
+(ROOT (NP (NN XIII) (. .)))
+
+
+NPs: 
+(NP (NN XIII) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 226
+(ROOT (FRAG (NP (NNP XXIX)) (. .)))
+
+
+NPs: 
+(NP (NNP XXIX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 227
+(ROOT (S (VP (VBN Received) (NP-TMP (NNP January) (CD 4) (, ,) (CD 1771))) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 228
+(ROOT (FRAG (NP (NNP XII)) (. .)))
+
+
+NPs: 
+(NP (NNP XII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 229
+(ROOT (INTJ (NN VII) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 230
+(ROOT (NP (NN XI) (. .)))
+
+
+NPs: 
+(NP (NN XI) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 231
+(ROOT (S (VP (VBN Received) (NP-TMP (NNP October) (CD 5) (, ,) (CD 1769))) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 232
+(ROOT (NP (NN XLIV) (. .)))
+
+
+NPs: 
+(NP (NN XLIV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 233
+(ROOT (S (VP (VBN Received) (NP-TMP (NNP February) (CD 9) (, ,) (CD 1769))) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 234
+(ROOT (S (VP (VBN Received) (NP-TMP (NNP July) (CD 8) (, ,) (CD 1769))) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 235
+(ROOT (S (VP (VBN Received) (NP-TMP (NNP June) (CD 19) (, ,) (CD 1769))) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 236
+(ROOT (FRAG (NP (NNP LXIX)) (. .)))
+
+
+NPs: 
+(NP (NNP LXIX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 237
+(ROOT (NP (NN LXVI) (. .)))
+
+
+NPs: 
+(NP (NN LXVI) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 238
+(ROOT (S (VP (VBN Received) (NP-TMP (NNP November) (CD 9) (, ,) (CD 1769))) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 239
+(ROOT (S (VP (VBN Received) (NP-TMP (NNP February) (CD 9) (, ,) (CD 1769))) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 240
+(ROOT (FRAG (NP (NNP XVIII)) (. .)))
+
+
+NPs: 
+(NP (NNP XVIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 241
+(ROOT (NP (NN LXVI) (. .)))
+
+
+NPs: 
+(NP (NN LXVI) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 242
+(ROOT (NP (NN XLVIII) (. .)))
+
+
+NPs: 
+(NP (NN XLVIII) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 243
+(ROOT (NP (NN XCVIII) (. .)))
+
+
+NPs: 
+(NP (NN XCVIII) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 244
+(ROOT (S (SBAR (WHADJP (WHADVP (RB However)) (JJ difficult)) (S (NP (PRP it)) (VP (MD may) (VP (VB be) (S (VP (TO to) (VP (VB account) (PP (IN for) (NP (NP (NNP Father) (NNP Frisius) (POS 's)) (NNS expressions)))))))))) (, ,) (NP (PRP I)) (VP (MD shall) (VP (NP (NN hazard)) (ADVP (RB yet) (NP (DT another) (NN conjecture))))) (. .)))
+
+
+NPs: 
+(NP (PRP it))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NP (NNP Father) (NNP Frisius) (POS 's)) (NNS expressions))
+depth: 4 ,length: 4
+number of NPs: 1
+
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NN hazard))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT another) (NN conjecture))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 5, overall number of NPs: 6
+
+**************
+Sentence: 245
+(ROOT (NP (NN Philos.Trans.Vol.XLVIII.TAB.III) (. .)))
+
+
+NPs: 
+(NP (NN Philos.Trans.Vol.XLVIII.TAB.III) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 246
+(ROOT (NP (NN XVII) (. .)))
+
+
+NPs: 
+(NP (NN XVII) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 247
+(ROOT (NP (NN XXXV) (. .)))
+
+
+NPs: 
+(NP (NN XXXV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 248
+(ROOT (NP (NN XCIV) (. .)))
+
+
+NPs: 
+(NP (NN XCIV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 249
+(ROOT (FRAG (NP (NNP CVI)) (. .)))
+
+
+NPs: 
+(NP (NNP CVI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 250
+(ROOT (FRAG (NP (NNP XXXII)) (. .)))
+
+
+NPs: 
+(NP (NNP XXXII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 251
+(ROOT (NP (NN XVII) (. .)))
+
+
+NPs: 
+(NP (NN XVII) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 252
+(ROOT (FRAG (NP (NNP XXVII)) (. .)))
+
+
+NPs: 
+(NP (NNP XXVII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 253
+(ROOT (FRAG (NP (NNP XX)) (. .)))
+
+
+NPs: 
+(NP (NNP XX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 254
+(ROOT (FRAG (NP (CD VIII)) (. .)))
+
+
+NPs: 
+(NP (CD VIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 255
+(ROOT (FRAG (NP (NNP XII)) (. .)))
+
+
+NPs: 
+(NP (NNP XII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 256
+(ROOT (FRAG (NP (NNP XIX)) (. .)))
+
+
+NPs: 
+(NP (NNP XIX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 257
+(ROOT (NP (NN XXIV) (. .)))
+
+
+NPs: 
+(NP (NN XXIV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 258
+(ROOT (NP (NN XXXIV) (. .)))
+
+
+NPs: 
+(NP (NN XXXIV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 259
+(ROOT (FRAG (NP (NNP II)) (. .)))
+
+
+NPs: 
+(NP (NNP II))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 260
+(ROOT (FRAG (NP (NNP XXXVI)) (. .)))
+
+
+NPs: 
+(NP (NNP XXXVI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 261
+(ROOT (FRAG (NP (CD IX)) (. .)))
+
+
+NPs: 
+(NP (CD IX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 262
+(ROOT (NP (NN XV) (. .)))
+
+
+NPs: 
+(NP (NN XV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 263
+(ROOT (FRAG (NP (NNP XVIII)) (. .)))
+
+
+NPs: 
+(NP (NNP XVIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 264
+(ROOT (FRAG (NP (NNP II)) (. .)))
+
+
+NPs: 
+(NP (NNP II))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 265
+(ROOT (NP (NN XI) (. .)))
+
+
+NPs: 
+(NP (NN XI) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 266
+(ROOT (INTJ (NN VII) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 267
+(ROOT (FRAG (X (SYM *)) (VP (NN XX)) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 268
+(ROOT (FRAG (NP (NNP VI)) (. .)))
+
+
+NPs: 
+(NP (NNP VI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 269
+(ROOT (FRAG (NP (NNP XIV)) (. .)))
+
+
+NPs: 
+(NP (NNP XIV))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 270
+(ROOT (NP (NN XXV) (. .)))
+
+
+NPs: 
+(NP (NN XXV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 271
+(ROOT (FRAG (NP (NNP XXI)) (. .)))
+
+
+NPs: 
+(NP (NNP XXI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 272
+(ROOT (NP (NN XLIV) (. .)))
+
+
+NPs: 
+(NP (NN XLIV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 273
+(ROOT (NP (NN XLV) (. .)))
+
+
+NPs: 
+(NP (NN XLV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 274
+(ROOT (S (NP (NN P)) (VP (NP (JJ HILOSOPHICAL) (NNS TRANSACTIONS)) (NP (NP (NN I.) (NN Extract)) (PP (IN of) (NP (NP (DT a) (NN Letter)) (PP (IN from) (NP (NP (NNP Dr.) (NNP John) (NNP Ingenhousz)) (, ,) (NP (NNP F.) (NNP R.) (NNP S.))))))) (PP (TO to) (NP (NP (NNP Sir) (NNP John) (NNP Pringle)) (, ,) (NP (NNP Bart))))) (. .)))
+
+
+NPs: 
+(NP (NN P))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (JJ HILOSOPHICAL) (NNS TRANSACTIONS))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP
+  (NP (NN I.) (NN Extract))
+  (PP
+    (IN of)
+    (NP
+      (NP (DT a) (NN Letter))
+      (PP
+        (IN from)
+        (NP
+          (NP (NNP Dr.) (NNP John) (NNP Ingenhousz))
+          (, ,)
+          (NP (NNP F.) (NNP R.) (NNP S.)))))))
+depth: 8 ,length: 13
+number of NPs: 6
+
+(NP (NP (NNP Sir) (NNP John) (NNP Pringle)) (, ,) (NP (NNP Bart)))
+depth: 4 ,length: 5
+number of NPs: 2
+
+Number of big NPs: 4, overall number of NPs: 12
+
+**************
+Sentence: 275
+(ROOT (FRAG (NP (NNP II)) (. .)))
+
+
+NPs: 
+(NP (NNP II))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 276
+(ROOT (FRAG (NP (NNP XXXI)) (. .)))
+
+
+NPs: 
+(NP (NNP XXXI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 277
+(ROOT (FRAG (NP (CD IX)) (. .)))
+
+
+NPs: 
+(NP (CD IX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 278
+(ROOT (S (VP (LS 3)) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 279
+(ROOT (FRAG (NP (CD XLII)) (. .)))
+
+
+NPs: 
+(NP (CD XLII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 280
+(ROOT (NP (NN Fig) (. .)))
+
+
+NPs: 
+(NP (NN Fig) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 281
+(ROOT (FRAG (NP (NNP LI)) (. .)))
+
+
+NPs: 
+(NP (NNP LI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 282
+(ROOT (INTJ (NN VII) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 283
+(ROOT (S (NP (NP (NP (DT A) (NN Letter)) (PP (IN from) (NP (DT the) (JJ late) (NNP Reverend) (NNP Mr.) (NNP Thomas) (NNP Bayes)))) (, ,) (NP (NP (NNP F.) (NNP R.) (NNP S.)) (PP (TO to) (NP (NP (NNP John) (NNP Canton)) (, ,) (NP (NNP M.) (NNP A.)) (CC and) (NP (NNP F.) (NNP R.) (NNP S.) (NN SIR))))) (, ,)) (SBAR (IN IF) (S (NP (DT the) (VBG following) (NNS observations)) (VP (VBP do) (RB not) (VP (VB seem) (PP (TO to) (NP (PRP you))) (S (VP (TO to) (VP (VB be) (ADJP (RB too) (JJ minute))))))))) (, ,) (NP (PRP I)) (VP (MD should) (VP (VB esteem) (NP (PRP it)) (PP (IN as) (NP (DT a) (NN favour))) (, ,) (SBAR (IN if) (S (NP (PRP you)) (VP (MD would) (VP (VB please) (S (VP (TO to) (VP (VB communicate) (NP (PRP them)) (PP (TO to) (NP (DT the) (NNP Royal) (NNP Society)))))))))))) (. .)))
+
+
+NPs: 
+(NP
+  (NP
+    (NP (DT A) (NN Letter))
+    (PP
+      (IN from)
+      (NP
+        (DT the)
+        (JJ late)
+        (NNP Reverend)
+        (NNP Mr.)
+        (NNP Thomas)
+        (NNP Bayes))))
+  (, ,)
+  (NP
+    (NP (NNP F.) (NNP R.) (NNP S.))
+    (PP
+      (TO to)
+      (NP
+        (NP (NNP John) (NNP Canton))
+        (, ,)
+        (NP (NNP M.) (NNP A.))
+        (CC and)
+        (NP (NNP F.) (NNP R.) (NNP S.) (NN SIR)))))
+  (, ,))
+depth: 7 ,length: 25
+number of NPs: 9
+
+(NP (DT the) (VBG following) (NNS observations))
+depth: 3 ,length: 3
+number of NPs: 0
+
+(NP (PRP you))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP it))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT a) (NN favour))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (PRP you))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP them))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT the) (NNP Royal) (NNP Society))
+depth: 3 ,length: 3
+number of NPs: 0
+
+Number of big NPs: 9, overall number of NPs: 18
+
+**************
+Sentence: 284
+(ROOT (S (S (NP (NP (NP (DT An) (NNP Account)) (PP (IN of) (NP (NP (DT an) (NN Earthquake)) (PP (IN in) (NP (DT the) (NNP East) (NNP Indies)))))) (, ,) (PP (IN of) (NP (NP (CD two) (NNS Eclipses)) (PP (IN of) (NP (DT the) (NNP Sun) (CC and) (NNP Moon))) (, ,) (VP (VBN observed) (PP (IN at) (NP (NNP Calcutta)))))) (: :)) (PP (IN In) (NP (NP (DT a) (NN Letter)) (PP (TO to) (NP (DT the) (NNP Reverend) (NNP Thomas) (NNP Birch)))))) (, ,) (S (NP (NNP D.) (NNP D.)) (ADJP (NNP Secret))) (. .)))
+
+
+NPs: 
+(NP
+  (NP
+    (NP (DT An) (NNP Account))
+    (PP
+      (IN of)
+      (NP
+        (NP (DT an) (NN Earthquake))
+        (PP (IN in) (NP (DT the) (NNP East) (NNP Indies))))))
+  (, ,)
+  (PP
+    (IN of)
+    (NP
+      (NP (CD two) (NNS Eclipses))
+      (PP (IN of) (NP (DT the) (NNP Sun) (CC and) (NNP Moon)))
+      (, ,)
+      (VP (VBN observed) (PP (IN at) (NP (NNP Calcutta))))))
+  (: :))
+depth: 8 ,length: 23
+number of NPs: 9
+
+(NP
+  (NP (DT a) (NN Letter))
+  (PP (TO to) (NP (DT the) (NNP Reverend) (NNP Thomas) (NNP Birch))))
+depth: 5 ,length: 7
+number of NPs: 2
+
+(NP (NNP D.) (NNP D.))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 3, overall number of NPs: 14
+
+**************
+Sentence: 285
+(ROOT (FRAG (NP (NNP XXXII)) (. .)))
+
+
+NPs: 
+(NP (NNP XXXII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 286
+(ROOT (FRAG (NP (NNP XXXIX)) (. .)))
+
+
+NPs: 
+(NP (NNP XXXIX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 287
+(ROOT (FRAG (NP (NNP XVI)) (. .)))
+
+
+NPs: 
+(NP (NNP XVI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 288
+(ROOT (NP (NN XXII) (. .)))
+
+
+NPs: 
+(NP (NN XXII) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 289
+(ROOT (S (S (NP (NP (DT The) (NN Difference)) (PP (IN of) (NP (NP (NN Longitude)) (PP (IN between) (NP (NP (DT the) (NNP Royal) (NNPS Observatories)) (PP (IN of) (NP (NNP Greenwich) (CC and) (NNP Paris))))))) (, ,) (VP (VBN determined) (PP (IN by) (NP (NP (DT the) (NNS Observations)) (PP (IN of) (NP (NP (DT the) (NNS Transits)) (PP (IN of) (NP (NP (NNP Mercury) (IN over) (DT the) (NNP Sun)) (PP (IN in) (NP (DT the) (NNS Years))))) (NP-TMP (NP (CD 1723)) (, ,) (NP (CD 1736) (, ,) (CD 1743) (, ,) (CC and) (CD 1753)))))))) (: :)) (PP (IN By) (NP (NNP James) (NNP Short)))) (, ,) (S (NP (NNP M.) (NNP A.) (NNP F.) (NNP R.)) (ADJP (NN S))) (. .)))
+
+
+NPs: 
+(NP
+  (NP (DT The) (NN Difference))
+  (PP
+    (IN of)
+    (NP
+      (NP (NN Longitude))
+      (PP
+        (IN between)
+        (NP
+          (NP (DT the) (NNP Royal) (NNPS Observatories))
+          (PP (IN of) (NP (NNP Greenwich) (CC and) (NNP Paris)))))))
+  (, ,)
+  (VP
+    (VBN determined)
+    (PP
+      (IN by)
+      (NP
+        (NP (DT the) (NNS Observations))
+        (PP
+          (IN of)
+          (NP
+            (NP (DT the) (NNS Transits))
+            (PP
+              (IN of)
+              (NP
+                (NP (NNP Mercury) (IN over) (DT the) (NNP Sun))
+                (PP (IN in) (NP (DT the) (NNS Years)))))
+            (NP-TMP
+              (NP (CD 1723))
+              (, ,)
+              (NP (CD 1736) (, ,) (CD 1743) (, ,) (CC and) (CD 1753))))))))
+  (: :))
+depth: 12 ,length: 37
+number of NPs: 15
+
+(NP (NNP James) (NNP Short))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (NNP M.) (NNP A.) (NNP F.) (NNP R.))
+depth: 3 ,length: 4
+number of NPs: 0
+
+Number of big NPs: 3, overall number of NPs: 18
+
+**************
+Sentence: 290
+(ROOT (FRAG (NP (NNP XXXVI)) (. .)))
+
+
+NPs: 
+(NP (NNP XXXVI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 291
+(ROOT (FRAG (NP (NNP XVIII)) (. .)))
+
+
+NPs: 
+(NP (NNP XVIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 292
+(ROOT (NP (NP (NN CHAPTER)) (NP (CD IX)) (. .)))
+
+
+NPs: 
+(NP (NP (NN CHAPTER)) (NP (CD IX)) (. .))
+depth: 4 ,length: 3
+number of NPs: 2
+
+Number of big NPs: 1, overall number of NPs: 3
+
+**************
+Sentence: 293
+(ROOT (NP (NNS TRANSACTIONS) (. .)))
+
+
+NPs: 
+(NP (NNS TRANSACTIONS) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 294
+(ROOT (FRAG (NP (NNP VI)) (. .)))
+
+
+NPs: 
+(NP (NNP VI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 295
+(ROOT (NP (NN XXIV) (. .)))
+
+
+NPs: 
+(NP (NN XXIV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 296
+(ROOT (NP (NP (NN CHAPTER)) (NP (NP (NNP X.)) (PP (IN Of) (NP (NP (DT the) (NNP Clerk)) (, ,) (NP (NP (NNP Librarian) (, ,) (NNP Keeper)) (PP (IN of) (NP (DT the) (NNP Repository)))) (, ,) (CC and) (NP (NN House-keeper))))) (. .)))
+
+
+NPs: 
+(NP
+  (NP (NN CHAPTER))
+  (NP
+    (NP (NNP X.))
+    (PP
+      (IN Of)
+      (NP
+        (NP (DT the) (NNP Clerk))
+        (, ,)
+        (NP
+          (NP (NNP Librarian) (, ,) (NNP Keeper))
+          (PP (IN of) (NP (DT the) (NNP Repository))))
+        (, ,)
+        (CC and)
+        (NP (NN House-keeper)))))
+  (. .))
+depth: 9 ,length: 16
+number of NPs: 9
+
+Number of big NPs: 1, overall number of NPs: 10
+
+**************
+Sentence: 297
+(ROOT (NP (NP (NN CHAPTER)) (NP (NNP VI)) (. .)))
+
+
+NPs: 
+(NP (NP (NN CHAPTER)) (NP (NNP VI)) (. .))
+depth: 4 ,length: 3
+number of NPs: 2
+
+Number of big NPs: 1, overall number of NPs: 3
+
+**************
+Sentence: 298
+(ROOT (NP (NN XXV) (. .)))
+
+
+NPs: 
+(NP (NN XXV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 299
+(ROOT (FRAG (NP (NNP XXI)) (. .)))
+
+
+NPs: 
+(NP (NNP XXI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 300
+(ROOT (FRAG (NP (NNP XXVII)) (. .)))
+
+
+NPs: 
+(NP (NNP XXVII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 301
+(ROOT (FRAG (NP (NNP XXX)) (. .)))
+
+
+NPs: 
+(NP (NNP XXX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 302
+(ROOT (S (VP (VBN Received) (NP-TMP (NNP Feb.) (CD 24) (, ,) (CD 1766))) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 303
+(ROOT (S (VP (VBN Received) (NP-TMP (NNP May) (CD 28) (, ,) (CD 1766))) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 304
+(ROOT (S (NP (NP (NP (DT A) (NNP Discovery)) (, ,) (PP (IN with) (NP (NNS Observations))) (, ,)) (PP (IN of) (NP (NP (CD two) (JJ new) (NNS Comets)) (PP (IN in) (NP (NP (DT the) (NNP Marine) (NNP Obvatory)) (PP (IN at) (NP (NNP Paris))))))) (: ;) (PP (IN by) (NP (NP (NNP M.) (NNP Messier)) (, ,) (NP (NNP F.) (NNP R.) (NNP S.)) (CC and) (NP (NNP Member)))) (PP (IN of) (NP (NP (DT the) (NN Academy)) (PP (IN of) (NP (NNPS Sciences))))) (PP (IN at) (NP (NNP Paris))) (: ;)) (VP (VBN translated) (PP (IN from) (NP (DT the) (NNP French))) (, ,) (PP (IN by) (NP (NP (NNP M.) (NNP Maty)) (, ,) (NP (NNP M.) (NNP D.) (NNP Sec))))) (. .)))
+
+
+NPs: 
+(NP
+  (NP
+    (NP (DT A) (NNP Discovery))
+    (, ,)
+    (PP (IN with) (NP (NNS Observations)))
+    (, ,))
+  (PP
+    (IN of)
+    (NP
+      (NP (CD two) (JJ new) (NNS Comets))
+      (PP
+        (IN in)
+        (NP
+          (NP (DT the) (NNP Marine) (NNP Obvatory))
+          (PP (IN at) (NP (NNP Paris)))))))
+  (: ;)
+  (PP
+    (IN by)
+    (NP
+      (NP (NNP M.) (NNP Messier))
+      (, ,)
+      (NP (NNP F.) (NNP R.) (NNP S.))
+      (CC and)
+      (NP (NNP Member))))
+  (PP
+    (IN of)
+    (NP (NP (DT the) (NN Academy)) (PP (IN of) (NP (NNPS Sciences)))))
+  (PP (IN at) (NP (NNP Paris)))
+  (: ;))
+depth: 9 ,length: 34
+number of NPs: 16
+
+(NP (DT the) (NNP French))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (NP (NNP M.) (NNP Maty)) (, ,) (NP (NNP M.) (NNP D.) (NNP Sec)))
+depth: 4 ,length: 6
+number of NPs: 2
+
+Number of big NPs: 3, overall number of NPs: 21
+
+**************
+Sentence: 305
+(ROOT (NP (NN XI) (. .)))
+
+
+NPs: 
+(NP (NN XI) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 306
+(ROOT (FRAG (NP (NNP XX)) (. .)))
+
+
+NPs: 
+(NP (NNP XX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 307
+(ROOT (FRAG (NP (NNP XXX)) (. .)))
+
+
+NPs: 
+(NP (NNP XXX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 308
+(ROOT (FRAG (NP (NNP XXI)) (. .)))
+
+
+NPs: 
+(NP (NNP XXI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 309
+(ROOT (FRAG (NP (NNP XL)) (. .)))
+
+
+NPs: 
+(NP (NNP XL))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 310
+(ROOT (NP (NP (NN Philos.Trans.Vol.LVI.TAB.V.p)) (NP (CD .105)) (. .)))
+
+
+NPs: 
+(NP (NP (NN Philos.Trans.Vol.LVI.TAB.V.p)) (NP (CD .105)) (. .))
+depth: 4 ,length: 3
+number of NPs: 2
+
+Number of big NPs: 1, overall number of NPs: 3
+
+**************
+Sentence: 311
+(ROOT (S (NP (NP (NN existence)) (PP (IN of) (NP (NP (DT a) (JJ magnetic) (NN atmosphere)) (PP (IN orer) (NP (NP (DT the) (NN earth)) (SBAR (WHADVP (WRB where)) (PRN (S (NP (DT the) (JJ magnetic) (NN fluid)) (VP (VBG being) (VP (VBN rarefied) (SBAR (IN at) (X (SYM e)))))) (-RRB- -RCB-)) (S (UCP (ADVP (RB ne)) (PP (PP (NP (NP (NN pole)) (CC and) (NP (JJ condensed))) (IN at) (NP (DT the) (UCP (ADJP (JJ other)) (, ,) (NP (NP (NNS occasions)) (NP (NP (DT the) (JJ polar) (NN direction) (NN Qf)) (NP (DT the) (NP (NP (NNS laeedles)) (PP (IN of) (NP (QP (RB so) (JJ much)))) (X (X (SYM **)) (NP (NN llSt) (NN ln)))) (NN navlgatlon) (NN VEXPERINIENT) (NN X))))) (NN IETimprobable))) (SBAR (SBAR (IN that) (S (NP (DT this) (VBN increased) (NN attraction)) (VP (MD should) (VP (VB be) (VP (VBG owing) (PP (TO to) (NP (NP (DT any) (JJ chemical) (NN change) (NN itl)) (NP (DT the) (NNPS sSIings))))))))) (: ;) (CC and) (SBAR (IN as) (S (NP (PRP it)) (VP (VBD was) (ADJP (RB so) (JJ necessary) (S (VP (TO to) (VP (VB place) (S (NP (PRP them)) (ADJP (RB right))))))))))))) (, ,) (NP (PRP it)) (VP (VBD appeared) (S (VP (TO to) (VP (VB llle) (ADJP (JJ likely)) (SBAR (IN that) (S (SBAR (IN whilst) (S (NP (NP (DT each) (NN particle)) (PP (IN of) (NP (NN iron)))) (VP (VBD was) (VP (VP (VBG emitting) (NP (NP (NNS bubbles)) (PP (IN of) (NP (JJ inflammable) (NN air))))) (, ,) (CC and) (VP (ADVP (RB thereby)) (VBG increasing) (NP (NP (DT the) (JJ perpendicular) (NN height)) (PP (IN of) (NP (DT the) (NNS filings))))))))) (, ,) (NP (NN ffiis) (NN circurnstance)) (VP (MD would) (VP (VB prove) (NP (NP (DT the) (JJ only) (NN cause)) (PP (IN of) (NP (NN stlch))))))))))))))))))) (VP (VBD increased) (NP (NN attraction))) (. .)))
+
+
+NPs: 
+(NP
+  (NP (NN existence))
+  (PP
+    (IN of)
+    (NP
+      (NP (DT a) (JJ magnetic) (NN atmosphere))
+      (PP
+        (IN orer)
+        (NP
+          (NP (DT the) (NN earth))
+          (SBAR
+            (WHADVP (WRB where))
+            (PRN
+              (S
+                (NP (DT the) (JJ magnetic) (NN fluid))
+                (VP
+                  (VBG being)
+                  (VP (VBN rarefied) (SBAR (IN at) (X (SYM e))))))
+              (-RRB- -RCB-))
+            (S
+              (UCP
+                (ADVP (RB ne))
+                (PP
+                  (PP
+                    (NP (NP (NN pole)) (CC and) (NP (JJ condensed)))
+                    (IN at)
+                    (NP
+                      (DT the)
+                      (UCP
+                        (ADJP (JJ other))
+                        (, ,)
+                        (NP
+                          (NP (NNS occasions))
+                          (NP
+                            (NP
+                              (DT the)
+                              (JJ polar)
+                              (NN direction)
+                              (NN Qf))
+                            (NP
+                              (DT the)
+                              (NP
+                                (NP (NNS laeedles))
+                                (PP
+                                  (IN of)
+                                  (NP (QP (RB so) (JJ much))))
+                                (X
+                                  (X (SYM **))
+                                  (NP (NN llSt) (NN ln))))
+                              (NN navlgatlon)
+                              (NN VEXPERINIENT)
+                              (NN X)))))
+                      (NN IETimprobable)))
+                  (SBAR
+                    (SBAR
+                      (IN that)
+                      (S
+                        (NP
+                          (DT this)
+                          (VBN increased)
+                          (NN attraction))
+                        (VP
+                          (MD should)
+                          (VP
+                            (VB be)
+                            (VP
+                              (VBG owing)
+                              (PP
+                                (TO to)
+                                (NP
+                                  (NP
+                                    (DT any)
+                                    (JJ chemical)
+                                    (NN change)
+                                    (NN itl))
+                                  (NP (DT the) (NNPS sSIings)))))))))
+                    (: ;)
+                    (CC and)
+                    (SBAR
+                      (IN as)
+                      (S
+                        (NP (PRP it))
+                        (VP
+                          (VBD was)
+                          (ADJP
+                            (RB so)
+                            (JJ necessary)
+                            (S
+                              (VP
+                                (TO to)
+                                (VP
+                                  (VB place)
+                                  (S
+                                    (NP (PRP them))
+                                    (ADJP (RB right)))))))))))))
+              (, ,)
+              (NP (PRP it))
+              (VP
+                (VBD appeared)
+                (S
+                  (VP
+                    (TO to)
+                    (VP
+                      (VB llle)
+                      (ADJP (JJ likely))
+                      (SBAR
+                        (IN that)
+                        (S
+                          (SBAR
+                            (IN whilst)
+                            (S
+                              (NP
+                                (NP (DT each) (NN particle))
+                                (PP (IN of) (NP (NN iron))))
+                              (VP
+                                (VBD was)
+                                (VP
+                                  (VP
+                                    (VBG emitting)
+                                    (NP
+                                      (NP (NNS bubbles))
+                                      (PP
+                                        (IN of)
+                                        (NP
+                                          (JJ inflammable)
+                                          (NN air)))))
+                                  (, ,)
+                                  (CC and)
+                                  (VP
+                                    (ADVP (RB thereby))
+                                    (VBG increasing)
+                                    (NP
+                                      (NP
+                                        (DT the)
+                                        (JJ perpendicular)
+                                        (NN height))
+                                      (PP
+                                        (IN of)
+                                        (NP (DT the) (NNS filings)))))))))
+                          (, ,)
+                          (NP (NN ffiis) (NN circurnstance))
+                          (VP
+                            (MD would)
+                            (VP
+                              (VB prove)
+                              (NP
+                                (NP (DT the) (JJ only) (NN cause))
+                                (PP (IN of) (NP (NN stlch)))))))))))))))))))
+depth: 23 ,length: 105
+number of NPs: 39
+
+(NP (NN attraction))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 2, overall number of NPs: 41
+
+**************
+Sentence: 312
+(ROOT (FRAG (NP (NNP XVI)) (. .)))
+
+
+NPs: 
+(NP (NNP XVI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 313
+(ROOT (S (NP (NP (NNS borders)) (, ,) (NP (NP (NN alldg) (NN inevery) (NN part)) (PP (IN of) (NP (DT the) (JJ revolving) (NN ring))) (, ,) (VP (VP (VBG presenting) (NP (NP (NNP U)) (: ;) (S (NP (NN S)) (VP (VBD WiLll) (NP (NP (DT the) (JJ same) (NN vieBr)) (PP (IN of) (NP (NP (NN colour) (, ,) (NN breadth) (, ,) (CC and) (NN sharpness)) (PP (IN of) (NP (NN itsoutlinesj)))))) (NP-TMP (NP (DT no) (NN kirld)) (PP (IN of) (NP (NN hypothesis)))))))) (CC but) (VP (NP (NP (DT a) (NN division)) (PP (IN of) (NP (NP (DT the) (NN ringS)) (SBAR (WHPP (IN through) (WHNP (WDT which))) (S (NP (DT the) (JJ open) (NNS heavens)) (VP (MD may) (VP (VB be) (VP (VBN seen)))))))))))) (, ,)) (VP (MD will) (VP (VB answer) (NP (NP (DT the) (NNS conditions)) (PP (IN of) (NP (DT this) (NN pllaenomenon)))))) (. .)))
+
+
+NPs: 
+(NP
+  (NP (NNS borders))
+  (, ,)
+  (NP
+    (NP (NN alldg) (NN inevery) (NN part))
+    (PP (IN of) (NP (DT the) (JJ revolving) (NN ring)))
+    (, ,)
+    (VP
+      (VP
+        (VBG presenting)
+        (NP
+          (NP (NNP U))
+          (: ;)
+          (S
+            (NP (NN S))
+            (VP
+              (VBD WiLll)
+              (NP
+                (NP (DT the) (JJ same) (NN vieBr))
+                (PP
+                  (IN of)
+                  (NP
+                    (NP
+                      (NN colour)
+                      (, ,)
+                      (NN breadth)
+                      (, ,)
+                      (CC and)
+                      (NN sharpness))
+                    (PP (IN of) (NP (NN itsoutlinesj))))))
+              (NP-TMP
+                (NP (DT no) (NN kirld))
+                (PP (IN of) (NP (NN hypothesis))))))))
+      (CC but)
+      (VP
+        (NP
+          (NP (DT a) (NN division))
+          (PP
+            (IN of)
+            (NP
+              (NP (DT the) (NN ringS))
+              (SBAR
+                (WHPP (IN through) (WHNP (WDT which)))
+                (S
+                  (NP (DT the) (JJ open) (NNS heavens))
+                  (VP (MD may) (VP (VB be) (VP (VBN seen))))))))))))
+  (, ,))
+depth: 14 ,length: 46
+number of NPs: 19
+
+(NP
+  (NP (DT the) (NNS conditions))
+  (PP (IN of) (NP (DT this) (NN pllaenomenon))))
+depth: 5 ,length: 5
+number of NPs: 2
+
+Number of big NPs: 2, overall number of NPs: 23
+
+**************
+Sentence: 314
+(ROOT (NP (NN XV) (. .)))
+
+
+NPs: 
+(NP (NN XV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 315
+(ROOT (FRAG (NP (NNP XIV)) (. .)))
+
+
+NPs: 
+(NP (NNP XIV))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 316
+(ROOT (S (NP (NN XtT)) (PP (IN Of) (NP (NNS s) (NN Evaporation))) (. .)))
+
+
+NPs: 
+(NP (NN XtT))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NNS s) (NN Evaporation))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 2, overall number of NPs: 2
+
+**************
+Sentence: 317
+(ROOT (NP (NP (NN TRANSACTION-S)) (NP (CD IX)) (. .)))
+
+
+NPs: 
+(NP (NP (NN TRANSACTION-S)) (NP (CD IX)) (. .))
+depth: 4 ,length: 3
+number of NPs: 2
+
+Number of big NPs: 1, overall number of NPs: 3
+
+**************
+Sentence: 318
+(ROOT (FRAG (NP (NNP III)) (. .)))
+
+
+NPs: 
+(NP (NNP III))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 319
+(ROOT (FRAG (NP (NNP VI)) (. .)))
+
+
+NPs: 
+(NP (NNP VI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 320
+(ROOT (FRAG (NP (NNP XII)) (. .)))
+
+
+NPs: 
+(NP (NNP XII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 321
+(ROOT (NP (NP (NN Philos.Trans.Vol.LVII.TAB.XVI.p)) (NP (CD .389)) (. .)))
+
+
+NPs: 
+(NP (NP (NN Philos.Trans.Vol.LVII.TAB.XVI.p)) (NP (CD .389)) (. .))
+depth: 4 ,length: 3
+number of NPs: 2
+
+Number of big NPs: 1, overall number of NPs: 3
+
+**************
+Sentence: 322
+(ROOT (FRAG (NP (NNP XXXI)) (. .)))
+
+
+NPs: 
+(NP (NNP XXXI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 323
+(ROOT (NP (NN XXXIV) (. .)))
+
+
+NPs: 
+(NP (NN XXXIV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 324
+(ROOT (S (VP (VBN Received) (NP-TMP (NNP October) (CD 20) (, ,) (CD 1766))) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 325
+(ROOT (S (VP (VBN Received) (NP-TMP (NNP April) (CD 24) (, ,) (CD 1767))) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 326
+(ROOT (S (VP (VBN Received) (NP-TMP (NNP February) (CD 12) (, ,) (CD 1767))) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 327
+(ROOT (FRAG (NP (CD VIII)) (. .)))
+
+
+NPs: 
+(NP (CD VIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 328
+(ROOT (S (VP (VBN Received) (NP-TMP (NNP January) (CD 8) (, ,) (CD 1767))) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 329
+(ROOT (NP (NP (NN Fig.)) (NP (CD 2)) (. .)))
+
+
+NPs: 
+(NP (NP (NN Fig.)) (NP (CD 2)) (. .))
+depth: 4 ,length: 3
+number of NPs: 2
+
+Number of big NPs: 1, overall number of NPs: 3
+
+**************
+Sentence: 330
+(ROOT (S (VP (VBN Received) (NP-TMP (NNP September) (CD 24) (, ,) (CD 1766))) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 331
+(ROOT (NP (NN XXXV) (. .)))
+
+
+NPs: 
+(NP (NN XXXV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 332
+(ROOT (NP (NN XI) (. .)))
+
+
+NPs: 
+(NP (NN XI) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 333
+(ROOT (S (VP (VBN Received) (NP-TMP (NNP May) (CD 14) (, ,) (CD 1770))) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 334
+(ROOT (NP (NN XLVII) (. .)))
+
+
+NPs: 
+(NP (NN XLVII) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 335
+(ROOT (S (VP (VBN Received) (NP-TMP (NNP February) (CD 8) (, ,) (CD 1770))) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 336
+(ROOT (NP (NN XLV) (. .)))
+
+
+NPs: 
+(NP (NN XLV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 337
+(ROOT (S (VP (VBN Received) (NP-TMP (NNP July) (CD 7) (, ,) (CD 1770))) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 338
+(ROOT (FRAG (NP (NNP XXXVIII)) (. .)))
+
+
+NPs: 
+(NP (NNP XXXVIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 339
+(ROOT (S (VP (VBN Received) (NP-TMP (NNP March) (CD 15) (, ,) (CD 1770))) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 340
+(ROOT (S (VP (VBN Received) (NP-TMP (NNP February) (CD 8) (, ,) (CD 1770))) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 341
+(ROOT (INTJ (NN VII) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 342
+(ROOT (S (NP (NNP XXII)) (VP (, ,)) (. .)))
+
+
+NPs: 
+(NP (NNP XXII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 343
+(ROOT (FRAG (NP (NNP XVI)) (. .)))
+
+
+NPs: 
+(NP (NNP XVI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 344
+(ROOT (FRAG (NP (CD IX)) (. .)))
+
+
+NPs: 
+(NP (CD IX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 345
+(ROOT (FRAG (NP (NNP II)) (. .)))
+
+
+NPs: 
+(NP (NNP II))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 346
+(ROOT (FRAG (NP (NNP XIX)) (. .)))
+
+
+NPs: 
+(NP (NNP XIX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 347
+(ROOT (NP (S (NP (NP (NN 90o) (NNP Mr.) (NNP ATWOOD) (POS 'S)) (NNS Propositions)) (VP (VBG determining) (S (NP (DT the) (NNPS Positions)) (NP (NP (CD 8)) (VP (VBG responding) (PP (TO to) (NP (DT the) (JJ specific) (NN gravity) (NN .2))) (NP (NP (NP (QP (JJ =) (CD 3))) (, ,) (CC and) (NP (NN o)) (, ,)) (VP (VBG corresponding) (PP (TO to) (NP (DT the) (JJ specific) (NN gravity) (QP (CD 9) (CD 32)))) (SBAR (WHADVP (WRB When)) (S (NP (DT the) (JJ specific) (NN gravity)) (VP (VBZ is) (VP (VBN increased) (PP (IN beyond) (NP (CD 92))))))) (, ,)) (PRN (-LRB- -LRB-) (NP (NP (NN fig.) (CD 17)) (, ,) (NP (NP (QP (CD 32) (CD §))) (NP (CD 18)))) (. .) (-RRB- -RRB-))))))))))
+
+
+NPs: 
+(NP
+  (S
+    (NP
+      (NP (NN 90o) (NNP Mr.) (NNP ATWOOD) (POS 'S))
+      (NNS Propositions))
+    (VP
+      (VBG determining)
+      (S
+        (NP (DT the) (NNPS Positions))
+        (NP
+          (NP (CD 8))
+          (VP
+            (VBG responding)
+            (PP
+              (TO to)
+              (NP (DT the) (JJ specific) (NN gravity) (NN .2)))
+            (NP
+              (NP
+                (NP (QP (JJ =) (CD 3)))
+                (, ,)
+                (CC and)
+                (NP (NN o))
+                (, ,))
+              (VP
+                (VBG corresponding)
+                (PP
+                  (TO to)
+                  (NP
+                    (DT the)
+                    (JJ specific)
+                    (NN gravity)
+                    (QP (CD 9) (CD 32))))
+                (SBAR
+                  (WHADVP (WRB When))
+                  (S
+                    (NP (DT the) (JJ specific) (NN gravity))
+                    (VP
+                      (VBZ is)
+                      (VP
+                        (VBN increased)
+                        (PP (IN beyond) (NP (CD 92)))))))
+                (, ,))
+              (PRN
+                (-LRB- -LRB-)
+                (NP
+                  (NP (NN fig.) (CD 17))
+                  (, ,)
+                  (NP (NP (QP (CD 32) (CD §))) (NP (CD 18))))
+                (. .)
+                (-RRB- -RRB-)))))))))
+depth: 16 ,length: 46
+number of NPs: 18
+
+Number of big NPs: 1, overall number of NPs: 19
+
+**************
+Sentence: 348
+(ROOT (NP (NP (NNP X.)) (NP (NP (NNS Experiments) (CC and) (NNS Observations)) (PP (IN on) (NP (NP (DT the) (NNP Inflection)) (, ,) (NP (NNP Refection)) (, ,) (CC and) (NP (NP (NNP Colours)) (PP (IN of) (NP (NNP Light))))))) (. .)))
+
+
+NPs: 
+(NP
+  (NP (NNP X.))
+  (NP
+    (NP (NNS Experiments) (CC and) (NNS Observations))
+    (PP
+      (IN on)
+      (NP
+        (NP (DT the) (NNP Inflection))
+        (, ,)
+        (NP (NNP Refection))
+        (, ,)
+        (CC and)
+        (NP (NP (NNP Colours)) (PP (IN of) (NP (NNP Light)))))))
+  (. .))
+depth: 9 ,length: 15
+number of NPs: 9
+
+Number of big NPs: 1, overall number of NPs: 10
+
+**************
+Sentence: 349
+(ROOT (FRAG (NP (CD 1795)) (. .)))
+
+
+NPs: 
+(NP (CD 1795))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 350
+(ROOT (S (S (NP (NP (NN inch) (NN focus)) (, ,) (SBAR (WHNP (WDT that)) (S (VP (VBP mirror))))) (VP (VBD was) (VP (VBN removed)))) (, ,) (CC and) (S (NP (DT the) (JJ other)) (VP (VBN put) (PP (IN in) (NP (PRP$ its) (NN place.))))) (: ;) (S (NP (NP (DT the) (NN contact)) (PP (IN of) (NP (DT the) (CD two) (NNS images))) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB before)) (VP (VBD appeared) (PP (IN like) (NP (DT a) (NN line)))))) (, ,)) (VP (VBD had) (ADVP (RB now)) (VP (VBN acquired) (NP (JJ considerable) (NN breadth))))) (: ;) (S (S (VP (VBG corresponding) (ADVP (RB exactly)) (PP (TO to) (NP (NP (DT the) (NN difference)) (PP (IN between) (NP (NP (DT the) (NNS convexities)) (PP (IN of) (NP (DT the))))))))) (VP (VBZ mirrors))) (. .)))
+
+
+NPs: 
+(NP
+  (NP (NN inch) (NN focus))
+  (, ,)
+  (SBAR (WHNP (WDT that)) (S (VP (VBP mirror)))))
+depth: 6 ,length: 5
+number of NPs: 1
+
+(NP (DT the) (JJ other))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (PRP$ its) (NN place.))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP
+  (NP (DT the) (NN contact))
+  (PP (IN of) (NP (DT the) (CD two) (NNS images)))
+  (, ,)
+  (SBAR
+    (WHNP (WDT which))
+    (S
+      (ADVP (RB before))
+      (VP (VBD appeared) (PP (IN like) (NP (DT a) (NN line))))))
+  (, ,))
+depth: 8 ,length: 14
+number of NPs: 3
+
+(NP (JJ considerable) (NN breadth))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP
+  (NP (DT the) (NN difference))
+  (PP
+    (IN between)
+    (NP (NP (DT the) (NNS convexities)) (PP (IN of) (NP (DT the))))))
+depth: 7 ,length: 7
+number of NPs: 4
+
+Number of big NPs: 6, overall number of NPs: 14
+
+**************
+Sentence: 351
+(ROOT (FRAG (NP (NNP XXVII)) (. .)))
+
+
+NPs: 
+(NP (NNP XXVII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 352
+(ROOT (NP (NN XV) (. .)))
+
+
+NPs: 
+(NP (NN XV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 353
+(ROOT (NP (NN XIII) (. .)))
+
+
+NPs: 
+(NP (NN XIII) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 354
+(ROOT (FRAG (NP (NNP VI)) (. .)))
+
+
+NPs: 
+(NP (NNP VI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 355
+(ROOT (NP (NN XI) (. .)))
+
+
+NPs: 
+(NP (NN XI) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 356
+(ROOT (NP (NN XXII) (. .)))
+
+
+NPs: 
+(NP (NN XXII) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 357
+(ROOT (INTJ (NN VII) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 358
+(ROOT (FRAG (NP (NNP XXI)) (. .)))
+
+
+NPs: 
+(NP (NNP XXI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 359
+(ROOT (FRAG (NP (NNP XIX)) (. .)))
+
+
+NPs: 
+(NP (NNP XIX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 360
+(ROOT (S (NP (NP (DT a) (ADJP (JJ =) (NP-TMP (CD 1/e))) (CD -1)) (, ,) (NP (NN b))) (VP (JJ =) (NP (NP (CD 1/e) (NN ma)) (, ,) (CC &) (NP (NN c)))) (. .)))
+
+
+NPs: 
+(NP
+  (NP (DT a) (ADJP (JJ =) (NP-TMP (CD 1/e))) (CD -1))
+  (, ,)
+  (NP (NN b)))
+depth: 6 ,length: 6
+number of NPs: 2
+
+(NP (NP (CD 1/e) (NN ma)) (, ,) (CC &) (NP (NN c)))
+depth: 4 ,length: 5
+number of NPs: 2
+
+Number of big NPs: 2, overall number of NPs: 6
+
+**************
+Sentence: 361
+(ROOT (NP (NN XLIV) (. .)))
+
+
+NPs: 
+(NP (NN XLIV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 362
+(ROOT (FRAG (NP (NNP XXXVI)) (. .)))
+
+
+NPs: 
+(NP (NNP XXXVI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 363
+(ROOT (FRAG (NP (NNP XII)) (. .)))
+
+
+NPs: 
+(NP (NNP XII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 364
+(ROOT (S (-LRB- -LSB-) (X (SYM *)) (NP (CD 107)) (VP (-RRB- -RSB-) (NP (NNP XVII))) (. .)))
+
+
+NPs: 
+(NP (CD 107))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NNP XVII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 2, overall number of NPs: 2
+
+**************
+Sentence: 365
+(ROOT (FRAG (NP (DT Some) (NNPS Remarks)) (PP (IN upon) (NP (NP (NP (DT the) (NN Equation)) (PP (IN of) (NP (NNP Time)))) (, ,) (CC and) (NP (NP (DT the) (JJ true) (NN Manner)) (PP (IN of) (S (VP (VBG computing) (NP (PRP it)))))))) (. .)))
+
+
+NPs: 
+(NP (DT Some) (NNPS Remarks))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP
+  (NP (NP (DT the) (NN Equation)) (PP (IN of) (NP (NNP Time))))
+  (, ,)
+  (CC and)
+  (NP
+    (NP (DT the) (JJ true) (NN Manner))
+    (PP (IN of) (S (VP (VBG computing) (NP (PRP it)))))))
+depth: 8 ,length: 12
+number of NPs: 6
+
+Number of big NPs: 2, overall number of NPs: 8
+
+**************
+Sentence: 366
+(ROOT (NP (NP (DT A) (NN Letter)) (VP (VBG containing) (NP (NP (DT some) (NNS Experiments)) (PP (IN in) (NP (NNP Electricity)))) (, ,) (PP (TO to) (NP (NP (NP (NNP Mr.) (NNP Benjamin) (NNP Wilson)) (, ,) (NP (NP (NNP F.) (NNP R.) (NNP S.)) (PP (IN from) (NP (NNP Mr.) (NNP Torbern) (NNP Bergman)))) (, ,)) (PP (IN of) (NP (NNP Upsal))))) (, ,) (PP (IN in) (NP (NNP Sweden)))) (. .)))
+
+
+NPs: 
+(NP
+  (NP (DT A) (NN Letter))
+  (VP
+    (VBG containing)
+    (NP
+      (NP (DT some) (NNS Experiments))
+      (PP (IN in) (NP (NNP Electricity))))
+    (, ,)
+    (PP
+      (TO to)
+      (NP
+        (NP
+          (NP (NNP Mr.) (NNP Benjamin) (NNP Wilson))
+          (, ,)
+          (NP
+            (NP (NNP F.) (NNP R.) (NNP S.))
+            (PP (IN from) (NP (NNP Mr.) (NNP Torbern) (NNP Bergman))))
+          (, ,))
+        (PP (IN of) (NP (NNP Upsal)))))
+    (, ,)
+    (PP (IN in) (NP (NNP Sweden))))
+  (. .))
+depth: 10 ,length: 27
+number of NPs: 12
+
+Number of big NPs: 1, overall number of NPs: 13
+
+**************
+Sentence: 367
+(ROOT (FRAG (NP (NNP XXVII)) (. .)))
+
+
+NPs: 
+(NP (NNP XXVII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 368
+(ROOT (FRAG (NP (CD IV)) (. .)))
+
+
+NPs: 
+(NP (CD IV))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 369
+(ROOT (NP (NP (NN Fig.)) (NP (CD 1)) (. .)))
+
+
+NPs: 
+(NP (NP (NN Fig.)) (NP (CD 1)) (. .))
+depth: 4 ,length: 3
+number of NPs: 2
+
+Number of big NPs: 1, overall number of NPs: 3
+
+**************
+Sentence: 370
+(ROOT (FRAG (NP (CD LIII)) (. .)))
+
+
+NPs: 
+(NP (CD LIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 371
+(ROOT (FRAG (NP (NNP XII)) (. .)))
+
+
+NPs: 
+(NP (NNP XII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 372
+(ROOT (S (NP (NNP ERRATA)) (PP (IN In) (NP (NP (NP (NNP Mr.) (NNP ATWOOm) (POS 'S)) (NNP Disquisition)) (PP (IN on) (NP (NP (DT the) (NN Stability)) (PP (IN of) (NP (NNS Ships))))))) (. .)))
+
+
+NPs: 
+(NP (NNP ERRATA))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP
+  (NP (NP (NNP Mr.) (NNP ATWOOm) (POS 'S)) (NNP Disquisition))
+  (PP
+    (IN on)
+    (NP (NP (DT the) (NN Stability)) (PP (IN of) (NP (NNS Ships))))))
+depth: 7 ,length: 9
+number of NPs: 5
+
+Number of big NPs: 2, overall number of NPs: 7
+
+**************
+Sentence: 373
+(ROOT (FRAG (NP (NNP XVIII)) (. .)))
+
+
+NPs: 
+(NP (NNP XVIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 374
+(ROOT (FRAG (NP (NNP XX)) (. .)))
+
+
+NPs: 
+(NP (NNP XX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 375
+(ROOT (FRAG (NP (NNP XL)) (. .)))
+
+
+NPs: 
+(NP (NNP XL))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 376
+(ROOT (NP (NP (NN whole)) (PP (IN of) (NP (NP (DT that) (NN part)) (PP (IN of) (NP (NP (DT the) (NN force)) (SBAR (WHNP (WDT which)) (S (, ,) (PP (IN after) (NP (NN resolution))) (, ,) (VP (VBZ acts) (NP (NN parallel)) (PP (TO to) (NP (DT the) (NN plane))) (: ;) (SBAR (IN whereas) (PRN (-LRB- -LRB-) (PP (IN from) (NP (NP (DT the) (NNS experiments)) (SBAR (WHNP (WDT which)) (S (VP (MD will) (VP (VB be) (VP (ADVP (RB afterwards)) (VBN mentioned)))))))) (-RRB- -RRB-)) (S (, ,) (S (S (NP (PRP it)) (VP (VBZ appears) (SBAR (IN that) (S (NP (NP (NP (NN part)) (PP (IN of) (NP (NP (NP (DT that) (NN force) (NN actsupon)) (NP (DT the) (NN plane))) (: ;) (ADVP (RB also))))) (, ,) (NP (NP (DT the) (NN resistance)) (PP (IN of) (NP (NP (DT the) (NN fluid)) (SBAR (WHNP (WDT which)) (S (VP (VBZ escapes) (PP (IN from) (NP (DT the) (NN plane))) (, ,) (PP (IN into) (NP (DT the) (VBG surrounding) (NN fluid))))))))) (, ,)) (VP (MD may) (ADVP (RB probably)) (VP (VB tend) (S (VP (TO to) (VP (VB increase) (NP (NP (DT the) (JJ actual) (NN resistance)) (PP (IN above) (NP (NP (DT that)) (SBAR (WHNP (WDT which)) (S (NP (DT the) (NN theory)) (VP (VBZ gives)))) (, ,) (SBAR (WHPP (IN in) (WHNP (WDT which) (NP (WDT that) (NN consideration)))) (S (VP (VBZ does) (RB not) (VP (VB enter))))) (: ;))))))) (ADVP (CC but)) (, ,) (SBAR (IN as) (S (NP (DT this) (JJ latter) (NN circumstance)) (VP (VBZ affects) (NP (NP (DT the) (NN resistance)) (PP (IN at) (NP (DT all) (NNS angles))))))))))))) (, ,) (CC and) (S (NP (PRP we)) (VP (VBP do) (RB not) (VP (VB know) (NP (NP (DT the) (NN quantity)) (PP (IN of) (NP (NN effect))) (SBAR (WHNP (WDT which)) (S (NP (PRP it)) (VP (VBZ produces))))))))) (, ,) (NP (PRP we)) (VP (MD can) (RB not) (VP (VB say) (SBAR (WHADVP (WRB how)) (S (NP (PRP it)) (VP (MD may) (VP (VB affect) (NP (NP (DT the) (NN ratio)) (PP (IN of) (NP (DT the) (NNS resistances)))) (PP (IN at) (NP (JJ different) (NNS angles)))))))))))))))))) (. .)))
+
+
+NPs: 
+(NP
+  (NP (NN whole))
+  (PP
+    (IN of)
+    (NP
+      (NP (DT that) (NN part))
+      (PP
+        (IN of)
+        (NP
+          (NP (DT the) (NN force))
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (, ,)
+              (PP (IN after) (NP (NN resolution)))
+              (, ,)
+              (VP
+                (VBZ acts)
+                (NP (NN parallel))
+                (PP (TO to) (NP (DT the) (NN plane)))
+                (: ;)
+                (SBAR
+                  (IN whereas)
+                  (PRN
+                    (-LRB- -LRB-)
+                    (PP
+                      (IN from)
+                      (NP
+                        (NP (DT the) (NNS experiments))
+                        (SBAR
+                          (WHNP (WDT which))
+                          (S
+                            (VP
+                              (MD will)
+                              (VP
+                                (VB be)
+                                (VP
+                                  (ADVP (RB afterwards))
+                                  (VBN mentioned))))))))
+                    (-RRB- -RRB-))
+                  (S
+                    (, ,)
+                    (S
+                      (S
+                        (NP (PRP it))
+                        (VP
+                          (VBZ appears)
+                          (SBAR
+                            (IN that)
+                            (S
+                              (NP
+                                (NP
+                                  (NP (NN part))
+                                  (PP
+                                    (IN of)
+                                    (NP
+                                      (NP
+                                        (NP
+                                          (DT that)
+                                          (NN force)
+                                          (NN actsupon))
+                                        (NP (DT the) (NN plane)))
+                                      (: ;)
+                                      (ADVP (RB also)))))
+                                (, ,)
+                                (NP
+                                  (NP (DT the) (NN resistance))
+                                  (PP
+                                    (IN of)
+                                    (NP
+                                      (NP (DT the) (NN fluid))
+                                      (SBAR
+                                        (WHNP (WDT which))
+                                        (S
+                                          (VP
+                                            (VBZ escapes)
+                                            (PP
+                                              (IN from)
+                                              (NP
+                                                (DT the)
+                                                (NN plane)))
+                                            (, ,)
+                                            (PP
+                                              (IN into)
+                                              (NP
+                                                (DT the)
+                                                (VBG surrounding)
+                                                (NN fluid)))))))))
+                                (, ,))
+                              (VP
+                                (MD may)
+                                (ADVP (RB probably))
+                                (VP
+                                  (VB tend)
+                                  (S
+                                    (VP
+                                      (TO to)
+                                      (VP
+                                        (VB increase)
+                                        (NP
+                                          (NP
+                                            (DT the)
+                                            (JJ actual)
+                                            (NN resistance))
+                                          (PP
+                                            (IN above)
+                                            (NP
+                                              (NP (DT that))
+                                              (SBAR
+                                                (WHNP (WDT which))
+                                                (S
+                                                  (NP
+                                                    (DT the)
+                                                    (NN theory))
+                                                  (VP (VBZ gives))))
+                                              (, ,)
+                                              (SBAR
+                                                (WHPP
+                                                  (IN in)
+                                                  (WHNP
+                                                    (WDT which)
+                                                    (NP
+                                                      (WDT that)
+                                                      (NN
+                                                        consideration))))
+                                                (S
+                                                  (VP
+                                                    (VBZ does)
+                                                    (RB not)
+                                                    (VP (VB enter)))))
+                                              (: ;)))))))
+                                  (ADVP (CC but))
+                                  (, ,)
+                                  (SBAR
+                                    (IN as)
+                                    (S
+                                      (NP
+                                        (DT this)
+                                        (JJ latter)
+                                        (NN circumstance))
+                                      (VP
+                                        (VBZ affects)
+                                        (NP
+                                          (NP
+                                            (DT the)
+                                            (NN resistance))
+                                          (PP
+                                            (IN at)
+                                            (NP
+                                              (DT all)
+                                              (NNS angles)))))))))))))
+                      (, ,)
+                      (CC and)
+                      (S
+                        (NP (PRP we))
+                        (VP
+                          (VBP do)
+                          (RB not)
+                          (VP
+                            (VB know)
+                            (NP
+                              (NP (DT the) (NN quantity))
+                              (PP (IN of) (NP (NN effect)))
+                              (SBAR
+                                (WHNP (WDT which))
+                                (S (NP (PRP it)) (VP (VBZ produces)))))))))
+                    (, ,)
+                    (NP (PRP we))
+                    (VP
+                      (MD can)
+                      (RB not)
+                      (VP
+                        (VB say)
+                        (SBAR
+                          (WHADVP (WRB how))
+                          (S
+                            (NP (PRP it))
+                            (VP
+                              (MD may)
+                              (VP
+                                (VB affect)
+                                (NP
+                                  (NP (DT the) (NN ratio))
+                                  (PP
+                                    (IN of)
+                                    (NP (DT the) (NNS resistances))))
+                                (PP
+                                  (IN at)
+                                  (NP (JJ different) (NNS angles))))))))))))))))))
+  (. .))
+depth: 29 ,length: 125
+number of NPs: 45
+
+Number of big NPs: 1, overall number of NPs: 46
+
+**************
+Sentence: 377
+(ROOT (FRAG (NP (CD IX)) (. .)))
+
+
+NPs: 
+(NP (CD IX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 378
+(ROOT (S (PP (IN of) (NP (NP (DT the) (NN heat)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (VP (VBN produced))))))) (: ;) (S (CC but) (, ,) (PP (IN in) (NP (NP (DT an) (NN investigation)) (PP (IN of) (NP (DT this) (NN kind))))) (, ,) (NP (PRP I)) (VP (VBD thought) (SBAR (IN that) (S (NP (DT no) (NNS pains)) (VP (MD should) (VP (VP (VB be) (VP (VBN spared) (S (VP (TO to) (VP (VB clear) (PRT (RP away)) (NP (DT the) (JJ rubbish))))))) (, ,) (CC and) (VP (VB leave) (NP (NP (DT the) (NN subject)) (PP (IN as) (ADJP (JJ naked) (CC and) (JJ open)))) (PP (TO to) (NP (NN inspection))) (PP (IN as) (ADJP (JJ possible)))))))))) (. .)))
+
+
+NPs: 
+(NP
+  (NP (DT the) (NN heat))
+  (SBAR (WHNP (WDT that)) (S (VP (VBD was) (VP (VBN produced))))))
+depth: 7 ,length: 5
+number of NPs: 1
+
+(NP
+  (NP (DT an) (NN investigation))
+  (PP (IN of) (NP (DT this) (NN kind))))
+depth: 5 ,length: 5
+number of NPs: 2
+
+(NP (PRP I))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (DT no) (NNS pains))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP (DT the) (JJ rubbish))
+depth: 3 ,length: 2
+number of NPs: 0
+
+(NP
+  (NP (DT the) (NN subject))
+  (PP (IN as) (ADJP (JJ naked) (CC and) (JJ open))))
+depth: 5 ,length: 6
+number of NPs: 1
+
+(NP (NN inspection))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 7, overall number of NPs: 11
+
+**************
+Sentence: 379
+(ROOT (NP (NN XVII) (. .)))
+
+
+NPs: 
+(NP (NN XVII) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 380
+(ROOT (FRAG (NP (NNP XIV)) (. .)))
+
+
+NPs: 
+(NP (NNP XIV))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 381
+(ROOT (INTJ (NN VII) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 382
+(ROOT (FRAG (SBAR (WHNP (NP (JJ possible)) (PRN (, ,) (CC and) (ADVP (RB also)))) (S (VP (TO to) (VP (VB differ) (ADVP (ADVP (RB as) (JJ much) (PP (IN in) (NP (NN magnitude)))) (SBAR (IN as) (S (NP (PRP we)) (VP (MD can) (VP (VB find) (NP (PRP them))))))))))) (. .)))
+
+
+NPs: 
+(NP (JJ possible))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (NN magnitude))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP we))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP (PRP them))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 4, overall number of NPs: 4
+
+**************
+Sentence: 383
+(ROOT (FRAG (NP (NNP XXIII)) (. .)))
+
+
+NPs: 
+(NP (NNP XXIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 384
+(ROOT (FRAG (NP (CD IX)) (. .)))
+
+
+NPs: 
+(NP (CD IX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 385
+(ROOT (FRAG (NP (CD IV)) (. .)))
+
+
+NPs: 
+(NP (CD IV))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 386
+(ROOT (NP (NP (NNP V.) (NNS Experiments)) (PP (IN with) (NP (JJ Chinese) (NNP Hemp) (NN Seed))) (. .)))
+
+
+NPs: 
+(NP
+  (NP (NNP V.) (NNS Experiments))
+  (PP (IN with) (NP (JJ Chinese) (NNP Hemp) (NN Seed)))
+  (. .))
+depth: 5 ,length: 7
+number of NPs: 2
+
+Number of big NPs: 1, overall number of NPs: 3
+
+**************
+Sentence: 387
+(ROOT (NP (NN XXII) (. .)))
+
+
+NPs: 
+(NP (NN XXII) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 388
+(ROOT (NP (NN XVII) (. .)))
+
+
+NPs: 
+(NP (NN XVII) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 389
+(ROOT (NP (NN XXV) (. .)))
+
+
+NPs: 
+(NP (NN XXV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 390
+(ROOT (FRAG (NP (NNP XXVI)) (. .)))
+
+
+NPs: 
+(NP (NNP XXVI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 391
+(ROOT (FRAG (NP (NNP II)) (. .)))
+
+
+NPs: 
+(NP (NNP II))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 392
+(ROOT (FRAG (NP (NNP XXVI)) (. .)))
+
+
+NPs: 
+(NP (NNP XXVI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 393
+(ROOT (NP (NN XI) (. .)))
+
+
+NPs: 
+(NP (NN XI) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 394
+(ROOT (S (NP (NP (NNS Experiments)) (PP (PP (IN on) (NP (DT the) (NNP Tourmalin))) (: :) (PP (IN by) (NP (NP (NNP Mr.) (NNP Benjamin) (NNP Wilson)) (, ,) (NP (NNP F.) (NNP R.)))))) (VP (NN S)) (. .)))
+
+
+NPs: 
+(NP
+  (NP (NNS Experiments))
+  (PP
+    (PP (IN on) (NP (DT the) (NNP Tourmalin)))
+    (: :)
+    (PP
+      (IN by)
+      (NP
+        (NP (NNP Mr.) (NNP Benjamin) (NNP Wilson))
+        (, ,)
+        (NP (NNP F.) (NNP R.))))))
+depth: 7 ,length: 12
+number of NPs: 5
+
+Number of big NPs: 1, overall number of NPs: 6
+
+**************
+Sentence: 395
+(ROOT (S (S (NP (NP (DT An) (NNP Account)) (PP (IN of) (NP (DT the) (NNP Meteor)))) (VP (VBN seen) (PP (IN at) (NP (NP (NNP Chigwell) (NNP Row)) (, ,) (PP (IN in) (NP (NNP Essex))) (, ,))) (PP (IN on) (NP (NP (DT the) (JJ 20th)) (PP (IN of) (NP (NNP October) (CD 1759))))))) (: :) (S (PP (IN In) (NP (NP (NP (DT a) (NN Letter)) (PP (TO to) (NP (DT the) (NNP Rev.) (NNP Dr.) (NNP Birch)))) (, ,) (NP (NP (NNP Secretary)) (PP (IN of) (NP (DT the) (NNP Royal) (NNP Society)))) (, ,) (PP (IN from) (NP (NNP Mr.) (NNP William) (NNP Dutton))))) (, ,) (NP (NP (NNP Watchmaker)) (PP (IN in) (NP (NNP Fleet-street))))) (. .)))
+
+
+NPs: 
+(NP
+  (NP (DT An) (NNP Account))
+  (PP (IN of) (NP (DT the) (NNP Meteor))))
+depth: 5 ,length: 5
+number of NPs: 2
+
+(NP
+  (NP (NNP Chigwell) (NNP Row))
+  (, ,)
+  (PP (IN in) (NP (NNP Essex)))
+  (, ,))
+depth: 5 ,length: 6
+number of NPs: 2
+
+(NP
+  (NP (DT the) (JJ 20th))
+  (PP (IN of) (NP (NNP October) (CD 1759))))
+depth: 5 ,length: 5
+number of NPs: 2
+
+(NP
+  (NP
+    (NP (DT a) (NN Letter))
+    (PP (TO to) (NP (DT the) (NNP Rev.) (NNP Dr.) (NNP Birch))))
+  (, ,)
+  (NP
+    (NP (NNP Secretary))
+    (PP (IN of) (NP (DT the) (NNP Royal) (NNP Society))))
+  (, ,)
+  (PP (IN from) (NP (NNP Mr.) (NNP William) (NNP Dutton))))
+depth: 6 ,length: 18
+number of NPs: 7
+
+(NP (NP (NNP Watchmaker)) (PP (IN in) (NP (NNP Fleet-street))))
+depth: 5 ,length: 3
+number of NPs: 2
+
+Number of big NPs: 5, overall number of NPs: 20
+
+**************
+Sentence: 396
+(ROOT (FRAG (NP (CD LVIII)) (. .)))
+
+
+NPs: 
+(NP (CD LVIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 397
+(ROOT (NP (NN LXXXV) (. .)))
+
+
+NPs: 
+(NP (NN LXXXV) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 398
+(ROOT (FRAG (NP (NNP VI)) (. .)))
+
+
+NPs: 
+(NP (NNP VI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 399
+(ROOT (FRAG (NP (NNP XIV)) (. .)))
+
+
+NPs: 
+(NP (NNP XIV))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 400
+(ROOT (FRAG (NP (NNP LX)) (. .)))
+
+
+NPs: 
+(NP (NNP LX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 401
+(ROOT (S (NP (NNP III)) (PP (IN On) (NP (NP (DT the) (NNP Nature) (CC and) (NNP Construction)) (PP (IN of) (NP (DT the) (NNP Sun))))) (VP (VBD andfixed) (NP (NNP Stars))) (. .)))
+
+
+NPs: 
+(NP (NNP III))
+depth: 3 ,length: 1
+number of NPs: 0
+
+(NP
+  (NP (DT the) (NNP Nature) (CC and) (NNP Construction))
+  (PP (IN of) (NP (DT the) (NNP Sun))))
+depth: 5 ,length: 7
+number of NPs: 2
+
+(NP (NNP Stars))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 3, overall number of NPs: 5
+
+**************
+Sentence: 402
+(ROOT (FRAG (NP (NNP XIX)) (. .)))
+
+
+NPs: 
+(NP (NNP XIX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 403
+(ROOT (FRAG (NP (CD VIII)) (. .)))
+
+
+NPs: 
+(NP (CD VIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 404
+(ROOT (FRAG (NP (NNP VI)) (. .)))
+
+
+NPs: 
+(NP (NNP VI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 405
+(ROOT (FRAG (NP (NNP XIV)) (. .)))
+
+
+NPs: 
+(NP (NNP XIV))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 406
+(ROOT (NP (: -) (NP (NN XIII) (NNS Observations)) (PP (IN on) (NP (NP (DT the) (JJS best) (NNS Methods)) (PP (IN of) (S (VP (VBG producing) (NP (NN artifcia) (NNP Cold))))))) (. .)))
+
+
+NPs: 
+(NP
+  (: -)
+  (NP (NN XIII) (NNS Observations))
+  (PP
+    (IN on)
+    (NP
+      (NP (DT the) (JJS best) (NNS Methods))
+      (PP
+        (IN of)
+        (S (VP (VBG producing) (NP (NN artifcia) (NNP Cold)))))))
+  (. .))
+depth: 9 ,length: 12
+number of NPs: 4
+
+Number of big NPs: 1, overall number of NPs: 5
+
+**************
+Sentence: 407
+(ROOT (FRAG (NP (NNP XVI)) (. .)))
+
+
+NPs: 
+(NP (NNP XVI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 408
+(ROOT (NP (NN X1) (. .)))
+
+
+NPs: 
+(NP (NN X1) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 409
+(ROOT (NP (NN XVII) (. .)))
+
+
+NPs: 
+(NP (NN XVII) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 410
+(ROOT (FRAG (NP (NNP XII)) (. .)))
+
+
+NPs: 
+(NP (NNP XII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 411
+(ROOT (FRAG (NP (NNP XXXVI)) (. .)))
+
+
+NPs: 
+(NP (NNP XXXVI))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 412
+(ROOT (NP (NP (NNP XXVI) (CD Two) (NNS Letters)) (PP (IN of) (NP (NP (NNP Mr.) (NNP John) (NNP Harrison)) (PP (IN of) (NP (NP (NNP Cambridge)) (PP (IN in) (NP (NNP New) (NNP England))))) (, ,) (PP (TO to) (NP (NP (NNP Mr.) (NNP Peter) (NNP Collinson)) (, ,) (NP (NP (NNP F.) (NNP R.) (NNP S.)) (PP (VBG concerning) (NP (NP (DT a) (JJ small) (NNP Species)) (PP (IN of) (NP (NNP Wasps)))))))))) (. .)))
+
+
+NPs: 
+(NP
+  (NP (NNP XXVI) (CD Two) (NNS Letters))
+  (PP
+    (IN of)
+    (NP
+      (NP (NNP Mr.) (NNP John) (NNP Harrison))
+      (PP
+        (IN of)
+        (NP
+          (NP (NNP Cambridge))
+          (PP (IN in) (NP (NNP New) (NNP England)))))
+      (, ,)
+      (PP
+        (TO to)
+        (NP
+          (NP (NNP Mr.) (NNP Peter) (NNP Collinson))
+          (, ,)
+          (NP
+            (NP (NNP F.) (NNP R.) (NNP S.))
+            (PP
+              (VBG concerning)
+              (NP
+                (NP (DT a) (JJ small) (NNP Species))
+                (PP (IN of) (NP (NNP Wasps))))))))))
+  (. .))
+depth: 12 ,length: 28
+number of NPs: 13
+
+Number of big NPs: 1, overall number of NPs: 14
+
+**************
+Sentence: 413
+(ROOT (NP (NN LII) (. .)))
+
+
+NPs: 
+(NP (NN LII) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 414
+(ROOT (FRAG (NP (NNP LXIX)) (. .)))
+
+
+NPs: 
+(NP (NNP LXIX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 415
+(ROOT (NP (NN XIII) (. .)))
+
+
+NPs: 
+(NP (NN XIII) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 416
+(ROOT (NP (NP (NP (DT Some) (NNS Observations)) (PP (IN upon) (NP (NP (DT the) (NN Sex)) (PP (IN of) (NP (NP (NNS Flowers)) (PP (IN by) (NP (NNP W.) (NNP Watson)))))))) (, ,) (NP (NP (NNP F.) (NNP R.) (NNP S.)) (VP (VBN occasioned) (PP (IN by) (NP (DT a) (NN Letter))) (PP (IN upon) (NP (DT the) (JJ same) (NN Subject))))) (, ,) (PP (IN by) (NP (NP (NNP Mr.) (NNP Mylius)) (PP (IN of) (NP (NNP Berlin))))) (. .)))
+
+
+NPs: 
+(NP
+  (NP
+    (NP (DT Some) (NNS Observations))
+    (PP
+      (IN upon)
+      (NP
+        (NP (DT the) (NN Sex))
+        (PP
+          (IN of)
+          (NP
+            (NP (NNS Flowers))
+            (PP (IN by) (NP (NNP W.) (NNP Watson))))))))
+  (, ,)
+  (NP
+    (NP (NNP F.) (NNP R.) (NNP S.))
+    (VP
+      (VBN occasioned)
+      (PP (IN by) (NP (DT a) (NN Letter)))
+      (PP (IN upon) (NP (DT the) (JJ same) (NN Subject)))))
+  (, ,)
+  (PP
+    (IN by)
+    (NP (NP (NNP Mr.) (NNP Mylius)) (PP (IN of) (NP (NNP Berlin)))))
+  (. .))
+depth: 10 ,length: 29
+number of NPs: 14
+
+Number of big NPs: 1, overall number of NPs: 15
+
+**************
+Sentence: 417
+(ROOT (FRAG (NP (NNP LXXIX)) (. .)))
+
+
+NPs: 
+(NP (NNP LXXIX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 418
+(ROOT (NP (NN XVII) (. .)))
+
+
+NPs: 
+(NP (NN XVII) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 419
+(ROOT (NP (NP (NP (DT A) (NN Letter)) (PP (IN of) (NP (NP (NNP Benjamin) (NNP Franklin)) (, ,) (NP (NNP Esq))))) (: ;) (NP (PP (TO to) (NP (NP (NNP Mr.) (NNP Peter) (NNP Collinson)) (, ,) (NP (NNP F.) (NNP R.) (NNP S.)))) (PP (VBG concerning) (NP (DT an) (JJ electrical) (NNP Kite)))) (. .)))
+
+
+NPs: 
+(NP
+  (NP
+    (NP (DT A) (NN Letter))
+    (PP
+      (IN of)
+      (NP (NP (NNP Benjamin) (NNP Franklin)) (, ,) (NP (NNP Esq)))))
+  (: ;)
+  (NP
+    (PP
+      (TO to)
+      (NP
+        (NP (NNP Mr.) (NNP Peter) (NNP Collinson))
+        (, ,)
+        (NP (NNP F.) (NNP R.) (NNP S.))))
+    (PP (VBG concerning) (NP (DT an) (JJ electrical) (NNP Kite))))
+  (. .))
+depth: 7 ,length: 21
+number of NPs: 10
+
+Number of big NPs: 1, overall number of NPs: 11
+
+**************
+Sentence: 420
+(ROOT (FRAG (NP (NNP XXIII)) (. .)))
+
+
+NPs: 
+(NP (NNP XXIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 421
+(ROOT (FRAG (NP (NNP XXIII)) (. .)))
+
+
+NPs: 
+(NP (NNP XXIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 422
+(ROOT (NP (NNS TRANSACTIONS) (. .)))
+
+
+NPs: 
+(NP (NNS TRANSACTIONS) (. .))
+depth: 3 ,length: 2
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 423
+(ROOT (FRAG (NP (NNP XVIII)) (. .)))
+
+
+NPs: 
+(NP (NNP XVIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 424
+(ROOT (FRAG (NP (NNP XX)) (. .)))
+
+
+NPs: 
+(NP (NNP XX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 425
+(ROOT (FRAG (NP (NNP XXIX)) (. .)))
+
+
+NPs: 
+(NP (NNP XXIX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 426
+(ROOT (FRAG (NP (NNP XXXIX)) (. .)))
+
+
+NPs: 
+(NP (NNP XXXIX))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 427
+(ROOT (FRAG (NP (NNP XLIII)) (. .)))
+
+
+NPs: 
+(NP (NNP XLIII))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 428
+(X (DT the) (JJ great) (NN magnitude) (IN of) (NN b) (, ,) (NN 2b) (, ,) (NN 3b) (, ,) (NN 4b) (, ,) (NN 5b) (, ,) (NN 6b) (, ,) (NN 7b) (, ,) (CC &) (NNP c.) (IN in) (NN comparison) (IN of) (CD 1) (, ,) (MD will) (VB be) (RB almost) (JJ equal) (TO to) (-LRB- -LRB-) (IN though) (RB somewhat) (JJR greater) (IN than) (-RRB- -RRB-) (CD 1) (CC +) (CD 1/b) (NN AX) (CC +) (NN b/2b) (NN BXX) (CC +) (JJ 2b/3b) (NN CX3) (CC +) (NN 3b/4b) (NN DX4) (CC +) (NN 4b/5b) (NN EX5) (CC +) (JJ 5b/6b) (NN FX6) (CC +) (JJ 6b/7b) (NN GX7) (CC +) (JJ 7b/8b) (NN HX8) (CC +) (CC &) (NN c.) (CC or) (CD 1) (CC +) (CD 1/b) (NN AX) (CC +) (CD 1/2) (NN BXX) (CC +) (CD 2/3) (NN CX3) (CC +) (CD 3/4) (NN DX4) (CC +) (CD 4/5) (NN EX5) (CC +) (CD 5/6) (NN FX6) (CC +) (CD 6/7) (NN GX7) (CC +) (CD 7/8) (NN HX8) (CC +) (CC &) (NN c.) (CC or) (CD 1) (CC +) (CD 1/b) (NN x1xX) (CC +) (CD 1/2) (CC x) (CD 1/b) (NN x1x) (NN XX) (CC +) (CD 2/3) (CC x) (CD ~) (CC x) (CD 1/b) (NN x1x) (NN X3) (CC +) (CD 3/4) (CC x) (CD 2/3) (CC x) (CD 1/2) (CC x) (CD 1/b) (NN x1x) (NN X4) (CC +) (CC &) (NN c.) (CC or) (CD 1) (CC +) (CD 1/b) (NN X) (CC +) (CD 1/b) (CC x) (CD 1/2) (NN XX) (CC +) (CD 1/b) (CC x) (CD 1/3) (CC x) (NN X3) (CC +) (CD 1/b) (CC x) (CD 1/4) (NN X4) (CC +) (CC &) (NN c.) (CC or) (CD 1) (CC +) (NN x/b) (CC +) (NN xx/2b) (CC +) (NN x3/3b) (CC +) (NN x4/4b) (CC +) (NN x5/5b) (CC +) (NN x6/6b) (CC +) (NN x7/7b) (CC +) (NN x8/8b) (CC +) (CC &) (NNP c.) (RB Therefore) (, ,) (VBG multiplying) (DT both) (NNS sides) (IN by) (NN b) (, ,) (PRP we) (MD shall) (VB have) (NN bx) (CD 1) (: /) (CD ~) (CD 1) (NN x) (NN 1/b) (RB nearly) (JJ =) (NN b) (CC +) (NN X) (CC +) (NN xx/2) (CC +) (NN x3/3) (CC +) (NN x4/4) (CC +) (NN x5/5) (CC +) (NN x6/6) (CC +) (NN x7/7) (CC +) (NN x8/8) (CC +) (CC &) (NN c.) (: ;) (CC and) (, ,) (VBG subtracting) (NN b) (IN from) (DT both) (NNS sides) (, ,) (NN X) (CC +) (NN xx/2) (CC +) (NN x3/3) (CC +) (NN x4/4) (CC +) (NN x5/5) (CC +) (NN x6/6) (CC +) (NN x7/7) (CC +) (NN x8/8) (CC +) (CC &) (NNP c.) (RB nearly) (JJ =) (NN bx) (CD 1) (: /) (CD ~) (CD 1) (NN x) (NN 1/b) (NN b) (JJ =) (NN bx) (NN ~) (CD 1/1) (CC x) (CD 1/b) (NN b) (: ;) (DT that) (VBZ is) (, ,) (DT the) (VBN proposed) (NN series) (NN X) (CC +) (NN xx/2) (CC +) (NN x3/3) (CC +) (NN x4/4) (CC +) (NN x5/5) (CC +) (CC &) (NNP c.) (MD will) (VB be) (RB nearly) (JJ equal) (TO to) (VB bx) (NN ~) (CD 1/1) (CC x) (CD 1/b) (NN b) (. .))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+**************
+Sentence: 429
+(ROOT (FRAG (NP (NNP XIV)) (. .)))
+
+
+NPs: 
+(NP (NNP XIV))
+depth: 3 ,length: 1
+number of NPs: 0
+
+Number of big NPs: 1, overall number of NPs: 1
+
+**************
+Sentence: 430
+(ROOT (INTJ (NN X) (. .)))
+
+
+NPs: 
+Number of big NPs: 0, overall number of NPs: 0
+
+******** Final statistics ********
+Number of big NPs for this time period: 488, average per sentence: 1.1348837209302325
+Number of all NPs for this time period: 1109, average per sentence: 2.5790697674418603
+Average length of NPs: 4.327868852459017
+Average depth of NPs: 3.9528688524590163
