@@ -1,3 +1,16 @@
+"""
+extracting NPs from parse trees 
+designed for both the RSC and the OBC corpora
+
+author: Polina Stadnikova
+
+
+for each corpus, the input directory contains a folder with 5 diffent folders (according to the time period)
+usage: run the script and follow the instructions
+
+"""
+
+
 import os
 from nltk import tree
 
@@ -20,20 +33,21 @@ def extract(inputdir, outputdir, corpus):
         # outputpath=os.path.join(outputdir,folder)
         # os.makedirs(outputpath)
         dirr = inputdir + '/' + folder
+	#take first 10 files
         for file in os.listdir(dirr)[:10]:
             names.write(str(folder)+'\t'+str(file)+'\n')
             i += 1
+	    #get parse trees
             if corpus == 'obc':
                 content = open(dirr + '/' + file).readlines()[1][10:]
             elif corpus == 'rsc':
                 content = open(dirr + '/' + file).readlines()[1][8:]
-            # print(content)
             tr = tree.Tree.fromstring(content)
-            # tr.draw()
             stat.write('**************' + '\n')
             stat.write('Sentence: ' + str(i) + '\n')
             stat.write(content + '\n')
             stat.write('\n')
+	    #filter out
             subtrees = tr.subtrees(lambda tr: tr.label() == 'NP')
             agenda = []
             stat.write('NPs: ' + '\n')
@@ -55,7 +69,6 @@ def extract(inputdir, outputdir, corpus):
                     nps += 1
                     overall_length += len(st.leaves())
                     overall_depth += st.height()
-
                 agenda.append(st.subtrees())
             overall_big_np += bignp
             overall_all_np += nps
